@@ -1,0 +1,132 @@
+dis_doid	dis_name	numgenes_CLINGEN	numgenes_CGI	numgenes_CTD_human	numgenes_GENOMICS_ENGLAND	numgenes_ORPHANET	numgenes_PSYGENET	numgenes_UNIPROT	numgenes_dir	numgenes_prop
+DOID:863	nervous system disease	37	47	1657	974	601	0	553	53	2206
+DOID:150	disease of mental health	21	0	955	433	92	1132	72	12	2069
+DOID:77	gastrointestinal system disease	5	71	1433	162	76	0	553	12	1987
+DOID:1287	cardiovascular system disease	71	0	1087	227	163	0	96	36	1240
+DOID:0014667	disease of metabolism	88	1	943	413	253	2	252	10	1109
+DOID:2914	immune system disease	4	120	907	209	163	0	81	49	1059
+DOID:936	brain disease	15	32	747	320	156	0	118	27	1034
+DOID:5295	intestinal disease	1	55	532	104	7	0	476	8	1026
+DOID:850	lung disease	1	42	771	53	23	0	109	78	895
+DOID:10155	intestinal cancer	0	55	406	20	0	0	468	12	846
+DOID:5672	large intestine cancer	0	54	401	19	0	0	468	878	840
+DOID:9256	colorectal cancer	0	1	399	19	0	0	467	819	821
+DOID:65	connective tissue disease	30	16	623	177	167	0	100	13	761
+DOID:74	hematopoietic system disease	21	111	609	205	143	0	94	8	759
+DOID:178	vascular disease	23	0	653	95	49	0	9	18	745
+DOID:5614	eye disease	13	6	427	439	188	0	164	212	710
+DOID:0080199	colorectal carcinoma	0	0	277	18	0	0	460	702	702
+DOID:114	heart disease	49	0	570	140	119	0	87	46	665
+DOID:1612	breast cancer	24	43	608	13	19	0	6	1087	639
+DOID:1324	lung cancer	1	42	524	4	3	0	105	349	624
+DOID:3905	lung carcinoma	0	41	523	3	3	0	104	271	623
+DOID:0080001	bone disease	26	9	509	143	124	0	84	10	618
+DOID:655	inherited metabolic disorder	87	1	467	325	226	0	219	17	600
+DOID:557	kidney disease	5	21	487	99	78	0	62	205	597
+DOID:2531	hematologic cancer	1	120	475	83	71	0	33	12	581
+DOID:1240	leukemia	1	110	443	72	67	0	27	55	543
+DOID:1289	neurodegenerative disease	2	0	429	152	142	0	110	39	501
+DOID:409	liver disease	2	12	448	10	15	0	14	72	469
+DOID:37	skin disease	9	45	391	101	87	0	68	85	463
+DOID:1059	intellectual disability	19	0	106	389	75	0	61	472	453
+DOID:1826	epilepsy	11	0	262	172	65	0	23	109	426
+DOID:3996	urinary system cancer	2	34	313	13	52	0	33	8	376
+DOID:3908	non-small cell lung carcinoma	0	32	275	0	0	0	90	156	371
+DOID:10534	stomach cancer	1	20	291	2	3	0	50	305	344
+DOID:9351	diabetes mellitus	0	0	301	37	10	0	14	32	320
+DOID:3620	central nervous system cancer	2	35	241	15	24	0	38	89	298
+DOID:417	autoimmune hypersensitivity disease	1	0	275	21	33	0	6	42	297
+DOID:574	peripheral nervous system disease	0	0	232	75	41	0	67	55	264
+DOID:263	kidney cancer	2	21	186	13	52	0	25	45	246
+DOID:8692	myeloid leukemia	1	47	185	35	20	0	13	26	240
+DOID:9352	type 2 diabetes mellitus	0	0	224	15	4	0	10	223	229
+DOID:1319	brain cancer	2	32	175	7	23	0	35	39	228
+DOID:5679	retinal disease	9	3	169	142	97	0	98	29	228
+DOID:0050700	cardiomyopathy	40	0	149	105	72	0	61	130	224
+DOID:0060058	lymphoma	0	53	178	18	11	0	14	66	218
+DOID:3910	lung adenocarcinoma	0	15	151	0	0	0	54	206	212
+DOID:423	myopathy	12	0	174	87	83	0	61	30	210
+DOID:9119	acute myeloid leukemia	1	43	153	34	14	0	10	173	205
+DOID:2394	ovarian cancer	0	30	122	12	17	0	69	137	202
+DOID:1037	lymphoblastic leukemia	0	41	145	9	36	0	5	8	193
+DOID:403	mouth disease	1	1	150	27	25	0	9	12	189
+DOID:50	thyroid gland disease	2	13	160	20	35	0	16	13	189
+DOID:4001	ovarian carcinoma	0	29	119	1	1	0	56	159	188
+DOID:4451	renal carcinoma	1	16	128	4	37	0	20	5	178
+DOID:4450	renal cell carcinoma	1	13	128	4	37	0	20	148	177
+DOID:8466	retinal degeneration	9	0	128	118	71	0	75	21	175
+DOID:219	colon cancer	0	10	152	1	0	0	10	159	163
+DOID:365	bladder disease	0	16	148	0	0	0	10	5	163
+DOID:3571	liver cancer	0	12	143	2	2	0	11	612	159
+DOID:684	hepatocellular carcinoma	0	11	142	2	2	0	11	613	158
+DOID:4960	bone marrow cancer	0	30	104	51	13	0	9	32	156
+DOID:870	neuropathy	0	0	127	70	37	0	62	58	150
+DOID:0050387	nonpapillary renal cell carcinoma	0	13	128	3	1	0	19	148	148
+DOID:4467	clear cell renal cell carcinoma	0	13	128	2	1	0	19	148	148
+DOID:11054	urinary bladder cancer	0	16	132	0	0	0	10	141	147
+DOID:2355	anemia	9	0	101	90	39	0	32	34	146
+DOID:1443	cerebral degeneration	2	0	133	31	21	0	27	101	143
+DOID:3069	astrocytoma	0	13	96	0	19	0	32	25	141
+DOID:0060060	non-Hodgkin lymphoma	0	43	112	3	10	0	7	32	141
+DOID:480	movement disease	1	0	53	94	26	0	18	29	138
+DOID:612	primary immunodeficiency disease	2	0	90	93	45	0	33	23	135
+DOID:2234	focal epilepsy	0	0	129	11	10	0	8	107	134
+DOID:2256	osteochondrodysplasia	23	0	62	72	55	0	39	20	131
+DOID:700	mitochondrial metabolism disease	39	0	58	92	71	0	48	49	128
+DOID:3963	thyroid carcinoma	1	13	97	8	29	0	8	44	126
+DOID:1781	thyroid cancer	1	13	97	8	29	0	8	37	126
+DOID:3068	glioblastoma multiforme	0	11	79	0	12	0	32	113	123
+DOID:9455	lipid storage disease	1	0	115	20	16	0	19	19	119
+DOID:10584	retinitis pigmentosa	8	0	73	91	31	0	50	104	114
+DOID:14330	Parkinson's disease	0	0	108	14	7	0	14	85	112
+DOID:9252	amino acid metabolic disorder	31	0	95	63	40	0	55	13	103
+DOID:9884	muscular dystrophy	0	0	71	55	50	0	41	8	102
+DOID:0050951	hereditary ataxia	2	0	76	65	60	0	43	8	98
+DOID:543	dystonia	0	0	16	87	23	0	16	93	97
+DOID:1247	blood coagulation disease	11	0	63	56	31	0	29	16	89
+DOID:12930	dilated cardiomyopathy	0	0	50	34	45	0	31	48	87
+DOID:715	T-cell leukemia	0	16	56	1	24	0	0	5	83
+DOID:1682	congenital heart disease	0	0	66	19	19	0	15	46	82
+DOID:12449	aplastic anemia	9	0	39	64	22	0	20	7	76
+DOID:520	aortic disease	23	0	20	54	10	0	1	6	72
+DOID:2476	hereditary spastic paraplegia	1	0	21	24	63	0	37	15	69
+DOID:1441	autosomal dominant cerebellar ataxia	1	0	56	29	32	0	20	34	68
+DOID:0050565	autosomal recessive nonsyndromic deafness	3	0	62	62	0	0	38	16	67
+DOID:0050908	myelodysplastic syndrome	0	18	29	29	2	0	3	67	67
+DOID:3627	aortic aneurysm	23	0	14	54	10	0	1	12	66
+DOID:332	amyotrophic lateral sclerosis	0	0	44	27	38	0	23	58	66
+DOID:3146	lipid metabolism disorder	6	0	46	28	29	0	22	6	63
+DOID:83	cataract	0	0	45	21	27	0	27	37	61
+DOID:1342	congenital hypoplastic anemia	9	0	25	54	20	0	14	32	60
+DOID:1793	pancreatic cancer	0	17	28	2	8	0	15	107	58
+DOID:1040	chronic lymphocytic leukemia	0	15	38	0	11	0	1	55	57
+DOID:1703	Richter's syndrome	0	15	37	0	10	0	1	55	55
+DOID:5603	acute T cell leukemia	0	16	26	1	24	0	0	83	53
+DOID:4905	pancreatic carcinoma	0	14	28	1	0	0	14	107	51
+DOID:0050557	congenital muscular dystrophy	0	0	40	23	28	0	13	13	50
+DOID:2214	inherited blood coagulation disease	10	0	33	34	23	0	21	17	49
+DOID:11724	limb-girdle muscular dystrophy	0	0	22	27	16	0	23	52	47
+DOID:11984	hypertrophic cardiomyopathy	36	0	19	29	0	0	21	57	43
+DOID:628	combined T cell and B cell immunodeficiency	1	0	24	28	26	0	16	42	38
+DOID:0050572	cone-rod dystrophy	8	0	18	18	29	0	13	36	37
+DOID:2747	glycogen storage disease	1	0	13	29	12	0	11	27	32
+DOID:627	severe combined immunodeficiency	1	0	18	25	22	0	12	20	32
+DOID:161	keratosis	2	0	18	10	13	0	8	5	30
+DOID:2218	blood platelet disease	4	0	11	21	11	0	7	16	30
+DOID:0110274	autosomal recessive limb-girdle muscular dystrophy	0	0	12	23	9	0	20	8	30
+DOID:4535	hypotrichosis	0	0	20	15	11	0	9	9	29
+DOID:14791	Leber congenital amaurosis	8	0	17	19	21	0	14	22	29
+DOID:3635	congenital myasthenic syndrome	0	0	20	26	0	0	20	24	28
+DOID:13636	Fanconi anemia	7	0	22	25	8	0	13	25	28
+DOID:10595	Charcot-Marie-Tooth disease	0	0	24	15	14	0	13	17	27
+DOID:583	hemolytic anemia	0	0	24	15	13	0	9	15	26
+DOID:0050451	Brugada syndrome	11	0	4	12	13	0	6	28	25
+DOID:3762	cytochrome-c oxidase deficiency disease	0	0	13	15	11	0	7	24	24
+DOID:0060264	pontocerebellar hypoplasia	0	0	15	15	14	0	9	13	23
+DOID:12347	osteogenesis imperfecta	0	0	9	16	17	0	10	13	21
+DOID:2843	long QT syndrome	3	0	14	14	17	0	13	21	19
+DOID:4254	osteosclerosis	0	0	15	14	10	0	9	7	18
+DOID:4621	holoprosencephaly	0	0	11	14	14	0	7	17	18
+DOID:0050534	congenital stationary night blindness	0	0	14	11	2	0	10	17	14
+DOID:8499	night blindness	0	0	14	12	2	0	11	7	14
+DOID:0060655	autosomal recessive congenital ichthyosis	0	0	10	12	12	0	10	11	12

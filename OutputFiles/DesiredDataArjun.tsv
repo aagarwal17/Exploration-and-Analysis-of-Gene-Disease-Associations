@@ -1,0 +1,578 @@
+dis_doid	dis_name	numgenes_CLINGEN	numgenes_CGI	numgenes_CTD_human	numgenes_GENOMICS_ENGLAND	numgenes_ORPHANET	numgenes_PSYGENET	numgenes_UNIPROT	numgenes_dir	numgenes_prop	tempcounts
+DOID:863	nervous system disease	37	47	1657	974	601	0	553	53	2206	6
+DOID:150	disease of mental health	21	0	955	433	92	1132	72	12	2069	6
+DOID:77	gastrointestinal system disease	5	71	1433	162	76	0	553	12	1987	5
+DOID:1287	cardiovascular system disease	71	0	1087	227	163	0	96	36	1240	5
+DOID:0014667	disease of metabolism	88	1	943	413	253	2	252	10	1109	5
+DOID:2914	immune system disease	4	120	907	209	163	0	81	49	1059	5
+DOID:936	brain disease	15	32	747	320	156	0	118	27	1034	6
+DOID:5295	intestinal disease	1	55	532	104	7	0	476	8	1026	4
+DOID:2468	psychotic disorder	0	0	186	4	0	752	3	110	923	2
+DOID:850	lung disease	1	42	771	53	23	0	109	78	895	5
+DOID:5419	schizophrenia	0	0	171	4	0	716	3	883	887	2
+DOID:10155	intestinal cancer	0	55	406	20	0	0	468	12	846	4
+DOID:5672	large intestine cancer	0	54	401	19	0	0	468	878	840	4
+DOID:9256	colorectal cancer	0	1	399	19	0	0	467	819	821	3
+DOID:65	connective tissue disease	30	16	623	177	167	0	100	13	761	6
+DOID:74	hematopoietic system disease	21	111	609	205	143	0	94	8	759	6
+DOID:178	vascular disease	23	0	653	95	49	0	9	18	745	4
+DOID:5614	eye disease	13	6	427	439	188	0	164	212	710	5
+DOID:0080199	colorectal carcinoma	0	0	277	18	0	0	460	702	702	3
+DOID:114	heart disease	49	0	570	140	119	0	87	46	665	5
+DOID:1612	breast cancer	24	43	608	13	19	0	6	1087	639	5
+DOID:3459	breast carcinoma	0	43	608	0	0	0	6	540	624	2
+DOID:1324	lung cancer	1	42	524	4	3	0	105	349	624	3
+DOID:3905	lung carcinoma	0	41	523	3	3	0	104	271	623	3
+DOID:0080001	bone disease	26	9	509	143	124	0	84	10	618	5
+DOID:655	inherited metabolic disorder	87	1	467	325	226	0	219	17	600	5
+DOID:557	kidney disease	5	21	487	99	78	0	62	205	597	5
+DOID:2531	hematologic cancer	1	120	475	83	71	0	33	12	581	5
+DOID:1240	leukemia	1	110	443	72	67	0	27	55	543	5
+DOID:1289	neurodegenerative disease	2	0	429	152	142	0	110	39	501	4
+DOID:409	liver disease	2	12	448	10	15	0	14	72	469	5
+DOID:37	skin disease	9	45	391	101	87	0	68	85	463	5
+DOID:1059	intellectual disability	19	0	106	389	75	0	61	472	453	5
+DOID:1826	epilepsy	11	0	262	172	65	0	23	109	426	5
+DOID:3996	urinary system cancer	2	34	313	13	52	0	33	8	376	5
+DOID:3908	non-small cell lung carcinoma	0	32	275	0	0	0	90	156	371	3
+DOID:8927	learning disability	1	0	30	324	0	0	0	472	353	2
+DOID:10534	stomach cancer	1	20	291	2	3	0	50	305	344	3
+DOID:0060041	autism spectrum disorder	1	0	303	26	0	0	0	85	321	2
+DOID:9351	diabetes mellitus	0	0	301	37	10	0	14	32	320	4
+DOID:3620	central nervous system cancer	2	35	241	15	24	0	38	89	298	5
+DOID:417	autoimmune hypersensitivity disease	1	0	275	21	33	0	6	42	297	3
+DOID:3393	coronary artery disease	0	0	266	1	0	0	1	285	268	1
+DOID:3683	lung benign neoplasm	0	13	261	0	0	0	1	265	265	2
+DOID:574	peripheral nervous system disease	0	0	232	75	41	0	67	55	264	4
+DOID:848	arthritis	0	0	261	3	1	0	3	99	264	1
+DOID:12849	autistic disorder	1	0	245	20	0	0	0	321	261	2
+DOID:263	kidney cancer	2	21	186	13	52	0	25	45	246	5
+DOID:10763	hypertension	0	0	229	13	9	0	2	194	244	2
+DOID:8692	myeloid leukemia	1	47	185	35	20	0	13	26	240	5
+DOID:9352	type 2 diabetes mellitus	0	0	224	15	4	0	10	223	229	3
+DOID:289	endometriosis	0	20	211	9	5	0	2	161	229	2
+DOID:1319	brain cancer	2	32	175	7	23	0	35	39	228	4
+DOID:5679	retinal disease	9	3	169	142	97	0	98	29	228	4
+DOID:0050700	cardiomyopathy	40	0	149	105	72	0	61	130	224	5
+DOID:0060058	lymphoma	0	53	178	18	11	0	14	66	218	5
+DOID:3910	lung adenocarcinoma	0	15	151	0	0	0	54	206	212	3
+DOID:423	myopathy	12	0	174	87	83	0	61	30	210	5
+DOID:9970	obesity	0	0	188	26	0	0	3	205	206	2
+DOID:9119	acute myeloid leukemia	1	43	153	34	14	0	10	173	205	5
+DOID:2394	ovarian cancer	0	30	122	12	17	0	69	137	202	5
+DOID:1037	lymphoblastic leukemia	0	41	145	9	36	0	5	8	193	3
+DOID:403	mouth disease	1	1	150	27	25	0	9	12	189	3
+DOID:50	thyroid gland disease	2	13	160	20	35	0	16	13	189	5
+DOID:4001	ovarian carcinoma	0	29	119	1	1	0	56	159	188	3
+DOID:2723	dermatitis	1	0	180	7	3	0	4	19	185	1
+DOID:4451	renal carcinoma	1	16	128	4	37	0	20	5	178	4
+DOID:4450	renal cell carcinoma	1	13	128	4	37	0	20	148	177	4
+DOID:8466	retinal degeneration	9	0	128	118	71	0	75	21	175	4
+DOID:7148	rheumatoid arthritis	0	0	174	1	0	0	2	174	175	1
+DOID:0060224	atrial fibrillation	0	0	156	6	22	0	1	160	172	2
+DOID:5041	esophageal cancer	0	8	166	0	4	0	4	79	170	1
+DOID:1107	esophageal carcinoma	0	8	166	0	4	0	1	80	169	1
+DOID:219	colon cancer	0	10	152	1	0	0	10	159	163	3
+DOID:365	bladder disease	0	16	148	0	0	0	10	5	163	3
+DOID:3571	liver cancer	0	12	143	2	2	0	11	612	159	3
+DOID:684	hepatocellular carcinoma	0	11	142	2	2	0	11	613	158	3
+DOID:4960	bone marrow cancer	0	30	104	51	13	0	9	32	156	4
+DOID:6000	congestive heart failure	0	0	149	4	8	0	1	110	155	1
+DOID:4465	papillary renal cell carcinoma	1	1	128	2	28	0	1	213	155	2
+DOID:870	neuropathy	0	0	127	70	37	0	62	58	150	4
+DOID:0050387	nonpapillary renal cell carcinoma	0	13	128	3	1	0	19	148	148	3
+DOID:4467	clear cell renal cell carcinoma	0	13	128	2	1	0	19	148	148	3
+DOID:11054	urinary bladder cancer	0	16	132	0	0	0	10	141	147	3
+DOID:552	pneumonia	0	0	144	5	14	0	1	54	147	2
+DOID:2355	anemia	9	0	101	90	39	0	32	34	146	4
+DOID:6713	cerebrovascular disease	0	0	117	24	6	0	1	69	145	2
+DOID:13580	cholestasis	0	0	132	15	1	0	0	110	144	2
+DOID:1443	cerebral degeneration	2	0	133	31	21	0	27	101	143	4
+DOID:3069	astrocytoma	0	13	96	0	19	0	32	25	141	4
+DOID:0060060	non-Hodgkin lymphoma	0	43	112	3	10	0	7	32	141	3
+DOID:480	movement disease	1	0	53	94	26	0	18	29	138	4
+DOID:612	primary immunodeficiency disease	2	0	90	93	45	0	33	23	135	4
+DOID:2234	focal epilepsy	0	0	129	11	10	0	8	107	134	3
+DOID:2256	osteochondrodysplasia	23	0	62	72	55	0	39	20	131	5
+DOID:4471	chromophobe renal cell carcinoma	0	0	128	2	1	0	0	128	128	1
+DOID:700	mitochondrial metabolism disease	39	0	58	92	71	0	48	49	128	5
+DOID:3963	thyroid carcinoma	1	13	97	8	29	0	8	44	126	3
+DOID:1781	thyroid cancer	1	13	97	8	29	0	8	37	126	3
+DOID:3068	glioblastoma multiforme	0	11	79	0	12	0	32	113	123	4
+DOID:10952	nephritis	0	0	83	49	1	0	8	140	121	2
+DOID:0050589	inflammatory bowel disease	0	0	113	22	0	0	3	35	120	2
+DOID:9455	lipid storage disease	1	0	115	20	16	0	19	19	119	4
+DOID:10584	retinitis pigmentosa	8	0	73	91	31	0	50	104	114	4
+DOID:14330	Parkinson's disease	0	0	108	14	7	0	14	85	112	3
+DOID:4159	skin cancer	1	45	80	2	0	0	2	59	111	2
+DOID:2921	glomerulonephritis	0	0	80	40	0	0	7	140	110	2
+DOID:2952	inner ear disease	2	0	29	87	0	0	1	7	110	2
+DOID:9252	amino acid metabolic disorder	31	0	95	63	40	0	55	13	103	5
+DOID:9884	muscular dystrophy	0	0	71	55	50	0	41	8	102	4
+DOID:707	B-cell lymphoma	0	31	76	2	7	0	5	59	102	2
+DOID:2797	idiopathic interstitial pneumonia	0	0	99	5	14	0	1	102	102	2
+DOID:10652	Alzheimer's disease	0	0	99	4	0	0	6	101	101	1
+DOID:0110045	Alzheimer's disease 12	0	0	99	3	0	0	3	101	101	1
+DOID:0110035	Alzheimer's disease 2	0	0	99	3	0	0	3	101	101	1
+DOID:0110047	Alzheimer's disease 14	0	0	99	3	0	0	3	101	101	1
+DOID:0110046	Alzheimer's disease 13	0	0	99	3	0	0	3	101	101	1
+DOID:0110044	Alzheimer's disease 11	0	0	99	3	0	0	3	101	101	1
+DOID:0110037	Alzheimer's disease 5	0	0	99	3	0	0	3	101	101	1
+DOID:0110038	Alzheimer's disease 6	0	0	99	3	0	0	3	101	101	1
+DOID:0110039	Alzheimer's disease 7	0	0	99	3	0	0	3	101	101	1
+DOID:0110048	Alzheimer's disease 15	0	0	99	3	0	0	3	101	101	1
+DOID:0110043	Alzheimer's disease 10	0	0	99	3	0	0	3	101	101	1
+DOID:0110041	Alzheimer's disease 8	0	0	99	3	0	0	3	101	101	1
+DOID:0050951	hereditary ataxia	2	0	76	65	60	0	43	8	98	4
+DOID:10003	sensorineural hearing loss	0	0	21	84	0	0	1	130	98	2
+DOID:381	arthropathy	0	0	96	2	2	0	0	101	98	1
+DOID:543	dystonia	0	0	16	87	23	0	16	93	97	4
+DOID:3748	esophagus squamous cell carcinoma	0	3	91	0	4	0	0	95	95	1
+DOID:0060892	late onset Parkinson's disease	0	0	93	9	1	0	7	12	94	1
+DOID:1247	blood coagulation disease	11	0	63	56	31	0	29	16	89	5
+DOID:0060891	juvenile onset Parkinson's disease 19A	0	0	85	1	3	0	1	88	88	1
+DOID:363	uterine cancer	0	20	67	9	5	0	3	10	87	2
+DOID:3074	giant cell glioblastoma	0	3	76	0	12	0	1	87	87	2
+DOID:12930	dilated cardiomyopathy	0	0	50	34	45	0	31	48	87	4
+DOID:0060896	autosomal recessive early-onset Parkinson's disease 23	0	0	85	1	0	0	1	86	86	1
+DOID:3969	papillary thyroid carcinoma	1	1	61	1	28	0	1	213	86	2
+DOID:715	T-cell leukemia	0	16	56	1	24	0	0	5	83	3
+DOID:1682	congenital heart disease	0	0	66	19	19	0	15	46	82	4
+DOID:184	bone cancer	0	9	60	7	12	0	2	8	77	2
+DOID:1380	endometrial cancer	0	20	58	9	5	0	2	72	77	2
+DOID:12449	aplastic anemia	9	0	39	64	22	0	20	7	76	4
+DOID:2871	endometrial carcinoma	0	20	58	8	0	0	2	73	73	2
+DOID:3165	skin benign neoplasm	0	4	66	3	2	0	1	59	73	1
+DOID:520	aortic disease	23	0	20	54	10	0	1	6	72	4
+DOID:0080011	bone resorption disease	0	0	67	6	3	0	1	10	72	1
+DOID:9452	fatty liver disease	0	0	70	1	0	0	1	143	70	1
+DOID:2476	hereditary spastic paraplegia	1	0	21	24	63	0	37	15	69	4
+DOID:1441	autosomal dominant cerebellar ataxia	1	0	56	29	32	0	20	34	68	4
+DOID:0050565	autosomal recessive nonsyndromic deafness	3	0	62	62	0	0	38	16	67	3
+DOID:0050908	myelodysplastic syndrome	0	18	29	29	2	0	3	67	67	3
+DOID:3627	aortic aneurysm	23	0	14	54	10	0	1	12	66	4
+DOID:332	amyotrophic lateral sclerosis	0	0	44	27	38	0	23	58	66	4
+DOID:11476	osteoporosis	0	0	61	6	3	0	1	66	66	1
+DOID:8857	lupus erythematosus	0	0	60	7	5	0	2	5	66	1
+DOID:5517	stomach carcinoma	0	20	1	2	0	0	50	21	65	2
+DOID:9952	acute lymphocytic leukemia	0	13	50	8	0	0	4	63	63	2
+DOID:0110892	inflammatory bowel disease 1	0	0	60	6	0	0	1	99	63	1
+DOID:4989	pancreatitis	0	0	59	1	7	0	3	62	63	1
+DOID:3146	lipid metabolism disorder	6	0	46	28	29	0	22	6	63	4
+DOID:83	cataract	0	0	45	21	27	0	27	37	61	4
+DOID:0080147	lymphoblastic lymphoma	0	13	50	4	0	0	3	61	61	2
+DOID:9074	systemic lupus erythematosus	0	0	58	1	5	0	2	72	60	1
+DOID:1342	congenital hypoplastic anemia	9	0	25	54	20	0	14	32	60	4
+DOID:2913	acute pancreatitis	0	0	58	1	4	0	0	60	60	1
+DOID:5409	lung small cell carcinoma	0	2	47	0	3	0	11	54	60	2
+DOID:2030	anxiety disorder	0	0	55	1	0	6	0	46	59	1
+DOID:8893	psoriasis	0	0	59	1	1	0	1	57	59	1
+DOID:1793	pancreatic cancer	0	17	28	2	8	0	15	107	58	3
+DOID:1040	chronic lymphocytic leukemia	0	15	38	0	11	0	1	55	57	3
+DOID:0050635	alternating hemiplegia of childhood	0	0	53	1	4	0	1	57	57	1
+DOID:0050745	diffuse large B-cell lymphoma	0	22	38	0	2	0	2	55	57	2
+DOID:4398	pustulosis of palm and sole	0	0	57	1	2	0	0	57	57	1
+DOID:3213	demyelinating disease	0	0	54	2	1	0	1	8	55	1
+DOID:1703	Richter's syndrome	0	15	37	0	10	0	1	55	55	3
+DOID:1192	peripheral nervous system neoplasm	0	8	50	0	9	0	0	5	55	1
+DOID:0050902	medulloblastoma	1	10	50	5	1	0	2	55	55	2
+DOID:5603	acute T cell leukemia	0	16	26	1	24	0	0	83	53	3
+DOID:14004	thoracic aortic aneurysm	23	0	1	53	9	0	1	56	53	2
+DOID:0080144	childhood acute lymphocytic leukemia	0	0	50	4	0	0	1	52	52	1
+DOID:4905	pancreatic carcinoma	0	14	28	1	0	0	14	107	51	3
+DOID:8778	Crohn's disease	0	0	45	14	0	0	1	50	51	2
+DOID:3869	childhood medulloblastoma	1	10	43	5	0	0	2	50	50	2
+DOID:3868	melanotic medulloblastoma	1	10	43	5	0	0	2	50	50	2
+DOID:3864	adult medulloblastoma	1	10	43	5	0	0	2	50	50	2
+DOID:0060192	Crohn's colitis	0	0	44	14	0	0	1	50	50	2
+DOID:0050557	congenital muscular dystrophy	0	0	40	23	28	0	13	13	50	4
+DOID:3861	medullomyoblastoma	1	10	43	5	0	0	2	50	50	2
+DOID:0110425	dilated cardiomyopathy 1A	0	0	42	11	0	0	1	50	50	2
+DOID:2214	inherited blood coagulation disease	10	0	33	34	23	0	21	17	49	5
+DOID:0110441	dilated cardiomyopathy 2B	0	0	42	9	0	0	1	49	49	1
+DOID:0110423	dilated cardiomyopathy 1C	0	0	42	9	0	0	1	49	49	1
+DOID:0110436	dilated cardiomyopathy 1L	0	0	42	9	0	0	1	49	49	1
+DOID:0110438	dilated cardiomyopathy 1JJ	0	0	42	9	0	0	1	49	49	1
+DOID:0110439	dilated cardiomyopathy 1P	0	0	42	9	0	0	1	49	49	1
+DOID:0110444	dilated cardiomyopathy 1X	0	0	42	9	0	0	1	49	49	1
+DOID:0110443	dilated cardiomyopathy 1B	0	0	1	9	44	0	0	78	49	1
+DOID:0110445	dilated cardiomyopathy 1KK	0	0	42	9	0	0	1	49	49	1
+DOID:0110448	dilated cardiomyopathy 1HH	0	0	42	9	0	0	1	49	49	1
+DOID:0110449	dilated cardiomyopathy 1M	0	0	42	9	0	0	1	49	49	1
+DOID:0110450	dilated cardiomyopathy 1II	0	0	42	9	0	0	1	49	49	1
+DOID:0110431	dilated cardiomyopathy 1I	0	0	42	9	0	0	1	49	49	1
+DOID:0060609	microcephalic osteodysplastic primordial dwarfism type II	20	0	5	20	9	0	1	86	48	2
+DOID:0060608	microcephalic osteodysplastic primordial dwarfism type I	20	0	5	20	9	0	1	87	48	2
+DOID:0110426	dilated cardiomyopathy 1D	0	0	42	9	0	0	1	48	48	1
+DOID:0110460	dilated cardiomyopathy 2A	0	0	42	9	0	0	1	48	48	1
+DOID:0110432	dilated cardiomyopathy 1NN	0	0	42	9	0	0	1	48	48	1
+DOID:0110433	dilated cardiomyopathy 1E	0	0	42	9	0	0	1	48	48	1
+DOID:0110435	dilated cardiomyopathy 1GG	0	0	42	9	0	0	1	48	48	1
+DOID:0110451	dilated cardiomyopathy 1O	0	0	42	9	0	0	1	48	48	1
+DOID:769	neuroblastoma	0	6	45	0	7	0	0	47	47	1
+DOID:10914	amnestic disorder	0	0	44	1	0	2	0	59	47	1
+DOID:11724	limb-girdle muscular dystrophy	0	0	22	27	16	0	23	52	47	4
+DOID:3347	osteosarcoma	0	4	40	5	3	0	2	48	47	1
+DOID:1631	benign breast phyllodes tumor	0	41	5	1	0	0	0	46	46	1
+DOID:0060318	acute promyelocytic leukemia	0	2	39	1	13	0	0	46	46	2
+DOID:3717	gastric adenocarcinoma	0	4	1	0	0	0	41	45	46	1
+DOID:576	proteinuria	0	0	41	6	1	0	1	61	46	1
+DOID:2527	nephrosis	0	0	35	10	1	0	2	99	45	2
+DOID:4079	heart valve disease	0	0	39	1	7	0	1	26	45	1
+DOID:0050749	peripheral T-cell lymphoma	0	1	44	0	3	0	0	10	45	1
+DOID:182	calcinosis	0	0	45	3	4	0	1	42	45	1
+DOID:1307	dementia	0	0	33	19	0	0	3	17	44	2
+DOID:0110752	type 1 diabetes mellitus 13	0	0	44	1	0	0	1	45	44	1
+DOID:0110749	type 1 diabetes mellitus 10	0	0	44	1	0	0	1	45	44	1
+DOID:0110758	type 1 diabetes mellitus 21	0	0	44	1	0	0	1	45	44	1
+DOID:0110746	type 1 diabetes mellitus 7	0	0	44	1	0	0	1	45	44	1
+DOID:0110747	type 1 diabetes mellitus 8	0	0	44	1	0	0	1	45	44	1
+DOID:0110743	type 1 diabetes mellitus 4	0	0	44	1	0	0	1	45	44	1
+DOID:0110742	type 1 diabetes mellitus 3	0	0	44	1	0	0	1	45	44	1
+DOID:0110741	type 1 diabetes mellitus 2	0	0	44	1	0	0	1	45	44	1
+DOID:0110750	type 1 diabetes mellitus 11	0	0	44	1	0	0	1	45	44	1
+DOID:0110751	type 1 diabetes mellitus 12	0	0	44	1	0	0	1	46	44	1
+DOID:0110753	type 1 diabetes mellitus 15	0	0	44	1	0	0	1	45	44	1
+DOID:0110754	type 1 diabetes mellitus 17	0	0	44	1	0	0	1	45	44	1
+DOID:0110755	type 1 diabetes mellitus 18	0	0	44	1	0	0	1	45	44	1
+DOID:0110756	type 1 diabetes mellitus 19	0	0	44	1	0	0	1	45	44	1
+DOID:0110744	type 1 diabetes mellitus 5	0	0	44	1	0	0	1	46	44	1
+DOID:0110757	type 1 diabetes mellitus 20	0	0	44	1	0	0	1	45	44	1
+DOID:0110745	type 1 diabetes mellitus 6	0	0	44	1	0	0	1	45	44	1
+DOID:9744	type 1 diabetes mellitus	0	0	44	1	0	0	1	45	44	1
+DOID:0110759	type 1 diabetes mellitus 22	0	0	44	1	0	0	1	46	44	1
+DOID:0110760	type 1 diabetes mellitus 23	0	0	44	1	0	0	1	45	44	1
+DOID:0110761	type 1 diabetes mellitus 24	0	0	44	1	0	0	1	45	44	1
+DOID:699	mitochondrial myopathy	0	0	36	3	20	0	5	11	44	2
+DOID:11984	hypertrophic cardiomyopathy	36	0	19	29	0	0	21	57	43	4
+DOID:3458	breast adenocarcinoma	0	41	1	0	0	0	1	41	43	1
+DOID:626	complement deficiency	0	0	26	35	4	0	5	41	43	2
+DOID:0110454	dilated cardiomyopathy 1S	0	0	42	1	0	0	1	48	42	1
+DOID:9538	multiple myeloma	0	9	35	0	1	0	0	42	42	1
+DOID:3652	Leigh disease	36	0	9	1	0	0	9	47	42	1
+DOID:8923	skin melanoma	0	39	6	1	0	0	0	41	42	1
+DOID:0110456	dilated cardiomyopathy 1R	0	0	42	1	0	0	1	48	42	1
+DOID:6432	pulmonary hypertension	0	0	41	3	2	0	1	40	42	1
+DOID:1686	glaucoma	0	0	38	7	4	0	4	9	41	1
+DOID:11335	sarcoidosis	0	0	8	33	2	0	0	41	41	1
+DOID:0060061	cutaneous T cell lymphoma	0	1	39	0	3	0	0	23	40	1
+DOID:2226	myeloproliferative neoplasm	0	3	19	17	8	0	1	32	40	2
+DOID:628	combined T cell and B cell immunodeficiency	1	0	24	28	26	0	16	42	38	4
+DOID:10871	age related macular degeneration	0	0	30	17	5	0	9	30	37	2
+DOID:4362	cervical cancer	0	4	32	0	0	0	3	37	37	1
+DOID:0050572	cone-rod dystrophy	8	0	18	18	29	0	13	36	37	4
+DOID:1312	focal segmental glomerulosclerosis	0	0	28	15	0	0	7	36	36	2
+DOID:2513	basal cell carcinoma	0	11	28	1	0	0	2	36	36	2
+DOID:2154	nephroblastoma	0	4	29	5	9	0	3	36	36	1
+DOID:0050956	spinocerebellar ataxia type 6	0	0	34	1	0	0	1	34	34	1
+DOID:0050955	spinocerebellar ataxia type 2	0	0	34	1	1	0	0	34	34	1
+DOID:0050882	spinocerebellar ataxia type 5	0	0	34	1	0	0	1	34	34	1
+DOID:0050954	spinocerebellar ataxia type 1	0	0	34	1	1	0	0	34	34	1
+DOID:0060300	complement component 7 deficiency	0	0	1	33	0	0	1	33	33	1
+DOID:0060295	complement component 2 deficiency	0	0	1	33	0	0	1	33	33	1
+DOID:0050776	non-syndromic X-linked intellectual disability	1	0	1	2	32	0	2	38	33	1
+DOID:615	leukopenia	0	0	27	8	2	0	2	8	33	1
+DOID:0060303	complement component 9 deficiency	0	0	1	33	0	0	1	33	33	1
+DOID:890	mitochondrial encephalomyopathy	0	0	29	0	16	0	4	8	32	2
+DOID:8538	reticulosarcoma	0	15	21	0	0	0	4	32	32	2
+DOID:2747	glycogen storage disease	1	0	13	29	12	0	11	27	32	4
+DOID:627	severe combined immunodeficiency	1	0	18	25	22	0	12	20	32	4
+DOID:1184	nephrotic syndrome	0	0	22	9	1	0	2	28	31	1
+DOID:10487	Hirschsprung's disease	0	0	15	14	2	0	0	31	31	2
+DOID:0060536	mitochondrial complex I deficiency	0	0	1	22	28	0	1	30	30	2
+DOID:2590	familial nephrotic syndrome	0	0	21	9	1	0	2	28	30	1
+DOID:161	keratosis	2	0	18	10	13	0	8	5	30	3
+DOID:2218	blood platelet disease	4	0	11	21	11	0	7	16	30	3
+DOID:1924	hypogonadism	0	0	16	8	15	0	8	17	30	2
+DOID:341	peripheral vascular disease	0	0	27	2	3	0	1	5	30	1
+DOID:0110274	autosomal recessive limb-girdle muscular dystrophy	0	0	12	23	9	0	20	8	30	3
+DOID:3234	central nervous system lymphoma	0	1	19	9	0	0	0	41	29	1
+DOID:3328	temporal lobe epilepsy	0	0	28	4	4	0	4	24	29	1
+DOID:4535	hypotrichosis	0	0	20	15	11	0	9	9	29	3
+DOID:0111005	cone-rod dystrophy 2	0	0	1	1	29	0	1	29	29	1
+DOID:8552	chronic myeloid leukemia	0	8	20	1	3	0	1	29	29	1
+DOID:14791	Leber congenital amaurosis	8	0	17	19	21	0	14	22	29	4
+DOID:3635	congenital myasthenic syndrome	0	0	20	26	0	0	20	24	28	3
+DOID:3191	nemaline myopathy	5	0	21	14	7	0	9	29	28	2
+DOID:422	congenital structural myopathy	6	0	21	17	8	0	9	13	28	2
+DOID:8593	chronic monocytic leukemia	0	5	18	0	2	0	4	32	28	1
+DOID:13636	Fanconi anemia	7	0	22	25	8	0	13	25	28	3
+DOID:0060368	autosomal recessive juvenile Parkinson's disease 2	0	0	28	1	0	0	1	28	28	1
+DOID:11717	neonatal diabetes mellitus	0	0	6	25	6	0	4	25	27	1
+DOID:0111042	glycogen storage disease IXa	0	0	2	27	0	0	1	27	27	1
+DOID:2998	testicular cancer	0	2	24	1	2	0	5	8	27	1
+DOID:3078	grade III astrocytoma	0	2	25	0	1	0	0	27	27	1
+DOID:0060334	transient neonatal diabetes mellitus	0	0	1	25	5	0	1	27	27	1
+DOID:2452	thrombophilia	0	0	27	4	3	0	3	27	27	1
+DOID:3953	adrenal gland cancer	0	3	25	1	1	0	1	11	27	1
+DOID:10595	Charcot-Marie-Tooth disease	0	0	24	15	14	0	13	17	27	4
+DOID:583	hemolytic anemia	0	0	24	15	13	0	9	15	26	3
+DOID:419	scleroderma	0	0	20	2	6	0	0	22	26	1
+DOID:3247	rhabdomyosarcoma	0	7	20	4	4	0	1	15	25	1
+DOID:1168	familial hyperlipidemia	0	0	22	10	6	0	5	19	25	2
+DOID:0110226	Brugada syndrome 9	11	0	4	8	13	0	1	28	25	2
+DOID:0050451	Brugada syndrome	11	0	4	12	13	0	6	28	25	3
+DOID:169	neuroendocrine tumor	0	5	15	8	0	0	1	11	24	1
+DOID:893	Wilson disease	1	0	24	1	1	0	1	24	24	1
+DOID:5812	MHC class II deficiency	1	0	6	18	4	0	3	24	24	1
+DOID:1227	neutropenia	0	0	19	7	2	0	2	22	24	1
+DOID:12987	agranulocytosis	0	0	19	7	2	0	2	22	24	1
+DOID:0050562	West syndrome	0	0	6	3	15	0	0	24	24	1
+DOID:3762	cytochrome-c oxidase deficiency disease	0	0	13	15	11	0	7	24	24	3
+DOID:8584	Burkitt lymphoma	0	2	21	0	1	0	2	57	24	1
+DOID:0060597	atypical chronic myeloid leukemia	0	5	18	0	1	0	0	26	23	1
+DOID:1827	idiopathic generalized epilepsy	2	0	7	9	9	0	8	11	23	0
+DOID:0050458	juvenile myelomonocytic leukemia	0	0	19	4	2	0	4	23	23	1
+DOID:0110218	Brugada syndrome 1	11	0	4	1	13	0	1	28	23	2
+DOID:418	systemic scleroderma	0	0	17	2	6	0	0	26	23	1
+DOID:0110220	Brugada syndrome 3	11	0	4	1	13	0	1	28	23	2
+DOID:0110223	Brugada syndrome 6	11	0	4	1	13	0	0	28	23	2
+DOID:0060264	pontocerebellar hypoplasia	0	0	15	15	14	0	9	13	23	3
+DOID:3687	MELAS syndrome	0	0	20	0	13	0	4	22	22	2
+DOID:9261	nasopharynx carcinoma	0	1	20	2	1	0	0	29	22	1
+DOID:0050650	familial atrial fibrillation	0	0	1	1	22	0	1	22	22	1
+DOID:9563	bronchiectasis	0	0	3	19	4	0	1	22	22	1
+DOID:0110634	congenital muscular dystrophy 1B	0	0	13	8	5	0	3	29	22	1
+DOID:0110224	Brugada syndrome 7	11	0	4	1	13	0	1	28	22	2
+DOID:8654	Hodgkin's lymphoma, mixed cellularity	0	5	13	5	0	0	0	22	22	1
+DOID:8651	Hodgkin's granuloma	0	5	13	5	0	0	0	22	22	1
+DOID:8628	Hodgkin's lymphoma, lymphocytic depletion	0	5	13	5	0	0	0	22	22	1
+DOID:8567	Hodgkin's lymphoma	0	5	13	5	1	0	0	22	22	1
+DOID:8543	Hodgkin's lymphoma, lymphocytic-histiocytic predominance	0	5	13	5	0	0	0	22	22	1
+DOID:12217	Lewy body dementia	0	0	22	2	0	0	1	22	22	1
+DOID:0110219	Brugada syndrome 2	11	0	4	1	13	0	1	28	22	2
+DOID:0110221	Brugada syndrome 4	11	0	4	1	13	0	1	28	22	2
+DOID:0110222	Brugada syndrome 5	11	0	4	1	13	0	0	28	22	2
+DOID:0110225	Brugada syndrome 8	11	0	4	1	13	0	0	28	22	2
+DOID:2187	amelogenesis imperfecta	1	0	1	18	6	0	6	13	21	1
+DOID:0050156	idiopathic pulmonary fibrosis	0	0	19	3	14	0	1	21	21	2
+DOID:8501	fundus dystrophy	8	0	9	7	5	0	3	8	21	0
+DOID:12347	osteogenesis imperfecta	0	0	9	16	17	0	10	13	21	3
+DOID:679	basal ganglia disease	0	0	16	9	6	0	4	12	20	1
+DOID:660	adrenal cortex cancer	0	3	18	1	1	0	1	23	20	1
+DOID:3565	meningioma	0	6	16	1	4	0	0	19	20	1
+DOID:3948	adrenocortical carcinoma	0	3	18	1	1	0	1	20	20	1
+DOID:12804	mucopolysaccharidosis IV	0	0	16	3	0	0	1	20	20	1
+DOID:0050873	follicular lymphoma	0	3	15	0	4	0	0	20	20	1
+DOID:4588	secretory meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:13810	familial hypercholesterolemia	0	0	17	6	3	0	3	21	19	1
+DOID:4594	microcystic meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:4587	benign meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:8057	olfactory groove meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:7213	transitional meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:7212	meningothelial meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:7211	fibrous meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:7210	psammomatous meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:0110267	cataract 44	0	0	1	6	16	0	1	19	19	1
+DOID:4210	clear cell meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:6114	cerebral convexity meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:4141	intraorbital meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:6869	parasagittal meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:3772	intraventricular meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:6548	angiomatous meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:2843	long QT syndrome	3	0	14	14	17	0	13	21	19	4
+DOID:1138	spinal meningioma	0	6	12	1	4	0	0	19	19	1
+DOID:987	alopecia	0	0	15	5	1	0	1	19	19	1
+DOID:12377	spinal muscular atrophy	0	0	11	6	8	0	3	5	18	1
+DOID:13099	Moyamoya disease	0	0	1	16	2	0	1	19	18	1
+DOID:2786	cerebellar disease	0	0	14	6	3	0	1	7	18	1
+DOID:1532	pleural disease	0	0	18	1	1	0	1	10	18	1
+DOID:0110881	holoprosencephaly 1	0	0	8	14	14	0	0	18	18	2
+DOID:0080307	myofibrillar myopathy	4	0	15	9	6	0	5	8	18	1
+DOID:0060674	catecholaminergic polymorphic ventricular tachycardia	0	0	12	10	5	0	5	18	18	2
+DOID:0080102	congenital fiber-type disproportion	0	0	13	5	5	0	3	18	18	1
+DOID:2340	craniosynostosis	1	0	17	4	4	0	3	22	18	1
+DOID:4254	osteosclerosis	0	0	15	14	10	0	9	7	18	3
+DOID:2729	dyskeratosis congenita	2	0	11	17	8	0	9	16	18	2
+DOID:2583	agammaglobulinemia	0	0	10	12	1	0	3	20	18	2
+DOID:4621	holoprosencephaly	0	0	11	14	14	0	7	17	18	3
+DOID:9120	amyloidosis	0	0	14	13	5	0	9	10	18	2
+DOID:13250	diarrhea	0	0	15	7	10	0	8	11	17	2
+DOID:1555	urticaria	0	0	17	0	1	0	1	16	17	1
+DOID:0080036	SOST-related sclerosing bone dysplasia	0	0	16	1	2	0	0	18	17	1
+DOID:8432	polycythemia	0	2	8	9	5	0	4	10	17	0
+DOID:3829	pituitary adenoma	0	4	14	2	4	0	2	10	17	1
+DOID:12858	Huntington's disease	0	0	12	5	2	0	0	17	17	1
+DOID:0090104	Huntington's disease-like 2	0	0	12	5	2	0	0	18	17	1
+DOID:5557	testicular germ cell cancer	0	1	15	1	1	0	4	17	17	1
+DOID:0090103	Huntington's disease-like 1	0	0	12	5	2	0	0	18	17	1
+DOID:2352	hemochromatosis	0	0	17	7	3	0	5	12	17	1
+DOID:14749	methylmalonic acidemia	2	0	17	7	5	0	5	10	17	1
+DOID:6419	tetralogy of Fallot	0	0	12	8	11	0	6	16	16	2
+DOID:0080205	CAKUT	1	0	3	14	1	0	2	13	16	1
+DOID:0050746	mantle cell lymphoma	0	5	11	1	0	0	1	16	16	1
+DOID:14447	gonadal dysgenesis	0	0	8	3	11	0	2	7	16	1
+DOID:2033	communication disorder	0	0	13	4	0	0	1	15	16	1
+DOID:905	Zellweger syndrome	0	0	13	12	1	0	0	17	16	2
+DOID:8986	narcolepsy	0	0	12	1	8	0	1	17	16	1
+DOID:0110783	hereditary spastic paraplegia 32	0	0	4	10	1	0	0	15	15	1
+DOID:0110774	hereditary spastic paraplegia 23	0	0	4	10	1	0	0	15	15	1
+DOID:0110248	cataract 30	0	0	1	6	9	0	1	15	15	0
+DOID:0110800	hereditary spastic paraplegia 48	0	0	4	10	1	0	0	15	15	1
+DOID:0110798	hereditary spastic paraplegia 46	0	0	4	10	1	0	1	15	15	1
+DOID:0110767	hereditary spastic paraplegia 14	0	0	4	10	1	0	0	15	15	1
+DOID:397	restrictive cardiomyopathy	0	0	10	1	6	0	1	5	15	1
+DOID:0110797	hereditary spastic paraplegia 45	0	0	4	10	1	0	1	15	15	1
+DOID:0110775	hereditary spastic paraplegia 24	0	0	4	10	1	0	0	15	15	1
+DOID:0110776	hereditary spastic paraplegia 25	0	0	4	10	1	0	0	15	15	1
+DOID:0110796	hereditary spastic paraplegia 44	0	0	4	10	1	0	1	15	15	1
+DOID:0110795	hereditary spastic paraplegia 43	0	0	4	10	1	0	1	15	15	1
+DOID:0110794	hereditary spastic paraplegia 42	0	0	4	10	1	0	1	15	15	1
+DOID:0110793	hereditary spastic paraplegia 41	0	0	4	10	1	0	0	15	15	1
+DOID:0110769	hereditary spastic paraplegia 16	0	0	4	10	1	0	0	15	15	1
+DOID:0110777	hereditary spastic paraplegia 26	0	0	4	10	1	0	1	15	15	1
+DOID:0110789	hereditary spastic paraplegia 38	0	0	4	10	1	0	0	15	15	1
+DOID:0110788	hereditary spastic paraplegia 37	0	0	4	10	1	0	0	15	15	1
+DOID:0110787	hereditary spastic paraplegia 36	0	0	4	10	1	0	0	15	15	1
+DOID:0110772	hereditary spastic paraplegia 19	0	0	4	10	1	0	0	15	15	1
+DOID:0110778	hereditary spastic paraplegia 27	0	0	4	10	1	0	0	15	15	1
+DOID:0110780	hereditary spastic paraplegia 29	0	0	4	10	1	0	0	15	15	1
+DOID:0110781	hereditary spastic paraplegia 30	0	0	4	10	1	0	1	15	15	1
+DOID:0110773	hereditary spastic paraplegia 2	0	0	4	10	0	0	1	15	15	1
+DOID:0110785	hereditary spastic paraplegia 34	0	0	4	10	1	0	0	15	15	1
+DOID:0110805	hereditary spastic paraplegia 53	0	0	4	10	1	0	1	15	15	1
+DOID:0110782	hereditary spastic paraplegia 31	0	0	4	10	1	0	1	15	15	1
+DOID:0110235	cataract 2 multiple types	0	0	1	6	9	0	1	15	15	0
+DOID:0110818	hereditary spastic paraplegia 73	0	0	4	10	1	0	1	15	15	1
+DOID:633	myositis	0	0	15	2	1	0	1	5	15	1
+DOID:0110824	hereditary spastic paraplegia 9A	0	0	4	10	1	0	1	15	15	1
+DOID:1923	sex differentiation disease	0	0	10	5	5	0	3	7	15	1
+DOID:0050444	infantile Refsum disease	0	0	2	2	13	0	1	15	15	1
+DOID:1657	ventricular septal defect	0	0	8	3	2	0	6	8	15	0
+DOID:0050560	Walker-Warburg syndrome	0	0	14	5	14	0	0	15	15	2
+DOID:0060245	Mast syndrome	0	0	4	10	1	0	0	15	15	1
+DOID:12678	hypercalcemia	0	0	15	3	3	0	3	13	15	1
+DOID:11830	myopia	1	0	12	1	3	0	1	18	15	1
+DOID:0110806	hereditary spastic paraplegia 54	0	0	4	10	1	0	1	15	15	1
+DOID:1067	open-angle glaucoma	0	0	13	4	2	0	4	15	15	1
+DOID:10582	Refsum disease	0	0	2	2	13	0	1	15	15	1
+DOID:705	Leber hereditary optic neuropathy	0	0	13	1	2	0	9	15	15	1
+DOID:0110825	hereditary spastic paraplegia 9B	0	0	4	10	1	0	1	15	15	1
+DOID:811	lipodystrophy	0	0	12	5	4	0	3	9	15	1
+DOID:0110822	hereditary spastic paraplegia 77	0	0	4	10	1	0	1	15	15	1
+DOID:0110815	hereditary spastic paraplegia 64	0	0	4	10	1	0	1	15	15	1
+DOID:0110807	hereditary spastic paraplegia 55	0	0	4	10	1	0	0	15	15	1
+DOID:0110809	hereditary spastic paraplegia 57	0	0	4	10	1	0	1	15	15	1
+DOID:0110811	hereditary spastic paraplegia 6	0	0	4	10	1	0	1	15	15	1
+DOID:0110812	hereditary spastic paraplegia 61	0	0	4	10	1	0	0	15	15	1
+DOID:0110814	hereditary spastic paraplegia 63	0	0	4	10	1	0	0	15	15	1
+DOID:0110820	hereditary spastic paraplegia 75	0	0	4	10	1	0	1	15	15	1
+DOID:0110765	hereditary spastic paraplegia 12	0	0	4	10	1	0	1	15	15	1
+DOID:0110816	hereditary spastic paraplegia 7	0	0	4	10	1	0	1	15	15	1
+DOID:0110817	hereditary spastic paraplegia 72	0	0	4	10	1	0	1	15	15	1
+DOID:0110342	osteogenesis imperfecta type 13	0	0	4	11	0	0	1	14	14	1
+DOID:0110349	osteogenesis imperfecta type 9	0	0	4	11	0	0	1	14	14	1
+DOID:0080089	tubular aggregate myopathy	0	0	13	1	3	0	1	14	14	1
+DOID:0050534	congenital stationary night blindness	0	0	14	11	2	0	10	17	14	3
+DOID:0050539	Charcot-Marie-Tooth disease type 2	0	0	14	9	8	0	6	14	14	1
+DOID:0050559	Fukuyama congenital muscular dystrophy	0	0	14	1	0	0	1	14	14	1
+DOID:9446	cholangitis	0	0	12	1	4	0	1	7	14	1
+DOID:0060480	left ventricular noncompaction	0	0	1	0	14	0	1	14	14	1
+DOID:0060010	Omenn syndrome	0	0	3	12	9	0	3	19	14	1
+DOID:0060170	generalized epilepsy with febrile seizures plus	1	0	5	1	8	0	0	14	14	0
+DOID:5683	hereditary breast ovarian cancer syndrome	0	0	2	2	14	0	0	14	14	1
+DOID:8499	night blindness	0	0	14	12	2	0	11	7	14	3
+DOID:0110346	osteogenesis imperfecta type 10	0	0	4	11	0	0	1	14	14	1
+DOID:898	autosomal dominant polycystic kidney disease	2	0	8	6	3	0	5	13	14	0
+DOID:0090070	hypogonadotropic hypogonadism	0	0	8	4	4	0	5	45	14	0
+DOID:999	hypereosinophilic syndrome	0	2	11	2	0	0	0	8	14	1
+DOID:1063	interstitial nephritis	0	0	3	12	1	0	1	25	14	1
+DOID:0110779	hereditary spastic paraplegia 28	0	0	4	10	1	0	0	14	14	1
+DOID:0110808	hereditary spastic paraplegia 56	0	0	4	10	1	0	1	14	14	1
+DOID:1339	Diamond-Blackfan anemia	1	0	1	1	12	0	1	32	14	1
+DOID:0110790	hereditary spastic paraplegia 39	0	0	4	10	1	0	1	14	14	1
+DOID:0110786	hereditary spastic paraplegia 35	0	0	4	10	1	0	1	14	14	1
+DOID:0110801	hereditary spastic paraplegia 49	0	0	4	10	1	0	0	14	14	1
+DOID:1882	atrial heart septal defect	0	0	3	4	10	0	7	5	14	1
+DOID:0110771	hereditary spastic paraplegia 18	0	0	4	10	1	0	0	14	14	1
+DOID:0110813	hereditary spastic paraplegia 62	0	0	4	10	1	0	1	14	14	1
+DOID:10629	microphthalmia	0	0	8	8	12	0	7	19	13	1
+DOID:3426	vestibular disease	2	0	7	4	0	0	0	7	13	0
+DOID:6688	autoimmune lymphoproliferative syndrome	0	0	8	6	8	0	5	8	13	0
+DOID:11727	facioscapulohumeral muscular dystrophy	0	0	10	1	4	0	0	52	13	1
+DOID:3390	palmoplantar keratosis	2	0	8	6	8	0	4	18	13	0
+DOID:1070	primary open angle glaucoma	0	0	12	2	0	0	1	13	13	1
+DOID:10780	primary polycythemia	0	0	7	9	2	0	3	9	13	0
+DOID:0110635	muscular dystrophy-dystroglycanopathy type B5	0	0	1	8	5	0	1	30	13	0
+DOID:3529	central core myopathy	0	0	13	1	1	0	3	29	13	1
+DOID:0110637	muscular dystrophy-dystroglycanopathy type B6	0	0	1	8	5	0	1	30	13	0
+DOID:11949	Creutzfeldt-Jakob disease	0	0	13	1	1	0	1	112	13	1
+DOID:0050773	paraganglioma	0	4	4	8	0	0	1	14	13	0
+DOID:0110334	osteogenesis imperfecta type 1	0	0	4	11	2	0	2	13	13	1
+DOID:9406	hypopituitarism	0	0	5	5	6	0	3	47	13	0
+DOID:0110338	osteogenesis imperfecta type 17	0	0	4	11	0	0	1	13	13	1
+DOID:14717	centronuclear myopathy	1	0	13	1	0	0	1	13	13	1
+DOID:0110347	osteogenesis imperfecta type 15	0	0	4	11	0	0	1	13	13	1
+DOID:0050328	congenital hypothyroidism	0	0	10	3	7	0	4	15	13	1
+DOID:0060655	autosomal recessive congenital ichthyosis	0	0	10	12	12	0	10	11	12	4
+DOID:0070042	Coffin-Siris syndrome 1	2	0	7	5	6	0	0	13	12	0
+DOID:0110865	congenital stationary night blindness 1B	0	0	12	1	0	0	1	12	12	1
+DOID:13533	osteopetrosis	0	0	11	9	7	0	7	9	12	1
+DOID:13620	patent foramen ovale	0	0	2	3	8	0	0	12	12	0
+DOID:0050591	tooth agenesis	0	0	1	1	12	0	1	14	12	1
+DOID:0110871	congenital stationary night blindness 2A	0	0	12	1	0	0	1	12	12	1
+DOID:0090020	split hand-foot malformation	1	0	4	6	8	0	3	7	12	0
+DOID:2224	essential thrombocythemia	0	0	9	1	6	0	1	12	12	0
+DOID:0110273	autosomal dominant limb-girdle muscular dystrophy	0	0	8	3	3	0	3	8	12	0
+DOID:0110064	amelogenesis imperfecta type 1H	1	0	1	10	0	0	1	14	12	1
+DOID:0110063	amelogenesis imperfecta hypomaturation type 2A5	1	0	1	10	0	0	1	14	12	1
+DOID:0110339	osteogenesis imperfecta type 3	0	0	2	3	11	0	2	18	11	1
+DOID:0060719	autosomal recessive congenital ichthyosis 10	0	0	1	1	11	0	1	11	11	1
+DOID:0060718	autosomal recessive congenital ichthyosis 9	0	0	1	1	11	0	0	11	11	1
+DOID:0060717	autosomal recessive congenital ichthyosis 8	0	0	1	1	11	0	0	11	11	1
+DOID:0060716	autosomal recessive congenital ichthyosis 7	0	0	4	7	11	0	0	11	11	1
+DOID:0060715	autosomal recessive congenital ichthyosis 6	0	0	1	1	11	0	1	11	11	1
+DOID:0060714	autosomal recessive congenital ichthyosis 5	0	0	1	1	11	0	1	11	11	1
+DOID:0060712	autosomal recessive congenital ichthyosis 4A	0	0	1	1	11	0	1	11	11	1
+DOID:0060711	autosomal recessive congenital ichthyosis 3	0	0	4	1	11	0	1	11	11	1
+DOID:3755	antithrombin III deficiency	0	0	9	2	1	0	1	12	11	0
+DOID:0050661	vitelliform macular dystrophy	7	0	4	1	1	0	1	11	11	0
+DOID:0060676	catecholaminergic polymorphic ventricular tachycardia 2	0	0	9	2	0	0	1	13	11	0
+DOID:0110065	amelogenesis imperfecta type 1F	1	0	1	10	0	0	0	14	11	1
+DOID:12176	goiter	1	0	7	6	2	0	2	7	11	0
+DOID:12270	coloboma	0	0	7	3	4	0	1	12	11	0
+DOID:0050836	focal dystonia	0	0	9	3	3	0	1	7	11	0
+DOID:13399	color blindness	1	0	7	9	10	0	6	5	11	1
+DOID:10908	hydrocephalus	0	0	8	3	2	0	1	12	11	0
+DOID:0110054	amelogenesis imperfecta type 1A	1	0	1	10	0	0	0	14	11	1
+DOID:0110810	hereditary spastic paraplegia 5A	0	0	1	10	1	0	1	14	11	1
+DOID:10493	adrenal cortical hypofunction	0	0	3	10	0	0	1	7	11	1
+DOID:2451	protein S deficiency	0	0	9	2	1	0	1	12	11	0
+DOID:1588	thrombocytopenia	2	0	3	3	8	0	3	32	11	0
+DOID:0110056	amelogenesis imperfecta type 1C	1	0	1	10	0	0	0	13	11	1
+DOID:0110059	X-linked amelogenesis imperfecta hypoplastic/hypomaturation 2	1	0	1	10	0	0	0	13	11	1
+DOID:14323	Marfan syndrome	1	0	9	3	1	0	1	11	11	0
+DOID:0110062	amelogenesis imperfecta hypomaturation type 2A4	1	0	1	10	0	0	0	14	11	1
+DOID:0110340	osteogenesis imperfecta type 4	0	0	4	2	10	0	2	16	11	1
+DOID:14557	primary pulmonary hypertension	0	0	7	1	8	0	1	21	11	0
+DOID:0060870	isolated growth hormone deficiency	0	0	4	4	4	0	1	47	11	0
+DOID:0060863	patterned macular dystrophy	7	0	3	1	4	0	3	10	11	0
+DOID:1573	communicating hydrocephalus	0	0	7	2	1	0	0	9	10	0
+DOID:445	Bartter disease	1	0	8	8	7	0	7	8	10	0
+DOID:13911	achromatopsia	1	0	7	9	9	0	5	7	10	0
+DOID:0110307	hypertrophic cardiomyopathy 1	0	0	7	2	0	0	3	10	10	0
+DOID:9267	urea cycle disorder	3	0	9	4	0	0	3	7	10	0
+DOID:4479	pseudohypoaldosteronism	0	0	10	3	3	0	2	10	10	1
+DOID:0110639	congenital muscular dystrophy due to integrin alpha-7 deficiency	0	0	1	8	1	0	3	29	10	0
+DOID:0110305	autosomal dominant limb-girdle muscular dystrophy type 1E	0	0	8	1	1	0	1	10	10	0
+DOID:0050588	muscular dystrophy-dystroglycanopathy	0	0	1	8	1	0	1	35	10	0
+DOID:0090043	dystonia 5	0	0	7	3	1	0	1	10	10	0
+DOID:0110260	cataract 7	0	0	1	6	4	0	0	10	10	0
+DOID:0060855	autosomal dominant pseudohypoaldosteronism type 1	0	0	10	3	3	0	2	10	10	1
+DOID:3756	protein C deficiency	0	0	9	1	1	0	1	12	10	0
+DOID:3763	hermaphroditism	0	0	5	2	3	0	0	10	10	0
+DOID:10591	pre-eclampsia	0	0	2	1	7	0	1	22	10	0
+DOID:0110005	Leber congenital amaurosis 9	7	0	1	3	0	0	1	10	10	0
+DOID:3382	liposarcoma	0	3	6	0	5	0	0	6	10	0
+DOID:3947	adrenal gland hyperfunction	0	0	6	2	5	0	1	6	10	0
+DOID:0070025	X-linked dyskeratosis congenita	0	0	6	2	6	0	1	13	10	0
+DOID:0060854	autosomal recessive pseudohypoaldosteronism type 1	0	0	10	3	3	0	2	10	10	1
+DOID:13359	Ehlers-Danlos syndrome	1	0	6	8	2	0	5	5	10	0
+DOID:0060746	basal laminar drusen	7	0	1	1	3	0	1	10	10	0
+DOID:0060745	Doyne honeycomb retinal dystrophy	7	0	1	1	3	0	1	10	10	0
+DOID:0060677	catecholaminergic polymorphic ventricular tachycardia 3	0	0	9	1	0	0	1	12	10	0
+DOID:0060675	catecholaminergic polymorphic ventricular tachycardia 1	0	0	5	7	5	0	1	18	10	0
+DOID:3193	peripheral nerve sheath neoplasm	0	2	7	0	2	0	0	5	10	0
+DOID:3962	follicular thyroid carcinoma	0	3	4	5	3	0	5	8	10	0
+DOID:12932	endomyocardial fibrosis	0	0	9	1	1	0	1	13	10	0
+DOID:0060678	catecholaminergic polymorphic ventricular tachycardia 4	0	0	9	1	0	0	1	12	10	0

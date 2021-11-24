@@ -1,0 +1,153 @@
+C0001308	Acute and subacute liver necrosis (disorder)	2153
+C0001339	Acute pancreatitis	5068
+C0002736	Amyotrophic Lateral Sclerosis	3480
+C0002792	anaphylaxis	153
+C0002874	Aplastic Anemia	3815
+C0003499	Supravalvular aortic stenosis	845
+C0003811	Cardiac Arrhythmia	948
+C0003850	Arteriosclerosis	64240
+C0003873	Rheumatoid Arthritis	3181
+C0004096	Asthma	177
+C0005398	Cholestasis, Extrahepatic	9971
+C0007102	Malignant tumor of colon	8797
+C0007112	Adenocarcinoma of prostate	5604
+C0007137	Squamous cell carcinoma	596
+C0007138	Carcinoma, Transitional Cell	301
+C0007194	Hypertrophic Cardiomyopathy	57158
+C0007787	Transient Ischemic Attack	3479
+C0007959	Charcot-Marie-Tooth Disease	2953
+C0008370	Cholestasis	9970	8856
+C0008479	Chondrosarcoma	2475
+C0009375	Colonic Neoplasms	4318	4221	80781
+C0009404	Colorectal Neoplasms	1499	208	10628
+C0011853	Diabetes Mellitus, Experimental	5243	3952	4086	3643	5045	51738
+C0011854	Diabetes Mellitus, Insulin-Dependent	199
+C0011860	Diabetes Mellitus, Non-Insulin-Dependent	5176	5078
+C0011881	Diabetic Nephropathy	8074
+C0011884	Diabetic Retinopathy	3480
+C0013604	Edema	623
+C0014072	Experimental Autoimmune Encephalomyelitis	387	1601	859	953	729	942	361
+C0014836	Escherichia coli Infections	4915
+C0014859	Esophageal Neoplasms	1495
+C0015934	Fetal Growth Retardation	51738	3479	2693	3480
+C0016059	Fibrosis	811
+C0017636	Glioblastoma	64123	64506
+C0017638	Glioma	63827	3958	6455
+C0017658	Glomerulonephritis	183	241	6696
+C0018129	Graft Rejection	5698
+C0018133	Graft-vs-Host Disease	3303	3304
+C0018800	Cardiomegaly	10631	1906
+C0018801	Heart failure	4323	3586	4322	4317
+C0018802	Congestive heart failure	4323	3586	4322	4317
+C0019189	Hepatitis, Chronic	2153
+C0019202	Hepatolenticular Degeneration	6609
+C0020255	Hydrocephalus	358	361
+C0020429	Hyperalgesia	3557	156
+C0020538	Hypertensive disease	1901	348	554	7412
+C0020541	Portal Hypertension	22846
+C0020542	Pulmonary Hypertension	3371	4843
+C0021655	Insulin Resistance	3643
+C0022104	Irritable Bowel Syndrome	2923
+C0022658	Kidney Diseases	8714
+C0022661	Kidney Failure, Chronic	3164	729
+C0022665	Kidney Neoplasm	11200
+C0022680	Polycystic Kidney Diseases	6569
+C0023890	Liver Cirrhosis	406991	2006	4312
+C0023893	Liver Cirrhosis, Experimental	7040	5228	284
+C0023895	Liver diseases	4193
+C0023903	Liver neoplasms	407014	406971	407050	407053	406900	406937	80781	55607	406953
+C0023904	Liver Neoplasms, Experimental	3643	1373
+C0024115	Lung diseases	3569
+C0024141	Lupus Erythematosus, Systemic	6632
+C0024636	Malocclusion	3479
+C0024668	Mammary Neoplasms, Experimental	790	581	836	80781	842	5328	841	10628	572
+C0026552	Morphine Dependence	8772
+C0026640	Mouth Neoplasms	2113	4893
+C0027051	Myocardial Infarction	9370	948
+C0027059	Myocarditis	4282
+C0027627	Neoplasm Metastasis	1719
+C0027814	Neuritis, Autoimmune, Experimental	84868	929	7097	3156
+C0027873	Neuromyelitis Optica	966
+C0028754	Obesity	10062	6554	19	9971	1401	64240	7376
+C0029191	Orchitis	1234
+C0030297	Pancreatic Neoplasm	887
+C0034065	Pulmonary Embolism	1906
+C0035078	Kidney Failure	1906
+C0035304	Retinal Degeneration	1756
+C0035334	Retinitis Pigmentosa	5728
+C0036457	Scrapie	5621
+C0036982	Shock, Hemorrhagic	3553	3162	2099
+C0038220	Status Epilepticus	835
+C0038454	Cerebrovascular accident	6285
+C0038525	Subarachnoid Hemorrhage	51701
+C0040411	Tongue Neoplasms	1029
+C0149519	Chronic Persistent Hepatitis	2153
+C0149521	Pancreatitis, Chronic	572	3458
+C0151744	Myocardial Ischemia	51738
+C0153413	Malignant neoplasm of upper third of esophagus	1495
+C0153414	Malignant neoplasm of middle third of esophagus	1495
+C0153415	Malignant neoplasm of lower third of esophagus	1495
+C0153416	Malignant neoplasm of other specified part of esophagus	1495
+C0153458	malignant neoplasm of head of pancreas	887
+C0153459	Malignant neoplasm of body of pancreas	887
+C0153460	Malignant neoplasm of tail of pancreas	887
+C0153463	Malignant neoplasm of other specified sites of pancreas	887
+C0153519	Malignant neoplasm of connective and other soft tissue, site unspecified	7157
+C0155862	Streptococcal pneumonia	718
+C0160390	Injury of liver	4869
+C0162871	Aortic Aneurysm, Abdominal	1437
+C0206504	Tympanic Membrane Perforation	7422	2247
+C0206624	Hepatoblastoma	407014	406971	407050	407053	406900	406937	80781	55607	406953
+C0206698	Cholangiocarcinoma	3371	64321	9971	4233
+C0220701	RETINITIS PIGMENTOSA 1	5728
+C0235974	Pancreatic carcinoma	3181	1107
+C0242488	Acute Lung Injury	5320	7077	6590
+C0243026	Sepsis	5624	847	150	2693	729	728
+C0265706	Gastroschisis	3815
+C0267941	Pancreatitis, Acute Necrotizing	6347	4179	966	2920
+C0270824	Visual seizure	5048	1641
+C0278752	Mesothelioma malignant advanced	4162
+C0278878	Adult Glioblastoma	64123	64506
+C0280725	Adult Cholangiocarcinoma	3371	64321	9971	4233
+C0334265	Transitional Cell Neoplasm	301
+C0342649	Vascular calcification	5741
+C0345904	Malignant neoplasm of liver	407014	406971	407050	407053	406900	406937	80781	55607	406953
+C0345967	Malignant mesothelioma	4162
+C0349566	Squamous cell carcinoma of tongue	3586	3458	3718
+C0376618	Endotoxemia	4311	150
+C0392400	Diffuse malignant mesothelioma	4162
+C0409959	Osteoarthritis, Knee	3479
+C0428791	Aortic valve calcification	5741
+C0496775	Malignant neoplasm of abdominal part of esophagus	1495
+C0520459	Necrotizing Enterocolitis	142	929
+C0524909	Hepatitis B, Chronic	406900
+C0555198	Malignant Glioma	63827	3958	6455
+C0596263	Carcinogenesis	1788	1786
+C0684249	Carcinoma of lung	1499	1788	1786
+C0699790	Colon Carcinoma	6372
+C0751688	Malignant Squamous Cell Neoplasm	596
+C0751955	Brain Infarction	3176
+C0752308	Hypoxia-Ischemia, Brain	5327
+C0848548	hypertensive nephropathy	10631
+C0872084	Sarcopenia	9131
+C0919267	ovarian neoplasm	3732
+C0949658	Cardiomyopathy, Hypertrophic, Familial	57158
+C1134719	Invasive Ductal Breast Carcinoma	7009
+C1140680	Malignant neoplasm of ovary	3732
+C1299247	Primary malignant neoplasm of ovary and other uterine adnexa	3732
+C1319315	Adenocarcinoma of large intestine	10902
+C1332338	Asbestos-Related Malignant Mesothelioma	4162
+C1333419	Liver and Intrahepatic Bile Duct Epithelial Neoplasm	4524	84787	1277	4233
+C1333976	Liver and Intrahepatic Bile Duct Neoplasm	4524	84787	1277	4233
+C1335473	Primary chondrosarcoma of bone	2475
+C1397307	Cardiac fibrosis	51738
+C1514422	Glioblastoma, IDH-Wildtype	64123	64506
+C1527349	Ductal Breast Carcinoma	7009
+C2239176	Liver carcinoma	407014	406971	407050	407053	406900	406937	80781	55607	406953
+C2316810	Chronic kidney disease stage 5	729
+C2609414	Acute kidney injury	23411
+C2676033	Hepatoblastoma Caused By Somatic Mutation	407014	406971	407050	407053	406900	406937	80781	55607	406953
+C2750440	FATTY LIVER DISEASE, NONALCOHOLIC, SUSCEPTIBILITY TO, 1	3156	64241	9971	64240	6352
+C2750441	LIVER DISEASE, ALCOHOLIC, SUSCEPTIBILITY TO, 1	3156	64241	9971	64240	6352
+C3150651	FATTY LIVER DISEASE, NONALCOHOLIC, SUSCEPTIBILITY TO, 2	3156	64241	9971	64240	6352
+C4277682	Chemical and Drug Induced Liver Injury	26291	9971	7099
