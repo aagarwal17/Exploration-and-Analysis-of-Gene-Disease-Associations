@@ -1,0 +1,68 @@
+C0006413	Burkitt Lymphoma	5079	4609	6929	3131	27086	26053	2120	861	4299	5156	4297	5087	25	613
+C0014474	Ependymoma	5970	65998
+C0016057	Fibrosarcoma	2120	4916
+C0018922	hemangiopericytoma	6778	4665
+C0023434	Chronic Lymphocytic Leukemia	3500	595
+C0023437	Acute Basophilic Leukemia	2623	4602
+C0023473	Myeloid Leukemia, Chronic	25	613
+C0023479	Acute myelomonocytic leukemia	4629	865
+C0023480	Leukemia, Myelomonocytic, Chronic	2120	5159
+C0023487	Acute Promyelocytic Leukemia	359948	5371	7704	54880	64859	79718	4869	5573	5914	4926	81608	6774	6777
+C0024301	Lymphoma, Follicular	604	596	3492
+C0026948	Mycosis Fungoides	940	1493
+C0026985	Myelodysplasia	2122
+C0036920	Sezary Syndrome	940	1493
+C0039101	synovial sarcoma	6756	6757	6760
+C0079770	Lymphoma, Small Noncleaved-Cell	4609
+C0206182	Lymphomatoid Papulosis	7297	4869
+C0206630	Endometrial Stromal Sarcoma	729262	728118	23512	7531	221895
+C0206634	Liposarcoma, Myxoid	2521	1649
+C0206651	Clear Cell Sarcoma of Soft Tissue	2130	466	1385
+C0206655	Alveolar rhabdomyosarcoma	5077	2308	5081
+C0206657	Alveolar Soft Part Sarcoma	79058	7030
+C0206726	gliosarcoma	10460	2260	1956	2261	346288	6867
+C0206729	Neurofibrosarcoma	5654	9644
+C0206732	Epithelioid hemangioendothelioma	10413	25937	23261	7030
+C0221290	Chondromyxoid fibroma	2911
+C0238463	Papillary thyroid carcinoma	51592	8030	5108	4916	10342	8805	2120	7849	23085	238	8031	4914	5468	7175	5979	9950	5987
+C0242647	Mucosa-Associated Lymphoid Tissue Lymphoma	8915	27086	330	10892	3492
+C0279980	Extra-osseous Ewing's sarcoma	8467	2130	2078	2313
+C0280141	Acute Undifferentiated Leukemia	4297
+C0281508	Desmoplastic Small Round Cell Tumor	2130	7490
+C0334121	Inflammatory Myofibroblastic Tumor	7170	238	7171	1213	833	5903
+C0334287	Fibrolamellar Hepatocellular Carcinoma	3337	5566
+C0334488	Clear cell sarcoma of kidney	729262	153572	7531	283008	7015
+C0334588	Giant Cell Glioblastoma	10460	2260	1956	2261	346288	6867
+C0346421	Chronic eosinophilic leukemia	5156	81608
+C0392784	Dermatofibrosarcoma Protuberans	1277	5155
+C0410005	Nodular fasciitis	9098	4627
+C0553580	Ewings sarcoma	2115	2130	2313	2118	2078
+C0684337	Ewings sarcoma-primitive neuroectodermal tumor (PNET)	2313
+C0751690	Malignant Peripheral Nerve Sheath Tumor	5654	9644
+C0855095	Small Lymphocytic Lymphoma	3500	595
+C0856823	Undifferentiated type acute leukemia	4297
+C1260386	Glucocorticoid-remediable aldosteronism	1584	1585
+C1266119	Solitary fibrous tumor	6778	4665
+C1275278	Extraskeletal Myxoid Chondrosarcoma	8013	8148	10342	2130	6938
+C1292769	Precursor B-cell lymphoblastic leukemia	5079	6929	3131	27086	26053	2120	861	4299	5156	4297	5087	25	613
+C1301362	Primary Cutaneous Anaplastic Large Cell Lymphoma	7297	4869
+C1332965	Congenital Mesoblastic Nephroma	2120	4916
+C1333046	Myeloproliferative Neoplasm, Unclassifiable	5159
+C1333294	ALK positive large B-cell lymphoma	238
+C1333985	Hereditary clear cell renal cell carcinoma	79663	11236	729582	2272
+C1519086	Pilomyxoid astrocytoma	673	4915	9901	5894	57670
+C1519176	Salivary Gland Pleomorphic Adenoma	8091	5324
+C1707291	NUT midline carcinoma	23476	256646
+C1868683	B-CELL MALIGNANCY, LOW-GRADE	3500	595
+C1961099	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	30012	6957	8028	4602	613	4609	6886	3195	1654	8301	6418	8115	8021	6297	7704	6491	6964	3187	6955	25
+C2363903	Angiocentric glioma	9444	4602
+C2826025	Mixed phenotype acute leukemia	4297
+C3150773	CHROMOSOME 8p11 MYELOPROLIFERATIVE SYNDROME	2260
+C3463824	MYELODYSPLASTIC SYNDROME	2122
+C3472621	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	5159
+C3714524	Fibromyxosarcoma	90993	2521	64764
+C4289581	RELA fusion-positive ependymoma	5970	65998
+C4511003	Acute myeloid leukemia with t(8;16)(p11;p13) translocation	1387	7994
+C4518356	MiT family translocation renal cell carcinoma	79058	4841	1213	5546	7030	7942	6421
+C4545381	Myeloid and/or lymphoid neoplasm associated with platelet derived growth factor receptor alpha rearrangement	5156
+C4706584	Megakaryoblastic acute myeloid leukemia with t(1;22)(p13;q13)	57591	64783

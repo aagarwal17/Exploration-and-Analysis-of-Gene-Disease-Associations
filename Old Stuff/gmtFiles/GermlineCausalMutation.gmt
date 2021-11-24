@@ -1,0 +1,2843 @@
+C0000744	Abetalipoproteinemia	4547
+C0001080	Achondroplasia	2261
+C0001193	Apert syndrome	2263
+C0002312	alpha-Thalassemia	3040	3039
+C0002736	Amyotrophic Lateral Sclerosis	2733	9896	25978	755	2521	5445	5446	10133	8878	3178	7415	23435	2066	1610	9782	400916	203228	899	311	29978	5216	9217	6647	283	5444
+C0002768	Congenital Pain Insensitivity	6335	4803
+C0002875	Cooley's anemia	3043
+C0002895	Anemia, Sickle Cell	3043
+C0003076	Aniridia	54765	5080	2296
+C0003499	Supravalvular aortic stenosis	2006
+C0003803	Arnold Chiari Malformation	80199
+C0004779	Basal Cell Nevus Syndrome	5727	51684	8643
+C0005129	Bernard-Soulier Syndrome	2812	2815	2811
+C0006845	Candidiasis, Chronic Mucocutaneous	112744	23765	10758	84818	64581
+C0007965	Chediak-Higashi Syndrome	1130
+C0008029	Cherubism	6452
+C0008384	Cholesterol Ester Storage Disease	3988
+C0008525	Choroideremia	1121
+C0008928	Cleidocranial Dysplasia	860
+C0009447	Common Variable Immunodeficiency	4791	23495	115650	5580	975	930	4790	8742	931	29851	1380
+C0010324	Crigler Najjar syndrome, type 1	54658
+C0010674	Cystic Fibrosis	1080
+C0010964	Dandy-Walker Syndrome	4811
+C0011195	Dejerine-Sottas Disease (disorder)	4359	57716	5376	1959
+C0011848	Diabetes Insipidus	551
+C0011859	Lipoatrophic Diabetes Mellitus	284119	5468	2353	857
+C0012236	DiGeorge Syndrome	6899
+C0013261	Duane Retraction Syndrome	1123	9935	84570
+C0013264	Muscular Dystrophy, Duchenne	1756
+C0013366	Dyschondroplasias	5745
+C0013481	Ebstein Anomaly	4625
+C0013581	Ectopia Lentis	2200	54507
+C0013902	Elliptocytosis, Hereditary	6708	2995	6710	2035
+C0013903	Ellis-Van Creveld Syndrome	51626	2735	2121	132884
+C0014067	Occipital Encephalocele	51339
+C0014084	Enchondromatosis	5745
+C0014522	Epidermodysplasia Verruciformis	10519	147138	11322	3574
+C0014805	Primary Erythermalgia	6335
+C0014848	Esophageal Achalasia	4842	9244
+C0015499	Hereditary Factor V Deficiency	2153
+C0015503	Factor VII Deficiency	2155
+C0015519	Factor X Deficiency	2159
+C0015523	Hereditary Factor XI Deficiency	2160
+C0015526	Factor XII Deficiency	2161
+C0015530	Hereditary Factor XIII Deficiency	2165	2162
+C0015625	Fanconi Anemia	55159	672	29089	10459	2072	5888	7516
+C0016037	Fibrodysplasia Ossificans Progressiva	90
+C0016395	Focal Dermal Hypoplasia	64840
+C0016719	Friedreich Ataxia	2395
+C0016751	Hereditary fructose intolerance syndrome	229
+C0016756	Fructose-1,6-Diphosphatase Deficiency	2203
+C0016781	Fuchs Endothelial Dystrophy	123624	1296	6935	83959	6925
+C0016788	Fucosidase Deficiency Disease	2517
+C0017920	Glycogen Storage Disease Type I	2538
+C0017922	Glycogen Storage Disease Type III	2632	178
+C0017924	Glycogen Storage Disease Type V	5837
+C0017925	Glycogen Storage Disease Type VI	5836
+C0017926	Glycogen Storage Disease Type VII	5213
+C0017980	Glycosuria, Renal	6524
+C0018036	Hypertension, Goldblatt	9321
+C0018054	Gonadal Dysgenesis, 46,XY	6662	4214	84733
+C0018203	Chronic granulomatous disease	79415
+C0018425	Gyrate Atrophy	4942
+C0018553	Hamartoma Syndrome, Multiple	207	5728	10483	6391	5290	100144748	6392	6390
+C0018609	Hartnup Disease	340024
+C0019021	Hemoglobin C Disease	3043
+C0019025	Hemoglobin F Disease	3047	10661	3048	3043
+C0019202	Hepatolenticular Degeneration	540
+C0019562	Von Hippel-Lindau Syndrome	7428
+C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	9517	25923	51062	10558
+C0020072	Hereditary Sensory Autonomic Neuropathy, Type 2	6335
+C0020075	Hereditary Sensory Autonomic Neuropathy, Type 5	6335	4803
+C0020179	Huntington Disease	3064
+C0020225	Hydranencephaly	54820
+C0020258	Hydrocephalus, Normal Pressure	80217
+C0020302	Hydrophthalmos	4653	1545	7010	4053
+C0020481	Hyperlipoproteinemia Type V	116519
+C0020514	Hyperprolactinemia	5618
+C0020608	Hypodontia	2260	7480	7039	128178	1896	8313	5083	80326	4487	4040	3664
+C0020640	Inherited Factor II deficiency	2147
+C0020725	Type II Mucolipidosis	79158
+C0021847	Intestinal Pseudo-Obstruction	2316	79827
+C0022336	Creutzfeldt-Jakob disease	5621
+C0022350	Jaundice, Chronic Idiopathic	1244
+C0022387	Jervell-Lange Nielsen Syndrome	3784	3753
+C0022521	Kartagener Syndrome	83861	2302	388389	115399	79925	54768	89765	54919	345643	56683	6674	85016	161582	25981	51364	1770	200373	374407	92749	8481	246176	83538	27148	93233	352909	55130	85478	10309	115948	23639	6103	2622	139212
+C0022541	Kearns-Sayre syndrome	50484
+C0022595	Keratosis Follicularis	488
+C0022738	Klippel-Feil Syndrome	392255	9573	4222
+C0022797	Adult Neuronal Ceroid Lipofuscinosis	54982
+C0023138	Laurence-Moon Syndrome	10908
+C0023195	Lecithin Acyltransferase Deficiency	3931
+C0023234	Legg-Calve-Perthes Disease	1280
+C0023374	Lesch-Nyhan Syndrome	3251
+C0023795	Lipoid Proteinosis of Urbach and Wiethe	1893
+C0023804	Lipomatosis, Multiple Symmetrical	9927
+C0023806	Lipomucopolysaccharidosis	4758
+C0023817	Hyperlipoproteinemia Type I	4023
+C0023931	Lobstein Disease	1278	1277
+C0024433	Macrostomia	23384	8643
+C0024439	Macular corneal dystrophy	4166
+C0024507	Majewski Syndrome	26146	79659	4750
+C0024796	Marfan Syndrome	2200
+C0024814	Marinesco-Sjogren syndrome	64374	51763
+C0025221	Meleda Disease	57152
+C0025237	Melnick-Needles Syndrome	2316
+C0025268	Multiple Endocrine Neoplasia Type 2a	5979
+C0025269	Multiple Endocrine Neoplasia Type 2b	5979
+C0025286	Meningioma	6598	51684	5155
+C0026010	Microphthalmos	7439	26022	83552	23418	646960
+C0026267	Mitral Valve Prolapse Syndrome	6530
+C0026363	Mohr Syndrome	4750
+C0026708	Mucopolysaccharidosis V	3425
+C0027092	Myopia	9997	55214	4043
+C0027708	Nephroblastoma	10155	9319
+C0027821	Neurocirculatory Asthenia	6530
+C0028326	Noonan Syndrome	6655	673	144568	8216	23522	6016	4893	22808	3845	22800	6654	5894	5922	5781
+C0029411	Osteoarthropathy, Primary Hypertrophic	6578	3248
+C0029455	Osteopoikilosis (disorder)	23592
+C0029463	Osteosarcoma	7157
+C0030044	Acrocephaly	7545
+C0030246	Pustulosis of Palms and Soles	26525	130340
+C0030360	Papillon-Lefevre Disease	1075
+C0031069	Familial Mediterranean Fever	4210
+C0031269	Peutz-Jeghers Syndrome	6794
+C0031900	Pierre Robin Syndrome	6662
+C0032027	Pityriasis Rubra Pilaris	79092
+C0032197	Platelet Storage Pool Deficiency	8328
+C0033300	Progeria	10269
+C0033770	Prune Belly Syndrome	1131
+C0033788	Pseudo-Hurler Polydystrophy	79158
+C0033835	Pseudopseudohypoparathyroidism	2778
+C0033847	Pseudoxanthoma Elasticum	368	5167
+C0034091	Pulmonary Veno-Occlusive Disease (disorder)	440275
+C0034345	Pyruvate Dehydrogenase Complex Deficiency Disease	5160	9361
+C0035334	Retinitis Pigmentosa	5949	196	583	92211	138050	60509	23370	26160	157657	9227	54806	403	9128	9785	55624	23568	8481	57709	7275	57670	92840	8100	6102	55857	6103	4751	49855	55812	79797	9742
+C0035528	Riboflavin Deficiency	55065
+C0035828	Romano-Ward Syndrome	859	287	801	6331	6330	6336	9992	6640	3762	805	10142	3757	10345	3784	3753
+C0036069	Saldino-Noonan Syndrome	79659
+C0036391	Schwartz-Jampel Syndrome	3339
+C0036489	Sea-Blue Histiocyte Syndrome	348
+C0037052	Sick Sinus Syndrome	6331	10021
+C0037221	Situs Inversus	118856	220136	1770	124401	4838	168507	146845	29922
+C0037231	Sjogren-Larsson Syndrome	224
+C0037769	West Syndrome	23236	221692	4915	170302	11152	2904	6709	6326	10695	150094	6812	60558	6792	5277	6487
+C0037889	Hereditary spherocytosis	286	6710	2038	6708	6521
+C0038505	Sturge-Weber Syndrome	5921
+C0039292	Tangier Disease	19
+C0039445	Hereditary hemorrhagic telangiectasia	2658
+C0039685	Tetralogy of Fallot	2626	182	140628
+C0040015	Thrombasthenia	3690	3674
+C0041207	Truncus Arteriosus, Persistent	23129
+C0043119	Werner Syndrome	7486
+C0043194	Wiskott-Aldrich Syndrome	7456	7454
+C0043207	Wolfram Syndrome	493856	7466
+C0043208	Wolman Disease	3988
+C0043459	Zellweger Syndrome	8799
+C0079153	Hyperkeratosis, Epidermolytic	3848	3858
+C0079154	Congenital Nonbullous Ichthyosiform Erythroderma	7051	59344	643418	126410	204219	348938	6820	121214	285848	26154	242
+C0079474	Hallopeau-Siemens Disease	1294
+C0079588	Ichthyosis, X-Linked	412
+C0079661	Klein's Syndrome	5077
+C0080024	Piebaldism	3815	6591
+C0085106	Familial benign pemphigus	27032
+C0085132	Mucopolysaccharidosis VII	2990
+C0085261	Proteus Syndrome	5728
+C0085413	Polycystic Kidney, Autosomal Dominant	23193
+C0085547	Phenylketonuria, Maternal	5053
+C0085548	Autosomal Recessive Polycystic Kidney Disease	199221
+C0085576	Iron-Refractory Iron Deficiency Anemia	164656
+C0085859	Polyglandular Type I Autoimmune Syndrome	326
+C0086431	Hurler-Scheie Syndrome	3425
+C0086647	Mucopolysaccharidosis Type IIIA	6448
+C0086648	MPS III B	4669
+C0086649	MPS III C	138050
+C0086650	MPS III D	2799
+C0086795	Pfaundler-Hurler Syndrome	3425
+C0087031	Juvenile-Onset Still Disease	144811
+C0149630	Bicuspid aortic valve	1482	4091	4851	140628
+C0151516	Thyroid Hypoplasia	5172	7253	7849
+C0152200	Achromatopsia	2780	22926	1261	54714	5149	5146
+C0152264	Familial erythrocytosis	2057
+C0152423	Congenital small ears	3199
+C0152426	Craniorachischisis	51339
+C0154682	Lateral Sclerosis	6687
+C0155017	Color Blindness, Blue	611
+C0155299	Coloboma of optic disc	7855	5080	10058	6297
+C0155912	Pulmonary Alveolar Microlithiasis	10568
+C0157743	Vibratory urticaria	30817
+C0158646	Cleft palate with cleft lip	1748
+C0158667	Aplasia of Lacrimal and Salivary Glands	2255
+C0158683	Polycystic liver disease	4041	11231	5589
+C0162359	Christ-Siemens-Touraine syndrome	60401	1896
+C0162361	Hidrotic Ectodermal Dysplasia	10804
+C0162510	Caroli Disease	5314
+C0162530	Porphyria, Erythropoietic	2623
+C0162539	IgG Deficiency disorder	3501	3514
+C0162569	Hepatoerythropoietic Porphyria	7389
+C0162671	MELAS Syndrome	4538	4541	4558	4540	4535	4513	4578	4512	4574
+C0162672	MERRF Syndrome	4567	4558	4540	4564	4571	4574
+C0162674	Chronic progressive external ophthalmoplegia	4574	4570	4568
+C0162809	Kallmann Syndrome	389549	55636	8820	3730	6663	2253	10371	6657	1848	2260	60675	55717	26012	81848	84634	128674	6658	1630	9915	5015	285025	23767	6870	54756	8822	9394
+C0175691	Dubowitz syndrome	3981	54888
+C0175692	Johanson-Blizzard syndrome	197131
+C0175695	Sotos' syndrome	29072	10297
+C0175697	Van der Woude syndrome	57822	3664
+C0175699	Saethre-Chotzen Syndrome	7291
+C0175700	Multiple synostosis syndrome	9241	8200	2254
+C0175701	Aarskog syndrome	2245
+C0175703	Thrombocytopenia-Absent Radius Syndrome	9939
+C0175707	Asplenia Syndrome	2657
+C0175778	Larsen syndrome	2317
+C0205710	Alpers Syndrome (disorder)	5428
+C0205713	Roussy-Levy Syndrome (disorder)	4359	5376
+C0205770	Choroid Plexus Papilloma	7157
+C0206245	Amyloid Neuropathies, Familial	7276
+C0220633	Uveal melanoma	8314
+C0220659	Acrodysostosis	5144	5573
+C0220662	ARTHROGRYPOSIS, DISTAL, TYPE 1	7136	7169	4604	259232	7140	4621
+C0220666	ARTHROGRYPOSIS MULTIPLEX CONGENITA, DISTAL, TYPE IIA	63895
+C0220669	Familial benign neonatal epilepsy	6326	6334	112476	3785	3786
+C0220679	Ehlers-Danlos Syndrome, Autosomal Dominant, Type Unspecified	1290	1289	1277
+C0220685	Achondrogenesis type 2	1280
+C0220687	KBG syndrome	29123
+C0220693	Microcephaly autosomal dominant	1804
+C0220704	Shprintzen syndrome	6899
+C0220711	Long chain acyl-CoA dehydrogenase deficiency	33
+C0220722	Cerebrooculofacioskeletal Syndrome 1	2073	2068	2067
+C0220730	Fryns syndrome	23556
+C0220743	Childhood hypophosphatasia (disorder)	249
+C0220744	Multiple gastrointestinal atresias (disorder)	57217
+C0220767	Craniofrontonasal dysplasia	1947
+C0220769	FG syndrome	9968
+C0220987	Hereditary orotic aciduria	7372
+C0220991	Rotor Syndrome	10599	28234
+C0220992	Histidinemia	3034
+C0220993	Cystathioninuria	1491
+C0221023	Cyclic neutropenia	1991
+C0221032	Familial generalized lipodystrophy	284119	5468	2353	857
+C0221036	Acrodermatitis enteropathica	55630
+C0221043	Liddle Syndrome	6337	6340	6338
+C0221054	Welander Distal Myopathy	7072
+C0221055	Paramyotonia Congenita (disorder)	6329
+C0221060	Mobius Syndrome	5980	23129
+C0221355	Macrocephaly	51256
+C0221356	Brachycephaly	7291	2261	6938	7545
+C0221409	Anemia, hereditary spherocytic hemolytic	286	6710	2038	6708	6521
+C0238111	Lennox-Gastaut syndrome	23316	2562	6323	1106	1759
+C0238159	Hemoglobin E disease	3043
+C0238198	Gastrointestinal Stromal Tumors	3815	6389
+C0238286	Mucolipidosis Type IV	57192
+C0238288	Muscular Dystrophy, Facioscapulohumeral	23347
+C0238339	Hereditary pancreatitis	5644	6690
+C0238357	Hyperkalemic periodic paralysis	6329
+C0238402	Pycnodysostosis	1513
+C0238506	Congenital posterior urethral valves	54796
+C0238590	Acrogeria	1281
+C0239849	Harlequin Fetus	26154
+C0242287	Isaacs syndrome	3094
+C0242343	Panhypopituitarism	6658	5626
+C0242852	Proliferative vitreoretinopathy	726
+C0259771	Steatocystoma multiplex	3872
+C0263402	Telangiectasia macularis eruptiva perstans	3815
+C0263429	Atrophoderma vermiculatum	4035
+C0263505	Alopecia universalis	55806
+C0264955	Idiopathic arterial calcification of infancy	368
+C0265202	Seckel syndrome	545	55835	1062	84126	10733	5932	10293	22995
+C0265205	Robinow Syndrome	1855	2535	7474	1857
+C0265210	Weaver syndrome	2146	23512	8726
+C0265211	Marshall-Smith syndrome	4784
+C0265215	Meckel-Gruber syndrome	27077	79867	91147	79583	51259	79848	57545	23322	80776	55165	84314	54903	80184
+C0265218	Neu-Laxova syndrome	26227	29968
+C0265221	Walker-Warburg congenital muscular dystrophy	10585	10329	9215	729920	148789	84892	2218	55624	11041	29954	84197	1282	79147	1605
+C0265223	Cohen syndrome	157680
+C0265224	Freeman-Sheldon syndrome	4621	259232
+C0265226	Hecht syndrome (disorder)	4626
+C0265227	Schinzel-Giedion syndrome	26040
+C0265233	Cryptophthalmos syndrome	23426	80144	341640
+C0265235	Marshall syndrome	1301
+C0265240	Goldenhar Syndrome	4661
+C0265242	Otocephaly	5396
+C0265245	Nager syndrome	10262
+C0265246	Townes syndrome	51339
+C0265257	Genee-Wiedemann syndrome	1723
+C0265260	Chondrodysplasia, Grebe type	658	8200
+C0265261	Multiple pterygium syndrome	1146	4621
+C0265267	Congenital Hemidysplasia with Ichthyosiform Erythroderma and Limb Defects	50814
+C0265268	Adams Oliver syndrome	57572	57514	3516	54567	4851	285203
+C0265269	Lacrimoauriculodentodigital syndrome	2263	2261	2255
+C0265273	Achondrogenesis type 1A	9321
+C0265275	Jeune thoracic dystrophy	79809	51626	26160	57560	89891	55112	153241	79659	9742	57728
+C0265279	Kniest dysplasia	1280
+C0265281	Metatropic dwarfism	59341
+C0265282	Fibrochondrogenesis	1302	1301
+C0265286	Dyggve-Melchior-Clausen syndrome	54808
+C0265287	Acromicric Dysplasia	2200	4054
+C0265289	Metaphyseal chondrodysplasia Schmid type	1300
+C0265291	Kenny-Caffey syndrome	63901
+C0265292	Schwartz-Lelek syndrome	56172	2697
+C0265293	Frontometaphyseal dysplasia	2316	6885
+C0265294	Pyle metaphyseal dysplasia	6424
+C0265295	Jansen type metaphyseal chondrodysplasia	5745
+C0265301	Sclerosteosis	4038
+C0265306	Greig cephalopolysyndactyly syndrome	2737
+C0265308	Baller-Gerold syndrome	9401
+C0265312	Brachydactyly syndrome type E	3239	5744
+C0265313	Weill-Marchesani syndrome	4053
+C0265325	Turcot syndrome (disorder)	2956	5395	4436	4292
+C0265331	Autosomal dominant hypohidrotic ectodermal dysplasia syndrome (disorder)	10913	128178	126695	7189
+C0265333	Tricho-dento-osseous syndrome (disorder)	1747
+C0265336	Senter syndrome	2706	10804
+C0265338	Coffin-Siris syndrome	6601	5977	196528	6605	6659	6664
+C0265339	Borjeson-Forssman-Lehmann syndrome	84295
+C0265341	Rieger syndrome	5308	2296
+C0265342	Cerebrocostomandibular Syndrome	6628
+C0265343	Jarcho-Levin syndrome	134701
+C0265344	Donohue Syndrome	3643
+C0265345	Lymphedema distichiasis syndrome	2303
+C0265363	Urethral obstruction sequence	1131
+C0265514	Dermatofibrosis lenticularis disseminata	23592
+C0265529	Plagiocephaly	7291	2261	6938	7545
+C0265534	Scaphycephaly	2077	7291
+C0265535	Trigonocephaly	158326	2260
+C0265553	Polysyndactyly	2737
+C0265554	Ectrodactyly	7480	1750	1749	58513	8626
+C0265559	Acheiropodia	64327
+C0265581	Longitudinal deficiency of radius	64327	6469
+C0265633	Congenital absence of tibia	2737
+C0265961	Erythrokeratodermia variabilis	3889	2531	2707	127534	54795	2697
+C0265962	Ichthyosis linearis circumflexa	11005
+C0265964	Mutilating keratoderma	2706
+C0265965	Dyskeratosis Congenita	79650	51750	5073	80169
+C0265970	Porokeratosis, Disseminated Superficial Actinic	2224	4597	63910	4598
+C0265971	Acrokeratosis Verruciformis of Hopf	488
+C0266004	Knuckle pads, leuconychia and sensorineural deafness	2706
+C0266006	Pili torti-deafness syndrome	617
+C0266283	Ectopic thyroid tissue (disorder)	1482	7849
+C0266294	Unilateral agenesis of kidney	7380	652	341640	80144	25778	80000	5979	158326
+C0266313	Allanson Pantzar McLeod syndrome	1636	5972	185	183
+C0266361	True Hermaphroditism (disorder)	6662	2516	6736
+C0266526	Norrie disease	4693
+C0266539	Congenital total cataract	2651	23268	3299	1415	2703	1419	3982	4047	23094	221496	4284	55750	79443	1969	1409
+C0266548	Axenfeld anomaly (disorder)	5308	2296
+C0266551	Congenital coloboma of iris	6297	71	7855	5080	10058
+C0266568	Persistent Hyperplastic Primary Vitreous	220202	8322
+C0266573	Congenital ptosis	84570
+C0266642	Situs ambiguus	220136	1770	168507	118856
+C0266833	Visceral Myopathy, Familial	72
+C0267662	Congenital chloride diarrhea	1811
+C0267663	Congenital secretory diarrhea, sodium type (disorder)	6550	10653	2984
+C0267937	Acute recurrent pancreatitis	5644	1080
+C0268080	Hypercalcemia, Idiopathic, of Infancy	6569	1591
+C0268117	Gout, HPRT-Related	3251
+C0268118	Xanthinuria, Type I	7498
+C0268120	Adenine phosphoribosyltransferase deficiency	353
+C0268123	Muscle AMP deaminase deficiency	270	272
+C0268124	Adenosine deaminase deficiency	100
+C0268125	Purine-nucleoside phosphorylase deficiency	4860
+C0268126	Adenylosuccinate lyase deficiency (disorder)	158
+C0268130	Hereditary orotic aciduria, type 1	7372
+C0268146	Glucose-6-phosphate transport defect	2542
+C0268149	Glycogen storage disease type X	5224
+C0268155	Deficiency of galactokinase	2584
+C0268160	Deficiency of fructokinase	3795
+C0268162	Pentosuria	51181
+C0268164	Primary hyperoxaluria, type I	189
+C0268165	Primary hyperoxaluria type 2	9380
+C0268179	Lactase Deficiency, Congenital	3938
+C0268186	Congenital glucose-galactose malabsorption	6523
+C0268187	alpha, alpha-Trehalase deficiency	11181
+C0268193	NADH cytochrome B5 reductase deficiency	1738
+C0268194	Phosphoenolpyruvate carboxykinase deficiency	5105	5106
+C0268199	Familial apolipoprotein C-II deficiency	344
+C0268225	Aspartylglucosaminuria	175
+C0268226	Type I Mucolipidosis	4758
+C0268233	GALACTOSIALIDOSIS	5476
+C0268237	Cytochrome-c Oxidase Deficiency	116228	84987	100303755	1351	4513	9377	28958	4512	1352	1340	4514
+C0268238	Triglyceride storage disease with ichthyosis	51099
+C0268242	Niemann-Pick Disease, Type A	6609
+C0268243	Niemann-Pick Disease, Type B	6609
+C0268252	Late-Onset Globoid Cell Leukodystrophy	2581
+C0268255	Farber Lipogranulomatosis	427
+C0268263	Multiple Sulfatase Deficiency Disease	285362
+C0268275	Tay-Sachs Disease, AB Variant	2760
+C0268285	Adrenal hyperplasia, congenital, type 5	1528	1586
+C0268292	Congenital adrenal hyperplasia due to 11-Beta-hydroxylase deficiency	1584
+C0268296	17-Hydroxysteroid Dehydrogenase Deficiency	3293
+C0268297	Pseudovaginal Perineoscrotal Hypospadias	6716
+C0268328	Porphobilinogen synthase deficiency	210
+C0268341	Ehlers-Danlos syndrome type 5	2316
+C0268342	Ehlers-Danlos syndrome type 6	5351
+C0268344	Ehlers-Danlos syndrome 6B	11107	84627
+C0268345	EHLERS-DANLOS SYNDROME, ARTHROCHALASIA TYPE	1278	1277
+C0268347	Ehlers-Danlos Syndrome, Type VIII	716	715
+C0268350	Cutis Laxa, Autosomal Dominant	10516	2006	5832
+C0268351	Cutis Laxa, Autosomal Recessive, Type I	30008	10516
+C0268354	De Barsy syndrome	5832
+C0268355	Cutis Laxa, Autosomal Recessive, Type IIA	529	23545	523
+C0268358	Osteogenesis imperfecta, dominant perinatal lethal	5479	1278	64175	1277	10491
+C0268362	Osteogenesis imperfecta type III (disorder)	90993	10491	60681	649	5479	1277	1278	7471	5176	871	64175
+C0268363	Osteogenesis imperfecta type IV (disorder)	6678	121340	10491	60681	5479	1278	7471	5176	1277	55151
+C0268390	Muckle-Wells Syndrome	114548
+C0268398	Familial lichen amyloidosis	133396	9180
+C0268412	Infantile hypophosphatasia	249
+C0268413	Adult hypophosphatasia (disorder)	249
+C0268414	Hyperphosphatasemia with bone disease	4982
+C0268416	Enterokinase Deficiency	5651
+C0268419	Acatalasia	847
+C0268448	Primary hypomagnesemia (disorder)	10686
+C0268450	Gitelman Syndrome	1188	6559
+C0268465	Phenylketonuria II	5860
+C0268467	Hyperphenylalaninemia, BH4-Deficient, B	2643
+C0268468	Dystonia, Dopa-Responsive, due to Sepiapterin Reductase Deficiency	6697
+C0268474	Hydroxykynureninuria	8942
+C0268487	Tyrosine Transaminase Deficiency Disease	6898
+C0268495	Oculocutaneous albinism type 2	4948
+C0268505	Ocular albinism, type II	778
+C0268514	Urocanase deficiency	131669
+C0268524	gamma-Glutamyltransferase deficiency	2678
+C0268525	5-oxoprolinase deficiency	26873
+C0268529	Proline dehydrogenase deficiency	5625
+C0268532	Deficiency of prolidase	5184
+C0268547	Argininosuccinic Aciduria	435
+C0268553	Hyperlysinemias	10157
+C0268556	Saccharopinuria	10157
+C0268563	Sarcosinemia	1757
+C0268575	Isovaleryl-CoA dehydrogenase deficiency	3712
+C0268581	Holocarboxylase Synthetase Deficiency	3141
+C0268595	Glutaric aciduria, type 1	2639
+C0268600	3-methylcrotonyl CoA carboxylase 1 deficiency	64087	56922
+C0268601	HMG CoA lyase deficiency	3155
+C0268609	Glutamate formiminotransferase deficiency	10841
+C0268616	Gamma-cystathionase deficiency	1491
+C0268621	Hepatic methionine adenosyltransferase deficiency	4143
+C0268623	Tyrosinemia, Type III	3242
+C0268624	Sulfite oxidase deficiency	6821
+C0268642	Histidinuria renal tubular defect	3034
+C0268654	Iminoglycinuria	153201
+C0268689	Vitamin D-dependent rickets, type 1	1594	120227
+C0268742	Membranoproliferative Glomerulonephritis, Type I	3075	8526
+C0268743	Membranoproliferative Glomerulonephritis, Type II	3075	3078
+C0270724	Infantile Neuroaxonal Dystrophy	8398
+C0270853	Juvenile Myoclonic Epilepsy	785	2554	22858
+C0270855	Early myoclonic encephalopathy	150094	79751
+C0270914	Hereditary Motor and Sensory-Neuropathy Type II	6335
+C0270969	Zebra body myopathy	58
+C0270970	Reducing-body myopathy	2273
+C0270972	Cornelia De Lange Syndrome	55869	5885	55209
+C0271091	Retinoschisis, Juvenile, X-Linked	6247
+C0271092	Progressive cone dystrophy (without rod involvement)	2780	2978	5146	54714
+C0271093	Stargardt's disease	8842	6785	24
+C0271287	Schnyder crystalline corneal dystrophy	29914
+C0271567	Isolated Growth Hormone Deficiency, Type II	5449	2688
+C0271568	Laron Syndrome	2690
+C0271582	Isolated lutropin deficiency (disorder)	3972
+C0271583	ACTH Deficiency, Isolated	9095
+C0271695	Rabson-Mendenhall Syndrome	3643
+C0271742	Glucocorticoid deficiency with achalasia	8086	60684	29926
+C0271789	Hypothyroidism, Congenital, Nongoitrous, 4	7252
+C0271933	Congenital dyserythropoietic anemia, type I	146059	84529
+C0271934	Congenital dyserythropoietic anemia, type III	9493
+C0271985	Delta-Beta Thalassemia	3047	3045	3043
+C0272051	Xerocytosis	3783	9780	6521
+C0272052	Rh Deficiency Syndrome	6005	6007	6006
+C0272066	Glycogen Storage Disease XII	226
+C0272080	Hemoglobin D disease	3043
+C0272087	Congenital Methemoglobinemia	1727
+C0272167	Reticular dysgenesis	204
+C0272170	Shwachman syndrome	134218	6729	79631
+C0272199	Familial Hemophagocytic Lymphocytosis	5551	201294	8676	6813
+C0272302	Gray Platelet Syndrome	23218	8328
+C0272317	Hereditary factor II deficiency disease	2147
+C0272339	Prekallikrein deficiency	3818
+C0272340	High molecular weight kininogen deficiency	3827
+C0272350	Dysfibrinogenemia, Congenital	2243	2266	2244
+C0272375	Antithrombin III Deficiency	462
+C0276496	Familial Alzheimer Disease (FAD)	6653
+C0282160	Aplasia Cutis Congenita	5339	9790	3691	54567
+C0282492	Sneddon Syndrome	51816
+C0282512	Landau-Kleffner Syndrome	2903
+C0282525	Adrenoleukodystrophy, Neonatal	8799	5830	9409	5828	5193	5824	5195	5190	5189	5192	5194	8504	55670
+C0282527	Infantile Refsum Disease (disorder)	8799	5830	9409	5828	5193	5824	5195	5190	5189	5192	5194	8504	55670
+C0300948	Caudal Regression Syndrome	80199
+C0302859	Euthyroid Goiter	9817
+C0311338	Fundus Albipunctatus	5959	6017	5961
+C0332890	Congenital hemihypertrophy	10984	283120	3481
+C0334041	Osteoma cutis	2778
+C0334529	Hydatidiform Mole, Partial	154288	199713
+C0338462	Semantic Dementia	5663
+C0338488	Alternating hemiplegia of childhood	478	477
+C0338502	Hypoplasia of the optic nerve	5080
+C0338503	Septo-Optic Dysplasia	6657	128674	2260	6658	8820	9915	5015
+C0338508	Optic Atrophy 1	10059
+C0339273	Corneal dystrophy, Lattice type 3	4070
+C0339277	Corneal Dystrophy, Juvenile Epithelial of Meesmann	3859	3850
+C0339278	Reis-Bucklers' corneal dystrophy	7045
+C0339284	Polymorphous corneal dystrophy	79977	1296	6935	58495	30813
+C0339510	Vitelliform Macular Dystrophy	7439
+C0339512	Bull's eye macular dystrophy	8842
+C0339527	Leber Congenital Amaurosis	343035	7287	392255	167691	57096	1406	9227	23746	145226	23418	3000	85015	5130	3769	64802	9657	6121	55812	80184	3614	9742
+C0339534	Usher syndrome type 2	4647
+C0339535	Night blindness, congenital stationary	345193	2779	9187	57010	2784	4308	2916	5158	440435	6010
+C0339537	Cone monochromatism	5956	2652
+C0339539	Familial Exudative Vitreoretinopathy	79797	1499
+C0339541	Goldmann-Favre syndrome (disorder)	10002
+C0339985	Idiopathic bronchiectasis	6337	6340	6338
+C0340364	Familial mitral valve prolapse	8642
+C0340427	Familial dilated cardiomyopathy	4607	6444	7168	9015	6389	57798	79717	1829	63976	7134	8048	1410	27063	9531	8557	10587	5350	70	22845	5664	11155	4624	6331	1674	10060	2218	7137	3910	4625	282996	84665	2274	6901	88	7273	7139	10486	5663	7414	5894	7112	1756	91624
+C0340543	Familial primary pulmonary hypertension	440275	4093	857	659	9496	3777
+C0340548	Pulmonary capillary hemangiomatosis	440275
+C0340834	Hennekam lymphangiectasia-lymphedema syndrome	79633	9508	147372
+C0340957	Congenital deficiency of intrinsic factor	2694
+C0340968	Deficiency of pyruvate kinase	5313
+C0341306	Microvillus inclusion disease	6809	4645
+C0341703	Adult Fanconi syndrome	6569	1962
+C0342276	Maturity onset diabetes mellitus in young	3767	1056	640	26060	6927	8462	4760	5078	3630	6833	3172	3651	2645
+C0342278	Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans	3643
+C0342282	Multiple synostoses syndrome 1	9241	8200	2254
+C0342286	Woodhouse Sakati syndrome	80067
+C0342287	Thiamine responsive megaloblastic anemia syndrome	10560
+C0342288	Insulin-dependent diabetes mellitus secretory diarrhea syndrome	50943
+C0342289	Diabetes-deafness syndrome maternally transmitted (disorder)	4567	4556	4566
+C0342336	Insulin resistance - type A	3643
+C0342344	Hypoparathyroidism - X-linked	9247
+C0342386	Follicle stimulating hormone deficiency	2488
+C0342388	Adrenocorticotropic hormone (ACTH) deficiency (disorder)	9095
+C0342471	3 beta-Hydroxysteroid dehydrogenase deficiency	3284
+C0342488	Mineralocorticoid Excess Syndrome, Apparent	3291
+C0342544	Idiopathic central precocious puberty	7681
+C0342549	Familial Testotoxicosis	3973
+C0342573	PITUITARY DWARFISM I	55599	2688
+C0342637	Hypocalciuric hypercalcemia, familial, type 1	846
+C0342642	Autosomal dominant hypophosphatemic rickets	8074
+C0342643	Autosomal recessive hypophosphatemic vitamin D refractory rickets	1758	5167
+C0342683	ALBINISM, OCULOCUTANEOUS, TYPE III	7306
+C0342684	Ocular albinism, type I	4935
+C0342686	Aromatic amino acid decarboxylase deficiency	1644
+C0342701	Transcobalamin II deficiency	6948
+C0342705	Folate Malabsorption, Hereditary	113235
+C0342708	Gamma aminobutyric acid transaminase deficiency	18
+C0342727	3-@METHYLGLUTACONIC ACIDURIA, TYPE I	549
+C0342728	3-Methylglutaconic aciduria type 1	549
+C0342731	Deficiency of mevalonate kinase	4598
+C0342738	Beta-Hydroxyisobutyryl CoA Deacylase Deficiency	26275
+C0342788	Renal carnitine transport defect	6584
+C0342791	Carnitine-Acylcarnitine Translocase Deficiency	788
+C0342792	Succinyl-CoA:3-oxoacid CoA transferase deficiency	5019
+C0342793	Malonic aciduria	23417
+C0342803	Dihydropyrimidinase deficiency	1807
+C0342870	Bifunctional peroxisomal enzyme deficiency	3295	1962
+C0342873	Glutaric Aciduria III	79783
+C0342881	Familial hypercholesterolemia - homozygous	26119
+C0342883	Cholesteryl Ester Transfer Protein Deficiency	345	1071
+C0342895	Fish-Eye Disease	3931
+C0342898	Apolipoprotein A-I deficiency	335	19
+C0342907	Sitosterolemia	64241	64240
+C0343055	Generalized pustular psoriasis	26525	130340
+C0343057	Keratosis pilaris decalvans	51360	4035
+C0343068	Familial cold urticaria	58484	114548
+C0343073	Wooly hair	147183	121391	112802	10161	200879
+C0343110	Epidermolytic palmoplantar keratoderma of Vorner	3857	3848
+C0343111	Naegeli syndrome	3861
+C0343115	Skin Mastocytoma	3815
+C0343206	Hypocomplementemic urticarial vasculitis	1776
+C0344487	Lateral meningocele	4854
+C0344490	Sacral agenesis	80199
+C0344516	Coloboma of lens	7855	5080	10058	6297
+C0344523	Cataract, congenital, cerulean type 1	4284	4094	1415	1421
+C0344530	Congenital keratoglobus	91851
+C0344559	Irido-corneo-trabecular dysgenesis (disorder)	2301	1545	5080	2296
+C0344724	Ostium secundum atrial septal defect	1482	4624	7092	57057	2626	70	10370	2627
+C0344730	Atrial Septal Defect Sinus Venosus	10370
+C0344735	Partial atrioventricular canal	78987	2626	2627
+C0345218	Low anorectal malformation	79784
+C0345382	Gorlin Chaudhry Moss syndrome	29957
+C0345408	Hereditary clubbing	3248
+C0345427	Woolly hair, congenital	147183	121391	112802	10161	200879
+C0345893	Juvenile polyposis syndrome	657	4089
+C0346373	Malignant melanoma of iris	8314
+C0346388	Malignant melanoma of choroid	8314
+C0348616	Other restrictive cardiomyopathy	84665	7137	7139	2318	10112
+C0376329	New Variant Creutzfeldt-Jakob Disease	5621
+C0376524	Branchio-Oculo-Facial Syndrome	7020
+C0376532	Epilepsy, Rolandic	2566	2903
+C0391816	Tietz syndrome	4286
+C0391826	Lhermitte-Duclos disease	5728
+C0392439	Acrodermatitis continua of Hallopeau	26525	130340
+C0392557	Nuclear cataract	1412	1417	1411	1414	1420	146862	1415	7466	2703	79443	4810	2700	631	4284	1410	1421	1969	1409
+C0392607	Severe combined immunodeficiency due to adenosine deaminase deficiency	100
+C0393547	Bulbospinal Neuronopathy	367
+C0393559	Troyer syndrome	23111
+C0393584	Benign Hereditary Chorea	111	7080
+C0393590	Fahr's syndrome (disorder)	57462	6575	9213	5159	5155
+C0393591	AICARDI-GOUTIERES SYNDROME	64135	11277	103	25939
+C0393702	Myoclonic Astatic Epilepsy	1173	6529	1106
+C0393706	Early infantile epileptic encephalopathy with suppression bursts	9091	81603	170302	2775	4761	8573	6326	51227	150094	3736	11284	6792	6812	79751
+C0393729	Immersion Related Epilepsy	6505
+C0393778	Congenital anosmia	10178	1260
+C0393807	Hereditary motor and sensory neuropathy with optic atrophy (disorder)	91137	9927
+C0393814	Hereditary liability to pressure palsies	5376
+C0394006	Dysequilibrium syndrome	124997	767	7436	51761	347733
+C0398562	Triose phosphate isomerase deficiency	7167
+C0398568	Blood group deletion syndrome	7504
+C0398593	Specific granule deficiency	6603	1053
+C0398595	Myeloperoxidase Deficiency	4353
+C0398621	Hypoplasminogenemia	5340
+C0398625	Protein C Deficiency	5624
+C0398689	Hyper-IgM Immunodeficiency Syndrome, Type 1	959
+C0398691	Hyperimmunoglobulinemia D	4598
+C0398738	Leukocyte adhesion deficiency type 1	3689
+C0398739	Congenital disorder of glycosylation, type 2C	55343
+C0398746	Gluthathione synthetase deficiency	2937
+C0398762	Properdin deficiency disease	5199
+C0398764	Complement Factor D Deficiency	1675
+C0398775	Hereditary C1 esterase inhibitor deficiency - deficient factor	710
+C0398776	Hereditary C1 esterase inhibitor deficiency - dysfunctional factor	710
+C0398777	Complement Factor H Deficiency	3075
+C0399367	Amelogenesis imperfecta local hypoplastic form	258	10117	84957	93650	3914	3694
+C0399372	Amelogenesis Imperfecta hypomaturation type	123041	8111	152816	9313	9622	256764	265
+C0399373	Amelogenesis imperfecta, hypomaturation hypoplasia type with taurodontism	1747
+C0399376	Amelogenesis Imperfecta, Type III	123041	3694	286077	401138
+C0399378	Dentinogenesis imperfecta - Shield's type III (disorder)	1834
+C0399379	Dentin dysplasia, type 1	51066	1834	9525
+C0399380	Dentin dyspalsia, Shields type 2	1834
+C0399440	Hereditary gingival fibromatosis	6654	5978
+C0403399	Finnish congenital nephrotic syndrome	4868
+C0403548	Salcedo syndrome	4010
+C0403553	Renal dysplasia and retinal aplasia (disorder)	26146	4867	9657	22897	27031	27130	261734	10806	80184	57728
+C0403555	Ochoa syndrome	9860
+C0403720	X-linked recessive nephrolithiasis with renal failure	1184
+C0403812	Male Infertility with Large-Headed, Multiflagellar, Polyploid Spermatozoa	6795
+C0403814	Congenital bilateral aplasia of vas deferens	10149	1080
+C0406557	Poikiloderma of Kindler	55612
+C0406584	Acrogeria, gottron type	1281
+C0406585	Lethal tight skin contracture syndrome (disorder)	10269	4000
+C0406586	Wiedemann-Rautenstrauch syndrome	11128
+C0406587	Wrinkly skin syndrome	23545
+C0406702	Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive	10913	128178	80326
+C0406704	Rudiger syndrome 1	8626
+C0406707	Basan syndrome	56916
+C0406716	Hypodontia and nail dysgenesis	4487
+C0406723	Growth retardation, Alopecia, Pseudoanodontia and Optic atrophy	84168
+C0406726	Orofaciodigital syndrome 3	79583
+C0406727	Orofaciodigital syndrome 4	26123
+C0406733	Curly hair-ankyloblepharon-nail dysplasia syndrome	54101
+C0406735	Hypoplastic enamel-onycholysis-hypohidrosis syndrome	4487
+C0406740	Kohlschutter Tonz syndrome	79641	284111
+C0406767	Keratoderma with scleroatrophy of the extremities	56916
+C0406775	Symmetrical dyschromatosis of extremities	103
+C0406778	Dermatopathia pigmentosa reticularis	3861
+C0406811	Reticulate acropigmentation of Kitamura	102
+C0409818	Chronic Infantile Neurological, Cutaneous, and Articular Syndrome	114548
+C0410179	Ullrich congenital muscular dystrophy 1	1292	1291	1303	1293
+C0410180	Eichsfeld type congenital muscular dystrophy	58	57190
+C0410190	Autosomal Dominant Emery-Dreifuss Muscular Dystrophy (disorder)	79188	4000	23345	23224
+C0410204	Myopathy, Centronuclear, Autosomal Recessive	6261	7273	274	10290
+C0410207	Tubular Aggregate Myopathy	844	84876	6786
+C0410480	Avascular Necrosis of Femur Head	59341	1280
+C0410529	Hypochondroplasia (disorder)	2261
+C0410530	Metachondromatosis	5781
+C0410539	Craniodiaphyseal dysplasia	50964
+C0428791	Aortic valve calcification	1482	4091	4851	140628
+C0431109	Choroid Plexus Carcinoma	7157
+C0431362	Lobar Holoprosencephaly	28514	50937	5727	6997	2619	84976	7050	2736	6496	6469	7546	4838	8928	2253
+C0431363	Alobar Holoprosencephaly	28514	50937	5727	6997	2619	84976	7050	2736	6496	6469	7546	4838	8928	2253
+C0431375	Classical Lissencephaly	5048
+C0431399	Familial aplasia of the vermis	27077	23247	65250	56623	95681	9786	79600	10464	219844	54806	153241	403	91147	9731	200894	79867	79848	80210	54903	65062
+C0431401	Gillespie syndrome	3708	5080
+C0431406	Asymmetric crying face association	6899
+C0431420	Vein of Galen aneurysm	2050
+C0431693	Renal cysts and diabetes syndrome	3172	6928
+C0432194	Schneckenbecken dysplasia	3636	23169
+C0432197	Short rib-polydactyly syndrome, Verma-Naumoff type	57539	57560	89891	55112	79659
+C0432198	Short rib-polydactyly syndrome, Beemer type	57560
+C0432201	Boomerang dysplasia	2317
+C0432214	Namaqualand hip dysplasia	1280
+C0432215	Progressive pseudorheumatoid dysplasia	8838
+C0432217	Wolcott-Rallison syndrome	9451
+C0432219	Opsismodysplasia	3636
+C0432221	Spondylometaphyseal dysplasia, 'corner fracture' type	2335
+C0432222	Spondyloenchondrodysplasia	54
+C0432225	Metaphyseal chondrodysplasia Spahr type	4322
+C0432226	Metaphyseal anadysplasia	4322	4318
+C0432227	Brachyolmia Type 3	59341
+C0432230	Langer Mesomelic Dysplasia Syndrome	6473
+C0432235	CRANIOECTODERMAL DYSPLASIA 1	57539	55764	51098	112752	57728
+C0432240	Stuve-Wiedemann dysplasia	3977
+C0432242	Desbuquois syndrome	64131	124583
+C0432243	Spondyloepimetaphyseal Dysplasia With Joint Laxity	23233	126792
+C0432246	Microcephalic Osteodysplastic Primordial Dwarfism, Type II	5116
+C0432252	Osteoporosis with pseudoglioma	4041
+C0432253	Bruck syndrome	5352	60681
+C0432254	Singleton Merten syndrome	64135	23586
+C0432255	Geroderma osteodysplastica	92344	5831
+C0432261	Osteopetrosis - intermediate type	9842	10312	1186
+C0432262	Dysosteosclerosis	55315
+C0432268	Osteopathia striata cranial sclerosis	139285
+C0432269	Lenz Majewski hyperostotic dwarfism	9791
+C0432272	Van Buchem disease	4041	50964
+C0432273	Worth disease	4041
+C0432283	Osteoglophonic dwarfism	2260
+C0432284	Infantile myofibromatosis	4854	5159
+C0432291	Mandibuloacral dysostosis	4000
+C0432292	Familial expansile osteolysis	8792
+C0432306	Ichthyosis Bullosa of Siemens	3849
+C0432307	Ichthyosis hystrix of Curth-Macklin	3848
+C0432316	Epidermolysis bullosa simplex with mottled pigmentation	3861
+C0432317	Epidermolysis bullosa simplex, Ogna type	5339
+C0432321	Epidermolysis bullosa, pretibial	1294
+C0432322	Dominant dystrophic epidermolysis bullosa, albopapular type (disorder)	1294
+C0432328	Xeroderma pigmentosum, variant form	5429
+C0432336	Cutis laxa, recessive, type I	30008	10516
+C0432347	Uncombable hair syndrome	51702	7053
+C0432357	Congenital absence of breast with absent nipple	5792
+C0432475	XX males	6662	2516	6658
+C0455988	Hydrops Fetalis, Non-Immune	55901
+C0457013	Weyers acrofacial dysostosis	2121	132884
+C0457133	Muscle eye brain disease	10585	148789	2218	55624	29954	29925	79147
+C0472767	Beta thalassemia intermedia	3043
+C0472777	Hemoglobin E/beta thalassemia disease	3043
+C0472813	X-linked agammaglobulinemia with growth hormone deficiency	2000	695
+C0472817	WHIM syndrome	7852
+C0473219	Renal hypouricemia	56606	116085
+C0473546	Vibratory angioedema	30817
+C0473586	Michelin tire baby syndrome	203068	10982
+C0495499	Congenital absence, atresia and stricture of auditory canal (external)	10194
+C0521573	Coloboma of eyelid	7855	5080	10058	6297
+C0521723	Corneal dystrophy, epithelial basement membrane	7045
+C0521802	Congenital atransferrinemia	7018
+C0522624	Subcutaneous panniculitis-like T-cell lymphoma	84868
+C0524582	Mulibrey Nanism	4591
+C0541782	Atrial standstill	6331	4878
+C0542428	Hypochondrogenesis	1280
+C0543514	Glycogen Storage Disease IXB	5257
+C0543669	Neutrophilia, Hereditary	1441
+C0543800	Idiopathic hypercalciuria	55811
+C0544855	NAIL DISORDER, NONSYNDROMIC CONGENITAL, 3	5333
+C0546125	Nemaline Myopathy, Childhood Onset	84665	7170	390594	7169	58	10324	4703
+C0546264	Congenital Fiber Type Disproportion	51776	4633	7169	9200	3679
+C0546476	Multiple self-healing squamous epithelioma	7046
+C0546966	Monilethrix	3889	3887	147409	3892
+C0549463	X-Linked Lymphoproliferative Disorder	4068
+C0553586	Cafe-au-lait macules with pulmonary stenosis	4763	5605
+C0553730	Calcium pyrophosphate deposition disease	56172
+C0555206	Chiari malformation type II	80199
+C0574083	3-Methylglutaconic aciduria type 2	6901
+C0574084	3-Methylglutaconic aciduria type 3	125988
+C0580190	3-Phosphoglycerate dehydrogenase deficiency	26227
+C0585274	Periodic syndrome	4210
+C0598226	Harlequin type ichthyosis	26154
+C0599035	Hyperornithinemia	4942
+C0599973	Waardenburg Anophthalmia Syndrome	64093	5077
+C0677776	Hereditary Breast and Ovarian Cancer Syndrome	5889	5892	675	672
+C0678213	Complete hydatidiform mole	150365	154288	79703	199713
+C0684324	Deficiency of phosphoglycerate kinase	5230
+C0685837	Pure Gonadal Dysgenesis, 46, XX	171568	23514	56945	57122	2516	9210	2492	29893
+C0685838	Gonadal dysgenesis XX type deafness	56652	3295	23438	8192	23395	26284
+C0685889	Splenic Hypoplasia	1482	3921
+C0687720	Central Diabetes Insipidus	551
+C0700635	Strudwick syndrome	1280
+C0729582	Floating-harbor syndrome	10847
+C0730294	North Carolina macular dystrophy	107305681
+C0749420	Thyroid Agenesis	1482	5172	7253
+C0750927	Apraxia, Developmental Verbal	93986
+C0750929	Arnold-Chiari Malformation, Type I	22943
+C0751038	Cockayne Syndrome, Type II	2067
+C0751039	Cockayne Syndrome, Type I	2072
+C0751122	Infantile Severe Myoclonic Epilepsy	6326	6324	6323	57526	2554	2566	6812
+C0751157	FRAXE Syndrome	2334
+C0751173	Glycogen Storage Disease Type II, Infantile	2548
+C0751208	Juvenile Huntington Disease	3064
+C0751254	Creutzfeldt-Jakob Disease, Familial	5621
+C0751273	Infantile Globoid Cell Leukodystrophy	2581	5660
+C0751276	Metachromatic leukodystrophy, juvenile type	5660
+C0751278	Metachromatic Leukodystrophy, Infant	5660
+C0751279	Metachromatic Leukodystrophy, Adult-Type (disorder)	5660
+C0751335	Scapuloperoneal Form of Spinal Muscular Atrophy	59341
+C0751337	X-Linked Emery-Dreifuss Muscular Dystrophy	2273	4625	2010
+C0751383	Juvenile Neuronal Ceroid Lipofuscinosis	1201
+C0751483	Familial Retinoblastoma	5925
+C0751489	Adult Sandhoff Disease	3074
+C0751490	Infantile Sandhoff Disease	3074
+C0751491	Juvenile Sandhoff Disease	3074
+C0751602	Hereditary Autosomal Dominant Spastic Paraplegia	9927
+C0751617	Semilobar Holoprosencephaly	28514	50937	5727	2260	6997	2619	84976	7050	2736	6496	6469	7546	4838	8928	2253
+C0751664	Canavan Disease, Neonatal	443
+C0751666	Canavan Disease, Infantile	443
+C0751667	Canavan Disease, Juvenile	443
+C0751668	Machado-Joseph Disease Type I	4287
+C0751669	Machado-Joseph Disease Type II	4287
+C0751670	Machado-Joseph Disease Type III	4287
+C0751706	Primary Progressive Nonfluent Aphasia	5663
+C0751753	Carbamoyl-Phosphate Synthase I Deficiency Disease	1373
+C0751781	Dentatorubral-Pallidoluysian Atrophy	1822
+C0751783	Lafora Disease	7957	378884
+C0751785	Unverricht-Lundborg Syndrome	144165	950	1476
+C0751883	Congenital Myasthenic Syndromes, Postsynaptic	375790	1305	4038	221264
+C0751884	Congenital Myasthenic Syndromes, Presynaptic	6616	375790	6572	127833	1305	6843	60482	6576	4649
+C0752120	Spinocerebellar Ataxia Type 1	6310
+C0752121	Spinocerebellar Ataxia Type 2	6311
+C0752166	Bardet-Biedl Syndrome	4867	26160	157657	92482	79738	54585	10806	54903	11020
+C0752353	Atrophy, Muscular, Spinobulbar	367
+C0752355	Myotonia Fluctuans (disorder)	6329
+C0795889	Allan-Herndon-Dudley syndrome (AHDS)	6567
+C0795902	Coloboma, cleft lip-palate and mental retardation syndrome	10413
+C0795905	Cantu syndrome	3764	10060
+C0795907	CONOTRUNCAL ANOMALY FACE SYNDROME	6899
+C0795910	COWCHOCK SYNDROME	9131
+C0795927	Deafness, congenital onychodystrophy, recessive form	57465
+C0795940	Filippi syndrome	150468
+C0795949	Galloway Mowat syndrome	84942	8270	55644	51002	57122	10785	112858	55746
+C0795956	Chylomicron retention disease	51128
+C0795996	STRIATONIGRAL DEGENERATION, INFANTILE (disorder)	103	4508	23636
+C0795998	JACKSON-WEISS SYNDROME	2263
+C0796003	Juberg-Marsidi syndrome	546
+C0796004	Kabuki make-up syndrome	5906	5908	7403
+C0796013	Zimmerman Laband syndrome	3782	3756	526
+C0796016	Microphthalmia, syndromic 1	54880	8260
+C0796019	SPASTIC PARAPLEGIA 23 (disorder)	25778
+C0796021	Lowry Wood syndrome	100151683
+C0796022	Lujan Fryns syndrome	51114	9968	65109
+C0796031	Malouf syndrome	4000
+C0796033	MARDEN-WALKER SYNDROME	63895
+C0796037	Martsolf syndrome	25782	22930
+C0796063	microcephaly-digital anomalies syndrome	5932
+C0796068	Oculodigitoesophagoduodenal syndrome	4613
+C0796070	MICROPHTHALMIA, SYNDROMIC 7	1349	54539	3052
+C0796074	MOHR-TRANEBJAERG SYNDROME	1678
+C0796081	Myhre syndrome	4089
+C0796083	Najjar syndrome	4000
+C0796085	Nance-Horan syndrome	4810
+C0796089	LISSENCEPHALY SYNDROME, NORMAN-ROBERTS TYPE	5649
+C0796093	Odontoonychodermal dysplasia	80326
+C0796113	Nephroblastomatosis, fetal ascites, macrosomia and Wilms tumor	129563
+C0796121	Primrose syndrome	26137
+C0796124	Proud Syndrome	170302
+C0796133	Ramon Syndrome	63916
+C0796137	3C syndrome	9897	28952
+C0796147	Acrocallosal Syndrome	51684	2737	374654
+C0796149	Scott Syndrome	196527
+C0796154	SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1	2719
+C0796159	Mental retardation Smith Fineman Myers type	546
+C0796173	Spondyloperipheral dysplasia short ulna	1280
+C0796176	STUVE-WIEDEMANN SYNDROME	3977
+C0796179	Teebi syndrome	23384
+C0796182	Acromelic frontonasal dysplasia	57688
+C0796184	Corpus Callosum, Agenesis of, with Facial Anomalies and Robin Sequence	1654
+C0796195	Waisman syndrome	116442
+C0796200	Wieacker-Wolff syndrome	55906
+C0796208	MENTAL RETARDATION, X-LINKED 3	3054
+C0796218	MENTAL RETARDATION, X-LINKED 12	57187
+C0796232	Bohring syndrome	171023	55975
+C0796242	MENTAL RETARDATION, X-LINKED 35	57187
+C0796250	PARTINGTON X-LINKED MENTAL RETARDATION SYNDROME	5422	170302
+C0796254	DANDY-WALKER MALFORMATION WITH MENTAL RETARDATION, BASAL GANGLIA DISEASE, AND SEIZURES	8905
+C0796274	Brown-Vialetto-Van Laere Syndrome 1	113278	79581
+C0796275	Brunner Syndrome	4128
+C0796280	Acromegaloid facial appearance syndrome	10060
+C0809936	Branchio-skeleto-genital syndrome	1009
+C0812437	Oculo-dento-digital syndrome	8643	51684	5727	2697
+C0853240	Mobius II syndrome	5980	23129
+C0853662	Oestrogen deficiency	1588
+C0856830	Calcium pyrophosphate arthropathy	56172
+C0858617	Posterior subcapsular cataract	55229	1411	5309	2700	4284	1410	128866	1969
+C0859976	Idiopathic achalasia of esophagus	4842	9244
+C0872218	MITOCHONDRIAL NEUROGASTROINTESTINAL ENCEPHALOPATHY SYNDROME	50484	5428	1890
+C0878666	Analbuminemia	213
+C0878676	6-pyruvoyl-tetrahydropterin synthase deficiency	5805
+C0878677	Glycogen Storage Disease Type IIb	3920
+C0878684	SHORT syndrome	5295
+C0879257	Hereditary Papillary Renal Carcinoma	4233
+C0917713	Becker Muscular Dystrophy	1756
+C0917715	Hajdu-Cheney Syndrome	4853
+C0917796	Optic Atrophy, Hereditary, Leber	4720
+C0917800	Epilepsy, Myoclonic, Infantile	10815	57465
+C0917817	Neurofibromatosis 3	6598
+C0936256	Lysine Alpha-Ketoglutarate Reductase Deficiency Disease	10157
+C0936273	Familial Amyloid Polyneuropathy, Type IV	2934
+C0948216	Ovarian adenocarcinoma	3624
+C0949506	Porokeratosis of Mibelli	10654	4598
+C0949595	Gonadal Dysgenesis, 46,XX	171568	23514	56945	57122	2516	9210	2492	29893
+C0950121	Denys-Drash Syndrome	7490
+C0950122	Frasier Syndrome	7490
+C1112155	Hereditary non-polyposis colorectal cancer syndrome	5395	2956	4436	22909	4072	4292
+C1112705	Nuclear non-senile cataract	1412	1417	1411	1414	1420	146862	1415	7466	2703	79443	4810	2700	631	4284	1410	1421	1969	1409
+C1142166	Brugada Syndrome (disorder)	10060	7871	805	54795	3752
+C1167664	Situs ambiguous	220136	1770	168507	118856
+C1260396	Alpha thalassemia intermedia	3040	3039
+C1260873	Aortic valve disorder	1482	4091	4851	140628
+C1260899	Anemia, Diamond-Blackfan	6235	11224	6154	6138	6141	2623	90121	6210	6234	51816
+C1263858	Muscular dystrophy congenital, merosin negative	3908
+C1266181	Dysplastic gangliocytoma of cerebellum (Lhermitte-Duclos)	5728
+C1268935	Congenital Thrombotic Thrombocytopenic Purpura	11093
+C1274789	Ligneous conjunctivitis	5340
+C1275074	Odonto-onycho-dermal dysplasia	80326
+C1275078	Acrocephalopolysyndactyly type 2	51715	1954
+C1275081	Cardio-facio-cutaneous syndrome	5604	3845	673	5605
+C1275114	Epidermolysis Bullosa Pruriginosa	1294
+C1275122	Familial multiple trichoepitheliomata	1540
+C1275126	TNF receptor-associated periodic fever syndrome (TRAPS)	7132
+C1275685	Avellino corneal dystrophy	7045
+C1275808	Congenital central hypoventilation	283446
+C1276035	Pena-Shokeir syndrome type I	6572	4654	285489	5913	4593	4927
+C1279481	X-Linked Combined Immunodeficiency Diseases	3561
+C1280798	Von Willebrand disease, platelet type	2811
+C1281931	Obstruction of nasolacrimal duct	3321
+C1282908	De Vaal's syndrome	204
+C1283400	Butyrylcholinesterase deficiency	590
+C1291230	3-Hydroxyacyl-CoA Dehydrogenase Deficiency	3033
+C1291245	Cortisone reductase deficiency	9563	3290
+C1291329	Transaldolase Deficiency	6888
+C1291373	Deficiency of sedoheptulokinase	23729
+C1291386	D-glycericacidemia	132158
+C1291463	Deficiency of phosphoserine phosphatase	5723
+C1291490	Hyaluronidase Deficiency	3373
+C1291512	Beta-Ureidopropionase Deficiency	51733
+C1291560	Deficiency of glutamate decarboxylase	284111	11212
+C1291564	Deficiency of aromatic-L-amino-acid decarboxylase	1644
+C1291609	Ribose 5-Phosphate Isomerase Deficiency	22934
+C1291620	Deficiency of bisphosphoglycerate mutase	669
+C1300202	Diaphyseal medullary stenosis with bone malignancy	4507
+C1300260	Spondyloepimetaphyseal dysplasia, sponastrime type	4796
+C1300267	Brachydactyly syndrome type B	4920
+C1300268	Brachydactyly syndrome type C	8200
+C1300285	SAUL-WILSON SYNDROME	25839
+C1302995	Congenital Fibrosis of the Extraocular Muscles	347733
+C1303073	Nicolaides Baraitser syndrome	6595
+C1305147	Congenital supravalvular aortic stenosis	2006
+C1306122	Oguchi disease	6295	6011
+C1306229	Dyschromatosis universalis	10058
+C1306589	Congenital dyserythropoietic anemia, type II	10483
+C1306856	Megaloblastic anemia due to inborn errors of metabolism	81693	8029
+C1318518	Infantile malignant osteopetrosis	29887	10312	8600	1186
+C1319466	Barber Say syndrome	117581
+C1321489	Torre-Muir syndrome	2956	4436	4292
+C1321551	Shprintzen-Goldberg syndrome	6497
+C1321907	Congenital absence of parathyroid gland	9247
+C1327915	Congenital amegakaryocytic thrombocytopenia	4352
+C1327916	REVESZ SYNDROME (disorder)	26277
+C1327918	Oculootoradial syndrome	57167
+C1327919	Myelocerebellar Disorder	219285
+C1328355	Laryngoonychocutaneous syndrome	3909
+C1328840	Autoimmune Lymphoproliferative Syndrome	356	5580	10125	843	355
+C1333990	Hereditary Nonpolyposis Colorectal Cancer	5395	2956	4436	22909	4072	4292
+C1335929	Schwannomatosis	6598
+C1384600	Systemic onset juvenile chronic arthritis	144811
+C1392104	Coralliform cataract	1421
+C1394891	Intrinsic Factor Deficiency	2694
+C1395852	Polydactyly preaxial type 1	2735
+C1405854	Retinitis punctata albescens (disorder)	6017	5961
+C1449842	Pseudohypoaldosteronism, Type I, Autosomal Dominant	4306
+C1449843	Pseudohypoaldosteronism, Type I, Autosomal Recessive	6337	6340	6338
+C1450051	Autosomal Recessive Emery-Dreifuss Muscular Dystrophy	4000
+C1455728	Acute fatty liver of pregnancy	3030
+C1504412	Testotoxicosis	3973
+C1510455	Acrocephalosyndactylia	2263
+C1512709	Chronic Lymphoproliferative Disorder of NK-Cells	6774
+C1527338	Hereditary Cerebral Amyloid Angiopathy, Icelandic Type	1471
+C1531647	Cerebral ventriculomegaly	440193
+C1531773	Currarino triad	3248	3110
+C1533587	Hydroxymethylglutaric aciduria	3155
+C1535893	Orthostatic intolerance	6530
+C1536451	Central areolar choroidal sclerosis	5961	2978	3000
+C1536500	Deficiency of acetyl-CoA acetyltransferase	38
+C1562113	Fleck corneal dystrophy	200576
+C1562689	Congenital hereditary endothelial dystrophy	58495
+C1562894	Thiel-Behnke corneal dystrophy	7045
+C1563715	Andersen Syndrome	3762	3759
+C1567426	Unilateral Multicystic Dysplastic Kidney	6928
+C1567427	Bilateral Multicystic Dysplastic Kidneys	6928
+C1567743	Alport Syndrome, Autosomal Dominant	1286
+C1568247	Usher Syndrome, Type I	10518
+C1568248	Usher Syndrome, Type III	3035	84131	7401	4575	22901
+C1568249	Usher Syndrome, Type II	4647
+C1608393	Megacystis microcolon intestinal hypoperistalsis syndrome	25802	72	4638	4629
+C1609433	Congenital absence of kidneys syndrome	8516	80000	5979	26281
+C1611706	Myosclerosis	1292
+C1621920	Intermediate Maple Syrup Urine Disease	152926
+C1623209	Okihiro Syndrome	57167
+C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	253017	801	10345
+C1636149	Macular dystrophy, corneal type 1	4166
+C1641846	Groenouw corneal dystrophy type I (disorder)	7045
+C1690006	Lattice corneal dystrophy Type I	7045
+C1701939	Familial pulmonary arterial hypertension	440275	4093	857	659	9496	3777
+C1704375	Hypophosphatemic Rickets	8074
+C1704380	Distal Renal Tubular Acidosis	6521
+C1704423	Milroy Disease	57165	7424
+C1704429	Hypoalphalipoproteinemia, Familial	335	19
+C1704981	Hyperparathyroidism-Jaw Tumor Syndrome	79577
+C1708349	Hereditary Diffuse Gastric Cancer	999	9064
+C1708350	Hereditary Leiomyomatosis and Renal Cell Cancer	2271
+C1720779	Apolipoprotein C-II Deficiency (disorder)	344
+C1720821	Membranoproliferative Glomerulonephritis, Type III	3075	8526
+C1720860	Familial Partial Lipodystrophy, Type 2	4000
+C1720861	Familial Partial Lipodystrophy, Type 3	5468
+C1720864	Sulfatidosis, Juvenile, Austin Type	285362
+C1720956	Hyper-IgM Immunodeficiency Syndrome, Type 2	57379
+C1720957	Hyper-IgM Immunodeficiency Syndrome, Type 3	958
+C1720958	Hyper-IgM Immunodeficiency Syndrome, Type 5	7374
+C1721005	Leukokeratosis, Hereditary Mucosal	3860	3851
+C1721006	Keratoderma, Palmoplantar, Epidermolytic	3857	3848
+C1739384	Angel shaped phalangoepiphyseal dysplasia	8200
+C1744559	Congenital ectodermal dysplasia of face	117581
+C1785148	RAPP-HODGKIN SYNDROME	8626
+C1801950	Opitz-G syndrome, type 2	23384
+C1809471	Familial benign hypercalcemia	846
+C1832162	HYPOTRICHOSIS, CONGENITAL, WITH JUVENILE MACULAR DYSTROPHY	1001
+C1832167	Ectopia Lentis, Spontaneous Filtering Blebs, and Craniofacial Dysmorphism	444
+C1832174	DOYNE HONEYCOMB RETINAL DYSTROPHY	3075	2202	3426
+C1832215	Athabaskan brainstem dysgenesis	3198
+C1832216	Bosley-Salih-Alorainy Syndrome	3198
+C1832241	Agammaglobulinemia, non-Bruton type	29760	973	5295	56262	974	3543	3507	6929
+C1832322	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	5896	5897
+C1832334	CHARCOT-MARIE-TOOTH DISEASE, TYPE 4D	10397
+C1832370	MYOPATHY, MYOFIBRILLAR, DESMIN-RELATED	1674
+C1832386	Diabetes Mellitus, Transient Neonatal, 1	3767	346171	57061	6833	5325
+C1832388	Platelet Disorder, Familial, with Associated Myeloid Malignancy	2120	22852	861
+C1832390	Van Maldergem Wetzburger Verloes syndrome	79633	8642
+C1832409	Crisponi syndrome	23529	9244	55975
+C1832466	CAPOS syndrome	4976	478
+C1832585	CEREBELLAR ATAXIA, CAYMAN TYPE	85300
+C1832587	POLYPOSIS SYNDROME, HEREDITARY MIXED, 1	26585	657
+C1832594	Verloes Bourguignon syndrome	4054
+C1832615	HYPERPARATHYROIDISM, NEONATAL SEVERE	55503	846
+C1832661	ANOPHTHALMIA AND PULMONARY HYPOPLASIA	64220	5915
+C1832669	SPASTIC PARAPLEGIA 9, AUTOSOMAL DOMINANT (disorder)	5832
+C1832702	BRACHYDACTYLY, TYPE A2	650	658	8200
+C1832841	EPILEPSY, FAMILIAL ADULT MYOCLONIC, 1	1501	401474	151	6900
+C1832855	CHOREOATHETOSIS/SPASTICITY, EPISODIC	6513
+C1832916	Timothy syndrome	775
+C1832918	Brody myopathy	487
+C1832931	ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 2	4000	7273	11155	29119
+C1832940	JUVENILE POLYPOSIS OF STOMACH	657	4089
+C1833030	PALMOPLANTAR KERATODERMA, NONEPIDERMOLYTIC	3848	362
+C1833053	Proprotein Convertase 1 3 Deficiency	5122
+C1833104	DIABETES MELLITUS, PERMANENT NEONATAL	3767	6833	3630	6774	3651	2645
+C1833118	Cataract, Pulverulent	4094	1420	1414	1415	2703	7431	8419	2700	1421
+C1833136	Marden Walker like syndrome	91179
+C1833213	Hyperferritinemia, hereditary, with congenital cataracts	2512
+C1833275	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative	3718
+C1833308	NEURONOPATHY, DISTAL HEREDITARY MOTOR, TYPE V	65055	2617	26580
+C1833372	HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE III	1175
+C1833373	Inclusion Body Myopathy, Autosomal Recessive	10020
+C1833453	Proximal Myopathy with Focal Depletion of Mitochondria	1120
+C1833508	CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LATE-ONSET	1376
+C1833511	CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, INFANTILE	1376
+C1833518	CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LETHAL NEONATAL	1376
+C1833541	Caroli disease isolated	5314
+C1833561	UV-Sensitive Syndrome	1161	2074	57654
+C1833661	PAROXYSMAL EXTREME PAIN DISORDER	6335
+C1833662	INCLUSION BODY MYOPATHY WITH EARLY-ONSET PAGET DISEASE AND FRONTOTEMPORAL DEMENTIA	3178	3181	7415
+C1833691	Otofaciocervical Syndrome	2138	5075
+C1833699	Osteopoikilosis, Isolated	23592
+C1833736	Osteogenesis imperfecta, Levin type	203859
+C1833809	OPTIC ATROPHY AND CATARACT, AUTOSOMAL DOMINANT	80207
+C1833921	Familial medullary thyroid carcinoma	4914	5979	2100
+C1834207	Ceroid Lipofuscinosis, Neuronal, Parry Type	80331
+C1834523	ARTHROGRYPOSIS, DISTAL, TYPE 2B	7136	7169	63895	259232	7140	4621
+C1834558	Myopathy, Centronuclear, Autosomal Dominant	1785	274
+C1834559	Continuous Muscle Fiber Activity, Hereditary	3736
+C1834569	Jankovic Rivera syndrome	427
+C1834570	Myoclonic dystonia	79734	8910
+C1834674	BETHLEM MYOPATHY 1	1303
+C1834690	Spinal Muscular Atrophy, Childhood, Proximal, Autosomal Dominant	1778
+C1834846	Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 1	56652	291	11232	50484	5428
+C1835039	Melanosis, Universal	4254
+C1835084	Megaduodenum and-or Megacystis	72
+C1835171	Hypomagnesemia 2, renal	486	6928
+C1835265	Lymphedema, microcephaly and chorioretinopathy syndrome	3832
+C1835437	Platyspondylic Lethal Skeletal Dysplasia, Torrance Type	1280
+C1835612	LACRIMAL DUCT DEFECT	3321
+C1835614	Hereditary Hyperexplexia	84896
+C1835662	Keratosis palmoplantaris papulosa	79719	7373
+C1835664	TYLOSIS WITH ESOPHAGEAL CANCER	79651
+C1835672	Palmoplantar Keratoderma with Deafness	2706	4574
+C1835698	Keratitis, hereditary	5080
+C1835813	Pseudoxanthoma Elasticum-Like Disorder with Multiple Coagulation Factor Deficiency	2677
+C1835829	Immunodeficiency due to Defect in MAPBP-Interacting Protein	28956
+C1835845	Mitochondrial Phosphate Carrier Deficiency	5250
+C1835851	Ichthyosis with hypotrichosis, autosomal recessive	6768
+C1835888	Diarrhea 4, Malabsorptive, Congenital	50674
+C1835896	SPASTIC PARAPLEGIA 30, AUTOSOMAL RECESSIVE (disorder)	547
+C1835897	Retinal Cone Dystrophy 3B	169522
+C1835922	Aminoacylase 1 deficiency	95
+C1835931	ALPHA/BETA T-CELL LYMPHOPENIA WITH GAMMA/DELTA T-CELL EXPANSION, SEVERE CYTOMEGALOVIRUS INFECTION, AND AUTOIMMUNITY	5896
+C1836010	Spastic Paraplegia, Optic Atrophy, and Neuropathy	23769	64837
+C1836033	Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome	9342
+C1836050	Filaminopathy, autosomal dominant	2318
+C1836081	RHEGMATOGENOUS RETINAL DETACHMENT, AUTOSOMAL DOMINANT	1280
+C1836123	Goldberg-Shprintzen megacolon syndrome	26128
+C1836155	Myopathy, Myofibrillar, Zasp-Related	11155
+C1836173	Generalized Epilepsy and Paroxysmal Dyskinesia	3778
+C1836206	Syndactyly, Mesoaxial Synostotic, with Phalangeal Reduction	727857
+C1836284	Epidermolysis Bullosa Simplex with Migratory Circinate Erythema	3852
+C1836295	SPASTIC PARAPLEGIA 28, AUTOSOMAL RECESSIVE (disorder)	80821
+C1836330	ERYTHROKERATODERMIA VARIABILIS 3 (disorder)	1174
+C1836383	SPINOCEREBELLAR ATAXIA 27	2259
+C1836395	SPINOCEREBELLAR ATAXIA 26	1938
+C1836474	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 7	1200
+C1836522	Schindler Disease, Type II	4668
+C1836544	Schindler Disease, Type I	4668
+C1836545	Schindler Disease, Type III	4668
+C1836573	GRISCELLI SYNDROME, TYPE 3	79083	4644
+C1836602	Bruck syndrome 2	5352	60681
+C1836632	SPASTIC PARAPLEGIA 26, AUTOSOMAL RECESSIVE (disorder)	2583
+C1836635	Loeys-Dietz Aortic Aneurysm Syndrome	7046	7048
+C1836681	Erythrokeratoderma, Reticular	3848	3858
+C1836683	Czech dysplasia, metatarsal type	1280
+C1836694	Striatal Degeneration, Autosomal Dominant	8622
+C1836705	Pseudohyperkalemia, Familial, 2, due to Red Cell Leak	10058
+C1836706	Hyperthyroidism, Nonautoimmune	7253
+C1836723	Tibia, Bowing of, with Pseudarthrosis and Pectus Excavatum	4233
+C1836727	Peripheral Demyelinating Neuropathy, Central Dysmyelination, Waardenburg Syndrome, and Hirschsprung Disease	6663
+C1836765	LIMB-GIRDLE MUSCULAR DYSTROPHY, TYPE 1G (disorder)	9987
+C1836780	PANCREATIC AND CEREBELLAR AGENESIS	256297
+C1836797	Combined Oxidative Phosphorylation Deficiency 1	85476
+C1836823	Nephropathy with Pretibial Epidermolysis Bullosa and Deafness	977
+C1836824	Amish Infantile Epilepsy Syndrome	8869
+C1836876	Pierson syndrome	3913
+C1836899	SPASTIC PARAPLEGIA 27, AUTOSOMAL RECESSIVE (disorder)	414886
+C1836916	POSTERIOR COLUMN ATAXIA WITH RETINITIS PIGMENTOSA	28982
+C1837026	MEACHAM SYNDROME (disorder)	7490
+C1837028	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive	3575	5788
+C1837065	CD8 Deficiency, Familial	925
+C1837073	Spondylometaphyseal Dysplasia with Cone-Rod Dystrophy	5130
+C1837206	Cryohydrocytosis, Stomatin-Deficient, with Mental Retardation, Seizures, Cataracts, and Massive Hepatosplenomegaly	6513
+C1837245	Carney Complex Variant	4626
+C1837317	Alpha-B Crystallinopathy	1410
+C1837355	Leukodystrophy, Hypomyelinating, 2	57165
+C1837371	Sudden Infant Death with Dysgenesis of the Testes Syndrome	7259
+C1837429	Pyruvate dehydrogenase phosphatase deficiency	54704
+C1837454	SPINOCEREBELLAR ATAXIA 8	6315	724066
+C1837475	Insulin-Like Growth Factor I Deficiency	3479
+C1837481	Spondyloepimetaphyseal Dysplasia, Matrilin-3 Related	4148
+C1837518	Spinocerebellar ataxia 25	338435
+C1837530	AICAR Transformylase Inosine Monophosphate Cyclohydrolase Deficiency	471
+C1837541	SPINOCEREBELLAR ATAXIA 20	407973
+C1837610	ICHTHYOSIS PREMATURITY SYNDROME	10999
+C1837750	Oligodontia-Colorectal Cancer Syndrome	8313
+C1837756	MANDIBULOACRAL DYSPLASIA WITH TYPE B LIPODYSTROPHY	10269
+C1837822	Burn-Mckeown syndrome	25885	10907
+C1837915	ERYTHROCYTOSIS, FAMILIAL, 2	7428
+C1837991	Colorectal Adenomatous Polyposis, Autosomal Recessive	4595
+C1838062	Autosomal Dominant Lateral Temporal Lobe Epilepsy	5649	9211	9681
+C1838103	MITOCHONDRIAL MYOPATHY AND SIDEROBLASTIC ANEMIA	51067	80324
+C1838180	CODAS syndrome	9361
+C1838192	SPASTIC PARAPLEGIA 6, AUTOSOMAL DOMINANT (disorder)	123606
+C1838258	Osteopetrosis and infantile neuroaxonal dystrophy	28962
+C1838348	Oculomaxillofacial dysostosis	23384
+C1838359	Diffuse palmoplantar keratoderma, Bothnian type	362
+C1838440	ICHTHYOSIS EXFOLIATIVA	1475	5271
+C1838457	FANCONI ANEMIA, COMPLEMENTATION GROUP D1	675
+C1838492	SPINAL MUSCULAR ATROPHY, DISTAL, CONGENITAL NONPROGRESSIVE (disorder)	59341
+C1838539	CARDIOMYOPATHY, FAMILIAL, WITH CONDUCTION DISTURBANCE	6331	4878
+C1838570	CEROID LIPOFUSCINOSIS, NEURONAL, 8	2055
+C1838571	Ceroid Lipofuscinosis, Neuronal, 7	256471
+C1838577	Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	5654
+C1838604	EPILEPSY, CHILDHOOD ABSENCE, 1	2562	6513	8912
+C1838612	Rhizomelic chondrodysplasia punctata, type 3	8540
+C1838625	Warburg Sjo Fledelius syndrome	25782	22931	128637	22930
+C1838654	Nivelon Nivelon Mabille syndrome	55733
+C1838779	Eiken Skeletal Dysplasia	5745
+C1838979	MITOCHONDRIAL COMPLEX I DEFICIENCY	25915	4536	4719	4728	91942	4716	4694	80224	4537	4723	4729	126328	79133	4700	4724	4715	4720	4726	51300	51103	4722	55572	55863	374291	4535	4709	29078
+C1839028	Mitochondrial Myopathy with Diabetes	4556
+C1839130	Dystonia 3, Torsion, X-Linked	6872
+C1839259	Bulbo-Spinal Atrophy, X-Linked	367
+C1839333	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2	6792
+C1839413	Pyruvate Dehydrogenase E1 Alpha Deficiency	5160	9361
+C1839454	PROPERDIN DEFICIENCY, X-LINKED	5199
+C1839463	TARP syndrome	8241
+C1839576	OPTIC ATROPHY 2 (disorder)	4977
+C1839615	X-linked myopathy with excessive autophagy	203547
+C1839728	METACARPAL 4-5 FUSION	8823
+C1839736	WILSON-TURNER X-LINKED MENTAL RETARDATION SYNDROME	81887	55869
+C1839780	FRAGILE X TREMOR/ATAXIA SYNDROME	2332
+C1839840	MALE PSEUDOHERMAPHRODITISM: DEFICIENCY OF TESTICULAR 17,20-DESMOLASE	1646
+C1839988	Ichthyosis follicularis atrichia photophobia syndrome	51360
+C1840061	SMALL PATELLA SYNDROME	9496
+C1840296	Ichthyosis hystrix, Curth Macklin type	3848
+C1840299	Hypotrichosis Simplex of Scalp	121391	1041
+C1840322	ODONTOHYPOPHOSPHATASIA (disorder)	249
+C1840333	Barakat syndrome	2625
+C1840347	HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE II (disorder)	2767
+C1840365	King Denborough syndrome	6261
+C1840392	HYPERPIGMENTATION, FAMILIAL PROGRESSIVE	4254
+C1840437	Isolated hyperchlorhidrosis	771
+C1840451	MULTICYSTIC RENAL DYSPLASIA, BILATERAL	6928
+C1840572	HIP DYSPLASIA, BEUKES TYPE	55325
+C1841972	Glucocorticoid Receptor Deficiency	2908
+C1841984	GLOMUVENOUS MALFORMATIONS	11146
+C1842062	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1F	23534
+C1842073	Prolonged Electroretinal Response Suppression	388531	8787
+C1842149	Spondyloepiphyseal Dysplasia, Kimberley Type	176
+C1842180	CAPILLARY MALFORMATION-ARTERIOVENOUS MALFORMATION (disorder)	5921
+C1842197	Charcot-Marie-Tooth Disease, Recessive Intermediate A	54332
+C1842237	Charcot-Marie-Tooth Disease, Dominant Intermediate C	8565
+C1842357	Slowed Nerve Conduction Velocity, Autosomal Dominant	9639
+C1842362	HERMANSKY-PUDLAK SYNDROME 2	8546
+C1842398	Neutrophil Immunodeficiency Syndrome	5880
+C1842422	Synpolydactyly 2	2192
+C1842534	DYSTONIA 18 (disorder)	112476	6513
+C1842687	PONTOCEREBELLAR HYPOPLASIA TYPE 3 (disorder)	27445
+C1842691	Diaphanospondylodysostosis	168667
+C1842704	GAUCHER DISEASE, PERINATAL LETHAL	2629
+C1842914	Adult-Onset Vitelliform Macular Dystrophy	50939	3617	7439	5961
+C1843042	Craniolenticulosutural Dysplasia	10484
+C1843075	Charcot-Marie-Tooth Disease, Dominant Intermediate D	4359
+C1843096	Acrocapitofemoral Dysplasia	3549
+C1843116	Bile acid synthesis defect, congenital, 1	80270
+C1843139	Hypercholanemia, Familial	570	2052	9414
+C1843256	IRAK4 Deficiency	51135
+C1843264	DYSTONIA 13, TORSION	93983
+C1843292	Skin Fragility-Woolly Hair Syndrome	1832
+C1843330	OSTEOPETROSIS, AUTOSOMAL DOMINANT 1	4041
+C1843355	ICHTHYOSIS, LEUKOCYTE VACUOLES, ALOPECIA, AND SCLEROSING CHOLANGITIS	9076
+C1843463	Ichthyosis, Cyclic, with Epidermolytic Hyperkeratosis	3848	3858
+C1843477	Epidermolysis Bullosa Simplex Superficialis	1294
+C1843478	Lethal Congenital Contracture Syndrome 2	2065
+C1843504	Pontocerebellar Hypoplasia Type 1	283989	51010	11340	7443	5393	57038
+C1843512	BRAIN SMALL VESSEL DISEASE WITH HEMORRHAGE	1282
+C1843569	SPASTIC PARAPLEGIA 24, AUTOSOMAL RECESSIVE (disorder)	338090
+C1843687	ATRIAL FIBRILLATION, FAMILIAL, 1 (disorder)	1482	2702	5308	6331	4635	9631	6330	140628	3741	9992	3759	6327	55800	3784	2626	4878	2627
+C1843807	Basal ganglia disease, biotin-responsive	80704
+C1843816	Bothnia Retinal Dystrophy	6017
+C1843851	Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis	5428
+C1843852	SPINOCEREBELLAR ATAXIA WITH EPILEPSY	5428
+C1843884	SPINOCEREBELLAR ATAXIA 18	3475
+C1843891	SPINOCEREBELLAR ATAXIA 21	339453
+C1844016	Holoprosencephaly with Fetal Akinesia-Hypokinesia Sequence	27238
+C1844836	Ayazi syndrome	5456
+C1844862	Abruzzo Erickson syndrome	50945
+C1844887	Catel Manzke syndrome	23483
+C1844934	Arthrogryposis multiplex congenita, distal, X-linked	7317
+C1845050	PIGMENTARY DISORDER, RETICULATE, WITH SYSTEMIC MANIFESTATIONS	5422
+C1845095	DEAFNESS, X-LINKED 5 (disorder)	9131
+C1845118	SHORT STATURE, IDIOPATHIC, X-LINKED	6473
+C1845146	Holoprosencephaly, Ectrodactyly, and Bilateral Cleft Lip-Palate	2260
+C1845151	Glycogen Storage Disease, Type IXD	5255
+C1845202	Nephrogenic Syndrome of Inappropriate Antidiuresis	554
+C1845243	MENTAL RETARDATION, X-LINKED, SYNDROMIC, CLAES-JENSEN TYPE	8242
+C1845343	Epilepsy, X-Linked, with Variable Learning Disabilities and Behavior Disorders	6853
+C1845359	Spinal Muscular Atrophy, Distal, X-Linked 3	538
+C1845366	Mental retardation, X-linked, with cerebellar hypoplasia and distinctive facial appearance	4983
+C1845408	Contiguous Abcd1-Dxs1375e Deletion Syndrome	10134
+C1845446	Corpus Callosum, Agenesis of, with Mental Retardation, Ocular Coloboma, and Micrognathia	3476
+C1845530	Stocco dos Santos syndrome	57477
+C1845543	Mental Retardation, X-Linked, with Epilepsy	10159
+C1845668	Perisylvian syndrome	9289	5297
+C1845837	Dyserythropoietic Anemia with Thrombocytopenia	2623
+C1845861	MENTAL RETARDATION, X-LINKED, WITH SHORT STATURE, HYPOGONADISM, AND ABNORMAL GAIT	8450
+C1845919	Ectodermal Dysplasia, Anhidrotic, with Immunodeficiency, Osteopetrosis, and Lymphedema	8517
+C1845987	Neutropenia, Severe Congenital, X-Linked	7454
+C1846006	Ectodermal dysplasia, hypohidrotic, with immune deficiency	8517	4792
+C1846009	Intrauterine Growth Retardation, Metaphyseal Dysplasia, Adrenal Hypoplasia Congenita, And Genital Anomalies	5426	1028
+C1846046	SPASTIC PARAPLEGIA 16, X-LINKED (disorder)	57760
+C1846055	Siderius X-linked mental retardation syndrome	23133
+C1846059	Roifman syndrome	100151683
+C1846129	Terminal Osseous Dysplasia and Pigmentary Defects	2316
+C1846130	Mental retardation X-linked, South African type	10479
+C1846142	HOYERAAL-HREIDARSSON SYNDROME	26277	65057	7015	51750	5073	1736
+C1846171	Lissencephaly, X-Linked, 2	170302
+C1846242	Alport Syndrome, Mental Retardation, Midface Hypoplasia, and Elliptocytosis	9949
+C1846265	Microphthalmia, syndromic 2	54880
+C1846278	MENTAL RETARDATION, EPILEPTIC SEIZURES, HYPOGONADISM AND HYPOGENITALISM, MICROCEPHALY, AND OBESITY (disorder)	1968
+C1846331	Juvenile-onset dystonia	60
+C1846343	Bartter syndrome, type 3	1188
+C1846367	Spinocerebellar ataxia 19	3752
+C1846421	Lathosterolosis	6309
+C1846431	SMITH-MCCORT DYSPLASIA	54808	83452
+C1846496	Gaze Palsy, Familial Horizontal, with Progressive Scoliosis	1630	64221
+C1846545	Autoimmune Lymphoproliferative Syndrome Type 2B	841
+C1846564	SPASTIC PARAPLEGIA 7, AUTOSOMAL RECESSIVE	6687
+C1846685	SPASTIC PARAPLEGIA 19, AUTOSOMAL DOMINANT (disorder)	140907
+C1846707	SPINOCEREBELLAR ATAXIA 17	6908
+C1846722	Macrocephaly with Multiple Epiphyseal Dysplasia and Distinctive Facies	374654
+C1846790	JOUBERT SYNDROME 4 (disorder)	4867	65062	23322
+C1846796	Anauxetic dysplasia	10940
+C1847114	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 5	84942
+C1847197	Vascular Malformation, Primary Intraosseous	63916
+C1847319	PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA	6392	6391	6390
+C1847352	POLYMICROGYRIA, BILATERAL FRONTOPARIETAL	9289
+C1847406	Digital Arthropathy-Brachydactyly, Familial	59341
+C1847501	Glut1 Deficiency Syndrome	6513
+C1847532	MYOPATHY, DISTAL, WITH ANTERIOR TIBIAL ONSET	8291
+C1847555	Hyperinsulinemic hypoglycemia, familial, 6	2746
+C1847627	Dyskinesia, Familial, with Facial Myokymia	111
+C1847640	KUFOR-RAKEB SYNDROME	23400
+C1847720	Hypermethioninemia due to deficiency of glycine N-methyltransferase	27232
+C1847725	SPINOCEREBELLAR ATAXIA 15	3708
+C1847827	LIG4 Syndrome	3981
+C1847836	Oculocutaneous Albinism, Type IV	51151
+C1847902	CHARCOT-MARIE-TOOTH DISEASE, DOMINANT INTERMEDIATE B (disorder)	1785
+C1847967	OVARIOLEUKODYSTROPHY	1967	8890	8892	8891	57505	8893
+C1847987	HUNTINGTON DISEASE-LIKE 2	57338
+C1848029	Ehlers-Danlos syndrome caused by tenascin-X deficiency	7148
+C1848068	Mental Retardation, X-Linked, with Isolated Growth Hormone Deficiency	6658
+C1848097	Spondyloepimetaphyseal Dysplasia, X-Linked	633
+C1848137	EPILEPSY, FEMALE-RESTRICTED, WITH MENTAL RETARDATION (disorder)	57526
+C1848201	Subcortical Band Heterotopia	1641	2009	5048
+C1848336	Dent disease 1	1184
+C1848392	Zunich neuroectodermal syndrome	9487
+C1848410	Xeroderma pigmentosum, variant type	5429
+C1848519	WAARDENBURG SYNDROME, TYPE 4A	4286	1910	6663	1908
+C1848533	Ataxia with vitamin E deficiency	7274
+C1848534	VITAMIN K-DEPENDENT CLOTTING FACTORS, COMBINED DEFICIENCY OF, 1	2677	79001
+C1848552	Methylmalonic Aciduria and Homocystinuria, CblD Type	27249
+C1848561	Methylmalonic acidemia with homocystinuria	25974
+C1848599	VACTERL Association With Hydrocephalus	2187
+C1848600	Vater Association With Hydrocephalus	2187
+C1848651	Al Awadi syndrome	7476
+C1848745	Oliver-McFarlane syndrome	10908
+C1848794	Thyrotropin, Biologically Inactive	7252
+C1848805	Thyroid Dyshormonogenesis 1	389434	7038	50506	6528	405753	7173
+C1848862	Miller-McKusick-Malvaux-Syndrome (3M Syndrome)	83987
+C1848914	Hexosaminidase A Deficiency, Adult Type	3073
+C1848916	Tay-Sachs Disease, Variant B1	3073
+C1848934	SPONDYLOCARPOTARSAL SYNOSTOSIS SYNDROME	4621
+C1848947	COLD-INDUCED SWEATING SYNDROME 1	23529	9244	55975
+C1849011	SPONDYLOMETAEPIPHYSEAL DYSPLASIA, SHORT LIMB-HAND TYPE	4921
+C1849094	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 3	5190	79581
+C1849115	SPASTIC PARAPLEGIA 5A, AUTOSOMAL RECESSIVE (disorder)	9420
+C1849128	Spastic paraplegia 15, autosomal recessive	23503
+C1849157	Resistance to Insulin-Like Growth Factor I	3480
+C1849320	Sandhoff Disease, Adult Type	3074
+C1849321	Sandhoff Disease, Juvenile Type	3074
+C1849322	Sandhoff Disease, Infantile Type	3074
+C1849334	Robinow syndrome, autosomal recessive	64359
+C1849348	Richieri Costa Pereira syndrome	9775
+C1849387	Rh-Null, Regulator Type	6005	6007	6006
+C1849394	Enhanced S-Cone Syndrome	10002
+C1849409	Knobloch syndrome	80781
+C1849435	Renal tubular acidosis, distal, type 3	760
+C1849437	Mainzer-Saldino Disease	26160	9742
+C1849453	Rapadilino syndrome	9401
+C1849507	Uridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia due to	51251
+C1849508	EPILEPSY, PYRIDOXINE-DEPENDENT	284111	11212
+C1849678	Peroxisomal ACYL-COA oxidase deficiency	51
+C1849700	Hyperphenylalaninemia with primapterinuria	5092
+C1849718	POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE	54101
+C1849722	Polyglucosan Body Disease, Adult Form	2632
+C1849779	Kowarski syndrome	2688
+C1849813	Glycogen Storage Disease of Heart, Lethal Congenital	51422
+C1849930	Persistent Mullerian duct syndrome	269	268
+C1850040	Pelviscapular dysplasia	6913
+C1850053	Pelizaeus-Merzbacher-like disease, autosomal recessive, 2	9255
+C1850055	PEHO syndrome	9326	547
+C1850056	Progressive encephalopathy with edema, hypsarrhythmia, and optic atrophy-like syndrome	55704
+C1850096	Pancreatic Agenesis, Congenital	256297	3651
+C1850100	PARKINSON DISEASE 15, AUTOSOMAL RECESSIVE (disorder)	25793	6622
+C1850106	RAINE SYNDROME	56975
+C1850168	Bruck syndrome 1	5352	60681
+C1850303	PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL RECESSIVE	7084	5428
+C1850318	Omodysplasia type 1	10082
+C1850343	Mosaic variegated aneuploidy syndrome 1	701	9702	9184	699	9319
+C1850395	Neuropathy, Hereditary Sensory, with Spastic Paraplegia, Autosomal Recessive	22948
+C1850442	CEROID LIPOFUSCINOSIS, NEURONAL, 5	1203
+C1850451	CEROID LIPOFUSCINOSIS, NEURONAL, 1	5538
+C1850568	Nakajo syndrome	5696
+C1850625	Native American myopathy	246329
+C1850627	Nasodigitoacoustic syndrome	2239
+C1850635	Atrial myxoma, familial	5573
+C1850674	MINICORE MYOPATHY WITH EXTERNAL OPHTHALMOPLEGIA (disorder)	6261
+C1850746	Myopathy, congenital nonprogressive with Moebius and Robin sequences	389827
+C1850808	Miyoshi myopathy	8291
+C1850938	FUNDUS DYSTROPHY, PSEUDOINFLAMMATORY, OF SORSBY	7078
+C1851100	LAURIN-SANDROW SYNDROME	64327
+C1851120	Hypertrichosis Terminalis, Generalized, with or without Gingival Hyperplasia	23461
+C1851286	Ectopia lentis isolated	2200	54507
+C1851316	Iron Overload, Autosomal Dominant	2495
+C1851402	Exudative vitreoretinopathy 1	79797	1499
+C1851481	Erythrokeratodermia with ataxia	6785
+C1851526	Ancell-Spiegler cylindromas	1540
+C1851536	Epiphyseal Dysplasia, Multiple, with Myopia and Conductive Deafness	1280
+C1851573	Transient bullous dermolysis of the newborn	1294
+C1851710	LATERAL MENINGOCELE SYNDROME	4854
+C1851841	ECTRODACTYLY, ECTODERMAL DYSPLASIA, AND CLEFT LIP/PALATE SYNDROME 1	8626
+C1851920	Dopa-Responsive Dystonia	2643
+C1851943	DYSTONIA 4, TORSION, AUTOSOMAL DOMINANT (disorder)	10382
+C1851996	Dwarfism tall vertebrae	83987
+C1852020	Malattia Leventinese	3075	2202	3426
+C1852021	Drusen, Radial, Autosomal Dominant	3075	2202	3426
+C1852085	Digitotalar Dysmorphism	7136	7169	4604	259232	7140	4621
+C1852146	DERMODISTORTIVE URTICARIA	30817
+C1852150	Fingerprints, Absence of	56916
+C1852222	Failure of Tooth Eruption, Primary	5745
+C1852282	DEAFNESS, AUTOSOMAL DOMINANT 1 (disorder)	1729
+C1852406	Cutis Gyrata Syndrome of Beare And Stevenson	2263
+C1852438	CATARACT, COPPOCK-LIKE	4094	1420	1414	1415	2703	7431	8419	2700	1421
+C1852453	Cryptophthalmos, Unilateral or Bilateral, Isolated	341640
+C1852467	Creutzfeldt-Jakob Disease, Sporadic	5621
+C1852510	Craniofacial deafness hand syndrome	5077
+C1852529	Corticosteroid-Binding Globulin Deficiency	866
+C1852551	Epithelial Recurrent Erosion Dystrophy	1308
+C1852700	Complement Component 4, Partial Deficiency Of	710
+C1852759	Papillorenal syndrome	5076
+C1852767	Hereditary macular coloboma	7855	5080	10058	6297
+C1853116	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 8 (disorder)	23345
+C1853118	Severe congenital neutropenia	10456
+C1853136	Neutral Lipid Storage Disease with Myopathy	57104
+C1853137	BRACHYDACTYLY-SYNDACTYLY SYNDROME	3239
+C1853205	Glycosylphosphatidylinositol deficiency	284098	93183
+C1853230	Aphakia, congenital primary	2301
+C1853247	SPASTIC PARAPLEGIA 31, AUTOSOMAL DOMINANT	65055
+C1853249	SPINOCEREBELLAR ATAXIA 28	10939
+C1853250	SPINOCEREBELLAR ATAXIA 23	5173
+C1853258	Seborrhea-Like Dermatitis with Psoriasiform Elements	79755
+C1853271	HYPOPHOSPHATEMIC RICKETS WITH HYPERCALCIURIA, HEREDITARY	142680
+C1853278	Bleeding Disorder Due To P2RY12 Defect	64805
+C1853354	Peeling skin syndrome, acral type	9333	1475
+C1853392	Interleukin 2 Receptor, Alpha, Deficiency of	3559
+C1853396	Primary lateral sclerosis juvenile	11160	57679
+C1853564	Developmental Delay, Epilepsy, and Neonatal Diabetes	3767	6833
+C1853566	Genitopatellar Syndrome	23522
+C1853578	Neuroferritinopathy	2512
+C1853698	Rippling muscle disease	859
+C1853733	HEMOCHROMATOSIS, TYPE 4	30061
+C1853761	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 1	23533	23064
+C1853831	Bleeding Disorder, East Texas Type	2153
+C1853892	Dimethylglycine Dehydrogenase Deficiency	29958
+C1853925	Spondyloocular Syndrome, Autosomal Recessive	64132
+C1853926	NONAKA MYOPATHY	10020
+C1854021	Cataract, Central Saccular, With Sutural Opacities	1411	2703	1415	8419	4284	1427
+C1854023	Spinal muscular atrophy, Jerash type	3315	10280	26353	8988	81545
+C1854058	SPINAL MUSCULAR ATROPHY, LATE-ONSET, FINKEL TYPE	9217
+C1854063	Cardiomyopathy dilated with Woolly hair and keratoderma	1832
+C1854065	LATE-ONSET RETINAL DEGENERATION (disorder)	114902
+C1854273	Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia	2122	3207
+C1854310	Hypotrichosis simplex	6635	4047	147409	10161	200879	147495	6144
+C1854368	Cardiomyopathy, Dilated, 1J	2070
+C1854369	Spinocerebellar ataxia 14	5582
+C1854380	NEMALINE MYOPATHY 5	7138
+C1854416	MACROCEPHALY/AUTISM SYNDROME	220296	5728
+C1854449	Neuropathy, hereditary motor and sensory, Russe type	3098
+C1854466	Temtamy preaxial brachydactyly syndrome	22856
+C1854467	Spastic paraplegia 13, autosomal dominant	3329
+C1854488	Spinocerebellar ataxia 13	3748
+C1854520	SEBASTIAN SYNDROME	4627
+C1854568	SPASTIC PARAPLEGIA 14, AUTOSOMAL RECESSIVE (disorder)	57309
+C1854630	Growth Deficiency and Mental Retardation with Facial Dysmorphism	4297	8243
+C1854631	Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy	4306
+C1854664	LETHAL CONGENITAL CONTRACTURE SYNDROME 1	2733
+C1854678	MULTIPLE PTERYGIUM SYNDROME, LETHAL TYPE	1146	6261	1144	1134	4703
+C1854896	Mucolipidosis III Gamma	84572
+C1854988	Molybdenum Cofactor Deficiency, Complementation Group A	4337
+C1854989	Molybdenum Cofactor Deficiency, Complementation Group B	4338
+C1854990	Molybdenum Cofactor Deficiency, Complementation Group C	10243
+C1855008	Mitochondrial Complex II Deficiency	6390	6392	644096	6389
+C1855052	MICROPHTHALMIA, ISOLATED 1	6657	30062	338917	5015	9573	220
+C1855100	Methylmalonyl-CoA Epimerase Deficiency	84693
+C1855102	Methylmalonic aciduria cblB type	326625
+C1855109	Methylmalonic aciduria cblA type	166785
+C1855179	CATARACT, ANTERIOR POLAR	1412	1419	1417	1409
+C1855188	Metaphyseal Chondrodysplasia with Retinitis Pigmentosa	10283
+C1855229	Spondylometaphyseal dysplasia, Sedaghatian type	2879
+C1855305	Ter Haar syndrome	285590
+C1855346	MAST SYNDROME	51324
+C1855465	STARGARDT DISEASE 1 (disorder)	8842	6785	24
+C1855466	Hypomagnesemia 5, Renal, with Ocular Involvement	149461
+C1855498	Lipase deficiency combined	64788
+C1855548	Laron syndrome type 2	6777
+C1855553	Pyruvate Dehydrogenase E3-Binding Protein Deficiency	8050
+C1855565	Pyruvate Dehydrogenase E2 Deficiency	1737
+C1855577	Erythrocyte Lactate Transporter Defect	6566
+C1855607	Keutel syndrome	4256
+C1855627	HAIM-MUNK SYNDROME	1075
+C1855644	Keratoderma, Palmoplantar, Norrbotten Recessive Type	57152
+C1855648	KENNY-CAFFEY SYNDROME, TYPE 1	6905
+C1855663	Kaufman oculocerebrofacial syndrome	89910
+C1855675	Arima syndrome	23090	51524	79583	80184	65062
+C1855681	Nephronophthisis, familial juvenile	4867	203286	84662	261734	56999	23005	57728
+C1855705	Jejunal Atresia with Microcephaly and Ocular Anomalies	1063
+C1855722	Iris Coloboma with Ptosis, Hypertelorism, and Mental Retardation	71	60
+C1855733	Neuronal intestinal pseudoobstruction	2316
+C1855772	Absent corpus callosum cataract immunodeficiency	57724
+C1855789	Self-Healing Collodion Baby	7051	242	59344
+C1855794	Bamforth syndrome	2304
+C1855840	HYPOPARATHYROIDISM-RETARDATION-DYSMORPHISM SYNDROME	6905
+C1855861	Glycogen Storage Disease 0, Liver	2998
+C1855900	HYPERTRICHOSIS, CONGENITAL GENERALIZED	6658
+C1855923	Hyperphosphatasia with Mental Retardation	93210	84720	55650	27315	284098	9487	84992
+C1855995	L-2-HYDROXYGLUTARIC ACIDURIA	79944
+C1856053	Hydranencephaly with Renal Aplasia-Dysplasia	55165
+C1856061	Methylenetetrahydrofolate reductase deficiency	4524
+C1856127	Bile acid synthesis defect, congenital, 2	6718
+C1856128	Hepatic venoocclusive disease with immunodeficiency	3431
+C1856184	HEMIHYPERPLASIA, ISOLATED	10984	283120	3481
+C1856186	Deafness enamel hypoplasia nail defects	5190	5189
+C1856303	GSD IV, Neuromuscular Form, Fatal Perinatal	2632
+C1856304	GSD IV, Neuromuscular Form, Congenital	2632
+C1856305	GSD IV, Neuromuscular Form, Childhood	2632
+C1856399	Glutathione Synthetase Deficiency of Erythrocytes, Hemolytic Anemia due to	2937
+C1856465	Ghosal Hematodiaphyseal Dysplasia	6916
+C1856476	Gaucher Disease, Type Iiic	2629
+C1856603	Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia due to	2729
+C1856716	Follicle-stimulating hormone deficiency, isolated	2488
+C1856718	Fleck Retina, Familial Benign	5322
+C1856728	Fuhrmann syndrome	7476
+C1856738	Fibular hypoplasia and complex brachydactyly	658	8200
+C1856883	FACTOR V AND FACTOR VIII, COMBINED DEFICIENCY OF	90411	3998
+C1856934	Epidermolysis bullosa with pyloric atresia	3691	3655
+C1856972	Encephaloclastic Proliferative Vasculopathy	55640
+C1856974	PONTOCEREBELLAR HYPOPLASIA TYPE 4 (disorder)	283989
+C1857034	Ehlers-Danlos syndrome, cardiac valvular form	1278
+C1857041	Ectodermal dysplasia, ectrodactyly, and macular dystrophy	1001
+C1857069	SCHOPF-SCHULZ-PASSARGE SYNDROME (disorder)	80326
+C1857093	DYSTONIA 2, TORSION, AUTOSOMAL RECESSIVE (disorder)	3208
+C1857100	Dyssegmental dysplasia	3339
+C1857242	Rhizomelic chondrodysplasia punctata, type 2	8443
+C1857252	2,4-Dienoyl-CoA Reductase Deficiency	133686
+C1857253	Dicarboxylicaminoaciduria	6505
+C1857276	Trichohepatoenteric Syndrome	6499	9652
+C1857299	RETINAL NONATTACHMENT, NONSYNDROMIC CONGENITAL	220202	8322
+C1857332	Deafness, Sensorineural, Autosomal-Mitochondrial Type	4564	4549	4574	5456
+C1857344	Split-Hand-Foot Malformation With Sensorineural Hearing Loss	1749
+C1857355	Leigh syndrome , French Canadian type	10128
+C1857388	Cystinuria, Type A	6519
+C1857389	Cystinuria, Type B	11136
+C1857423	Cystic Kidney Disease with Ventriculomegaly	286204
+C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	79798
+C1857512	Temtamy syndrome	113246
+C1857569	CORNEAL ENDOTHELIAL DYSTROPHY 2	83959
+C1857572	CORNEAL DYSTROPHY AND PERCEPTIVE DEAFNESS	83959
+C1857662	COACH syndrome	91147	57545	23322	56623
+C1857663	Yunis Varon syndrome	9896	55697
+C1857682	Combined Oxidative Phosphorylation Deficiency 4	7284
+C1857728	Hereditary Angioedema Type III	2161
+C1857761	Alagille Syndrome 2	4853
+C1857762	Olivopontocerebellar hypoplasia, fetal-onset	283989
+C1857775	Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism	169792
+C1857776	3-@METHYLGLUTACONIC ACIDURIA, TYPE V	131118
+C1857802	MORM syndrome	56623
+C1857829	Heart-hand syndrome, Slovenian type	4000
+C1857855	SPASTIC PARAPLEGIA 29, AUTOSOMAL DOMINANT	619379
+C1857977	MICROHYDRANENCEPHALY	54820
+C1858051	NORTH AMERICAN INDIAN CHILDHOOD CIRRHOSIS	84916
+C1858080	Retinal Dystrophy, Early Onset Severe	55812	167691	9227	6121
+C1858084	STICKLER SYNDROME, TYPE II (disorder)	1301
+C1858106	SPASTIC PARAPLEGIA 12, AUTOSOMAL DOMINANT (disorder)	6253
+C1858160	CRANIOSYNOSTOSIS, TYPE 2	4488
+C1858266	Bare Lymphocyte Syndrome, Type I	6890	6892	6891	567
+C1858302	Ectodermal dysplasia/ skin fragility syndrome	5317
+C1858328	Bile acid synthesis defect, congenital, 4	23600
+C1858338	Neuropathy, hereditary motor and sensory, Okinawa type	10342
+C1858361	Pyogenic Arthritis, Pyoderma Gangrenosum and Acne	9051
+C1858391	ATAXIA-TELANGIECTASIA-LIKE DISORDER	4361
+C1858424	Cardioencephalomyopathy, Fatal Infantile, due to Cytochrome C Oxidase Deficiency	1355	9997	6341	493753	388753
+C1858477	Epilepsy, Partial, with Variable Foci	8131	10641	9681
+C1858479	Spastic paraplegia 11, autosomal recessive	80208
+C1858496	Advanced Sleep-Phase Syndrome, Familial	8864	8863	1453
+C1858501	Spinocerebellar Ataxia 12	5521
+C1858517	SPINAL MUSCULAR ATROPHY WITH RESPIRATORY DISTRESS 1	3508
+C1858656	Short Stature, Idiopathic, Autosomal	2690	2693
+C1858664	HEMOCHROMATOSIS, TYPE 3	7036
+C1858680	Familial encephalopathy with neuroserpin inclusion bodies	5274
+C1858695	Chudley-Mccullough syndrome	29899
+C1858712	Spastic paraplegia 10, autosomal dominant	3798
+C1858723	Poikiloderma with Neutropenia	79650
+C1858805	Vohwinkel Syndrome, Variant Form	4014
+C1858990	Beta Thalassemia, Dominant Inclusion Body Type	3043
+C1858991	Childhood Ataxia with Central Nervous System Hypomyelinization	1967	8890	8891	8892	8893
+C1859049	CCHS WITH HIRSCHSPRUNG DISEASE	5979	429	8929
+C1859093	Chorioretinal Dystrophy, Spinocerebellar Ataxia, and Hypogonadotropic Hypogonadism	10908
+C1859098	Chorea, Benign Familial	111	7080
+C1859133	RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 1	5191
+C1859148	Chondrodysplasia, blomstrand type	5745
+C1859194	GRISCELLI SYNDROME, TYPE 1	4644
+C1859252	Cerebrofaciothoracic Dysplasia	54499
+C1859298	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 2	23203
+C1859301	Cerebellar hypoplasia with endosteal sclerosis	55703
+C1859305	Cerebellar Ataxia and Hypogonadotropic Hypogonadism	54476	10908
+C1859309	Syndactyly Cenani Lenz type	324	4038
+C1859312	CAMFAK syndrome	2073	2068	2067
+C1859317	Cataract and cardiomyopathy	55750	291
+C1859353	Candidiasis, Familial, 2	64170
+C1859372	Calcification of Joints and Arteries	4907
+C1859405	Bowen-Conradi syndrome	10436
+C1859486	BIETTI CRYSTALLINE CORNEORETINAL DYSTROPHY	285440
+C1859592	ATRICHIA WITH PAPULAR LESIONS	55806
+C1859598	ATAXIA, EARLY-ONSET, WITH OCULOMOTOR APRAXIA AND HYPOALBUMINEMIA	4361
+C1859690	CAMPTODACTYLY-ARTHROPATHY-COXA VARA-PERICARDITIS SYNDROME	10216
+C1859709	Kuskokwim disease	60681
+C1859721	ARTHROGRYPOSIS MULTIPLEX CONGENITA, NEUROGENIC TYPE (disorder)	57222
+C1859722	Arthrogryposis, renal dysfunction, and cholestasis 1	26276	63894
+C1859726	ARTERIAL TORTUOSITY SYNDROME	81031
+C1859727	Arterial calcification of infancy	368
+C1859773	Microphthalmia, Syndromic 3	6657
+C1859817	2-AMINOADIPIC 2-OXOADIPIC ACIDURIA	55526
+C1859966	Neutropenia, Severe Congenital, Autosomal Dominant 1	10312	2672	1991	6729
+C1860042	Antley-Bixler Syndrome with Disordered Steroidogenesis	5447
+C1860050	Cloverleaf skull	2077
+C1860119	Acrofacial dysostosis Rodriguez type	10262
+C1860157	Elejalde Disease	4644
+C1860224	ABLEPHARON-MACROSTOMIA SYNDROME	117581
+C1860229	Hyperzincemia and Hypercalprotectinemia	9051
+C1860315	Whispering dysphonia, hereditary	10382
+C1860405	Snowflake vitreoretinal degeneration	3769
+C1860446	Congenital vertical talus, bilateral	3236
+C1860518	Vasculopathy, Retinal, With Cerebral Leukodystrophy	11277
+C1860808	Triosephosphate Isomerase Deficiency	7167
+C1861303	SYNOVITIS, GRANULOMATOUS, WITH UVEITIS AND CRANIAL NEUROPATHIES (disorder)	64127
+C1861305	TARSAL-CARPAL COALITION SYNDROME	9241
+C1861313	Synostosis, Carpal, with Dysplastic Elbow Joints and Brachydactyly	9555	5307
+C1861348	Syndactyly, type v	3239
+C1861355	Syndactyly, Type IV	64327	6469
+C1861366	SYNDACTYLY, TYPE III	2697
+C1861385	SYMPHALANGISM, PROXIMAL	9241	8200
+C1861451	Stormorken Syndrome	84876	6786
+C1861453	Pseudohyperkalemia Cardiff	6521
+C1861455	STOMATOCYTOSIS I	6005
+C1861456	Stiff Skin Syndrome	2200
+C1861481	Stickler syndrome, type 3	1302
+C1861536	Blepharo-cheilo-dontic syndrome	999	1500
+C1861678	Charcot-Marie-Tooth Disease, Axonal, Type 2a1	23095
+C1861732	SPINOCEREBELLAR ATAXIA 29	3708
+C1861735	Dementia, familial Danish	9445
+C1861736	SPINOCEREBELLAR ATAXIA 31 (disorder)	146227
+C1861753	Multiminicore Disease, Moderate, with Hand Involvement	6261
+C1861829	Cataract microcornea syndrome	4094	1420	1413	1414	1415	2703	1421	1409
+C1861922	CAMPOMELIC DYSPLASIA	6662
+C1862103	Brachydactyly type C	8200
+C1862151	BRACHYDACTYLY, TYPE A1 (disorder)	3549	658	8200
+C1862170	Brachydactyly with hypertension	5139
+C1862177	Diaphyseal medullary stenosis with malignant fibrous histiocytoma	4507
+C1862178	Cole Carpenter syndrome	5034	9871
+C1862322	Ovalocytosis, Malaysian-Melanesian-Filipino Type	6521
+C1862324	Elliptocytosis 4	6521
+C1862382	SVEINSSON CHORIORETINAL ATROPHY	7003
+C1862472	Oculomelic amyoplasia	63895
+C1862839	Anterior segment mesenchymal dysgenesis	2301
+C1862871	ANHIDROSIS, ISOLATED, WITH NORMAL SWEAT GLANDS	3709
+C1862892	Hereditary Angioedema Type II	710
+C1862932	ANEURYSM, INTRACRANIAL BERRY, 1 (disorder)	83854
+C1863012	Amelogenesis Imperfecta, Type IV	1747
+C1863080	ALPHA-FETOPROTEIN, HEREDITARY PERSISTENCE OF	174
+C1863081	alpha-Fetoprotein Deficiency	174
+C1863093	Alopecia congenita keratosis palmoplantaris	2697
+C1863198	ALBINISM, OCULAR, WITH SENSORINEURAL DEAFNESS (disorder)	4286	7299
+C1863204	ADULT SYNDROME	8626
+C1863557	Young Simpson syndrome	23522
+C1863688	Xanthinuria, Type II	55034
+C1863704	Spastic paraplegia 8, autosomal dominant	9897
+C1863732	Spondyloepimetaphyseal dysplasia with multiple dislocations	3835
+C1863753	LIMB-MAMMARY SYNDROME	8626
+C1863843	Neuronal intranuclear inclusion disease	100996717
+C1863870	Hypospadias, Hypertelorism, Upper Lid Coloboma, and Mixed-Type Hearing Loss	1009
+C1863924	Megalanecephaly Polymicrogyria-Polydactyly Hydrocephalus Syndrome	894	5296	10000
+C1863959	Hyperthyroidism, Familial Gestational	7253
+C1864002	GRACILE SYNDROME (disorder)	617
+C1864100	PSEUDOHYPOPARATHYROIDISM, TYPE IB	2778	8675
+C1864112	HUNTINGTON DISEASE-LIKE 1	5621
+C1864356	ACROMESOMELIC DYSPLASIA, MAROTEAUX TYPE	4882
+C1864436	Muenke Syndrome	2261
+C1864445	Histiocytosis with joint contractures and sensorineural deafness	55315
+C1864498	RENAL TUBULAR ACIDOSIS, DISTAL, AUTOSOMAL RECESSIVE	50617	525	2299
+C1864651	GAUCHER DISEASE, ATYPICAL, DUE TO SAPOSIN C DEFICIENCY	5660
+C1864652	Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate	9343
+C1864663	HYPOMYELINATION AND CONGENITAL CATARACT	84668
+C1864669	NEURONAL CEROID LIPOFUSCINOSIS DUE TO CATHEPSIN D DEFICIENCY	1509
+C1864689	MICROPHTHALMIA, SYNDROMIC 6 (disorder)	652
+C1864690	Microphthalmia, Syndromic 5	5015
+C1864723	Pyridoxamine 5-Prime-Phosphate Oxidase Deficiency	55163
+C1864738	Corneal Dystrophy, Congenital Stromal	1634
+C1864761	Thyroid Hormone Metabolism, Abnormal	79048
+C1864826	Epidermolysis bullosa, lethal acantholytic	3728	1832
+C1864840	Combined Oxidative Phosphorylation Deficiency 3	10102
+C1864843	Combined Oxidative Phosphorylation Deficiency 2	51021
+C1864852	CATSHL syndrome	2261
+C1864861	Tumoral Calcinosis, Normophosphatemic, Familial	54809
+C1864872	Spondyloepimetaphyseal dysplasia, Genevieve type	54187
+C1864902	Hyperinsulinemic hypoglycemia, familial, 7	6566
+C1864910	Glutamine deficiency, congenital	2752
+C1864912	2-Methylbutyryl-CoA Dehydrogenase Deficiency	36
+C1864923	Northern epilepsy syndrome	2055
+C1864947	Natural Killer Cell Deficiency, Familial Isolated	4173
+C1864952	Hyperinsulinemic Hypoglycemia, Familial, 5	3643
+C1864997	Majeed syndrome	9663
+C1865020	Short QT Syndrome 1	3784	781	3757	3759
+C1865070	SCAPHOCEPHALY, MAXILLARY RETRUSION, AND MENTAL RETARDATION	2263
+C1865143	BRANCHIOOTIC SYNDROME 1	2138	6495
+C1865185	Spondyloepimetaphyseal Dysplasia, Shohat Type	65992
+C1865233	Muscular Dystrophy, Congenital, Megaconial Type	1120
+C1865267	Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly	55249
+C1865286	MACROPHTHALMIA, COLOBOMATOUS, WITH MICROCORNEA	51232
+C1865290	Hyperinsulinemic hypoglycemia, familial, 3	2645
+C1865295	Auriculo-condylar syndrome	1906	5332	2773
+C1865349	Ethylmalonic encephalopathy	23474
+C1865361	SHORT STATURE, AUDITORY CANAL ATRESIA, MANDIBULAR HYPOPLASIA, SKELETAL ABNORMALITIES	145258
+C1865372	Athabaskan severe combined immunodeficiency	64421
+C1865409	Amyotrophic Lateral Sclerosis 4, Juvenile	23064
+C1865596	Desmosterolosis	1718
+C1865639	Gracile bone dysplasia	63901
+C1865643	Cholestasis, progressive familial intrahepatic 3	5244
+C1865644	Plantar Lipomatosis, Unusual Facies, and Developmental Delay	79718
+C1865832	Spondyloepimetaphyseal Dysplasia, Missouri Type	4322
+C1865872	NEPHRONOPHTHISIS 2	79809	27031	23090	284086	203286	27130	51134
+C1865926	Infantile convulsions and paroxysmal choreoathetosis, familial (disorder)	112476	6334
+C1865951	Ectodermal Dysplasia, Pure Hair-Nail Type	3891	3229	121391
+C1865974	Hypomagnesemia 1, Intestinal	140803
+C1866029	Keratosis Linearis with Ichthyosis Congenita and Sclerosing Keratoderma	51371
+C1866039	EPISODIC ATAXIA, TYPE 5	785
+C1866075	GLOMERULOPATHY WITH FIBRONECTIN DEPOSITS 2 (disorder)	2335
+C1866182	Penttinen-Aula syndrome	5159
+C1866282	CEROID LIPOFUSCINOSIS, NEURONAL, 6	54982
+C1866294	EHLERS-DANLOS SYNDROME, MUSCULOCONTRACTURAL TYPE 1	29940	113189
+C1866398	Proteus-Like Syndrome (disorder)	5728
+C1866423	Quebec platelet disorder	5328
+C1866426	T-cell immunodeficiency, congenital alopecia and nail dystrophy	8456
+C1866495	Bartter syndrome, antenatal type 1	6557	3758	10916
+C1866656	STAPES ANKYLOSIS WITH BROAD THUMB AND TOES (disorder)	9241
+C1866688	Spondylometaphyseal dysplasia, Algerian type	1280
+C1866777	Spinal Muscular Atrophy, Proximal, Adult, Autosomal Dominant	9217
+C1866785	Spheroid body myopathy	9499
+C1866855	Spastic paraplegia 4, autosomal dominant	6683
+C1866984	Sclerocornea, Autosomal Dominant	2703
+C1866994	Ulnar-mammary syndrome	6926
+C1867005	Scapuloperoneal Syndrome, Neurogenic, Kaeser Type	1674
+C1867020	SCALP-EAR-NIPPLE SYNDROME	284252
+C1867060	Lacrimal Puncta, Absence of	3321
+C1867155	RING DERMOID OF CORNEA	5308
+C1867327	RETINAL ARTERIES, TORTUOSITY OF	1282
+C1867332	Reticular Dystrophy Of Retinal Pigment Epithelium	55213
+C1867440	Multiple Pterygium Syndrome, Autosomal Dominant	4621
+C1867773	CEREBRAL AMYLOID ANGIOPATHY, ITM2B-RELATED, 1	9445
+C1867774	Sacral Agenesis Syndrome	80199
+C1867801	Preaxial deficiency, postaxial polydactyly and hypospadias	3209
+C1867983	PORENCEPHALY, FAMILIAL	1284	1282
+C1868081	Juvenile Polyposis Coli	657	4089
+C1868111	Polydactyly, preaxial 4	2737
+C1868114	POLYDACTYLY, PREAXIAL II (disorder)	64327	6469
+C1868118	Orofaciodigital syndrome 5	83479
+C1868120	POSTAXIAL POLYDACTYLY, TYPE B	2737
+C1868139	Medullary cystic kidney disease 1	4582
+C1868193	PNEUMOTHORAX, PRIMARY SPONTANEOUS	201163
+C1868310	Pigmented Paravenous Chorioretinal Atrophy	23418
+C1868512	Leukodystrophy, Demyelinating, Adult-Onset, Autosomal Dominant	4001
+C1868581	Patella aplasia, coxa vara, tarsal synostosis	9496
+C1868594	Perry Syndrome	1639
+C1868597	Parietal Foramina With Cleidocranial Dysplasia	4488
+C1868598	PARIETAL FORAMINA	60529	4488
+C1868616	Parastremmatic dwarfism	59341
+C1868672	NEPHROTIC SYNDROME, STEROID-RESISTANT, AUTOSOMAL RECESSIVE	7827	4643	83478	54443	81	54885	23165	57122	396	7225	7490	26130	79934	51196	286204	2013	9688	64423	23607	51479	4868	5800	79902	79023	5076	55746	23279
+C1868679	GRISCELLI SYNDROME, TYPE 2	5873
+C1868681	DYSTONIA 12	478
+C1868682	Paroxysmal kinesigenic choreoathetosis	112476	3736
+C1868684	EAR, PATELLA, SHORT STATURE SYNDROME	23594	990	51053	5000	81620	4998	8318
+C1868720	Periventricular Nodular Heterotopia	23327	55780	4131	10564	160418	375
+C1869117	Paroxysmal nonkinesigenic dyskinesia	25953	112476
+C1869122	EHLERS-DANLOS SYNDROME, PROGEROID FORM	11285
+C1876161	CEROID LIPOFUSCINOSIS, NEURONAL, 2	1200
+C1876175	Ataxia-Telangiectasia Variant	472
+C1876185	Dysgnathia complex	5396
+C1876187	TUMORAL CALCINOSIS, HYPERPHOSPHATEMIC, FAMILIAL	8074	2591	9365
+C1876203	Frontonasal dysplasia	257
+C1879286	Hereditary bundle branch system defect	6324	6331	54795
+C1955934	Trichothiodystrophy Syndromes	2068	2961	404672	136647	7737	2071
+C1956147	Microlissencephaly	54820	10300
+C1959620	Dihydropyrimidine Dehydrogenase Deficiency	1806
+C1959626	Mevalonic Aciduria	4598
+C1960459	Hereditary angioedema with normal C1 esterase inhibitor activity	2161
+C1960469	Left ventricular noncompaction	57534	7139	7168	57644	63976	4625	5318
+C1960539	Aromatase deficiency	1588
+C1960883	Spina bifida aperta of cervical spine	80199
+C1963674	Spinocerebellar Ataxia 10	25814
+C1968556	ENCEPHALOPATHY, NEONATAL SEVERE, DUE TO MECP2 MUTATIONS	4204
+C1968602	Surfactant Metabolism Dysfunction, Pulmonary, 1	6439
+C1968689	Hyper-Immunoglobulin E Syndrome, Autosomal Recessive	81704
+C1968804	Plasminogen Deficiency, Type I	5340
+C1968845	Primary Lateral Sclerosis, Adult, 1	6687
+C1969029	Lissencephaly 3	7846
+C1969038	RENAL TUBULAR ACIDOSIS, DISTAL, WITH HEMOLYTIC ANEMIA (disorder)	6521
+C1969054	Glycogen Storage Disease 0, Muscle	2997
+C1969063	Cavitary Optic Disc Anomalies	4327
+C1969084	Pontocerebellar Hypoplasia Type 6	57038
+C1969086	Tyrosine Kinase 2 Deficiency	7297
+C1969093	Osteopetrosis, Autosomal Recessive 6	9842	10312	1186
+C1969443	Trifunctional Protein Deficiency With Myopathy And Neuropathy	3032	3030
+C1969645	Ataxia, Spastic, 3, Autosomal Recessive	92935
+C1969652	BRACHYDACTYLY, TYPE B2 (disorder)	9241
+C1969655	LETHAL CONGENITAL CONTRACTURAL SYNDROME 3	23396	4604
+C1969796	ATAXIA, SPASTIC, 2, AUTOSOMAL RECESSIVE (disorder)	10749
+C1969799	Severe Combined Immunodeficiency with Microcephaly, Growth Retardation, and Sensitivity to Ionizing Radiation	79840
+C1969809	Isobutyryl-CoA dehydrogenase deficiency	27034
+C1969957	Creutzfeldt-Jakob Disease, Heidenhain Variant	5621
+C1970009	SPASTIC PARAPLEGIA 32, AUTOSOMAL RECESSIVE	724107
+C1970021	Congenital Disorder Of Glycosylation, Type IIH	84342
+C1970027	Hypertelorism, Severe, With Midface Prominence, Myopia, Mental Retardation, And Bone Fragility	10265
+C1970107	ATAXIA, SPASTIC, 1, AUTOSOMAL DOMINANT	6843
+C1970109	AROMATASE EXCESS SYNDROME	1588
+C1970173	Acyl-CoA Dehydrogenase Family, Member 9, Deficiency of	28976
+C1970180	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	55157
+C1970203	Polyhydramnios, Megalencephaly, And Symptomatic Epilepsy	92335
+C1970211	Spinal Muscular Atrophy, Distal, Autosomal Recessive, 4	57449
+C1970236	Microphthalmia, Posterior, With Retinitis Pigmentosa, Foveoschisis, And Optic Disc Drusen	83552
+C1970253	Phosphoserine Aminotransferase Deficiency	29968
+C1970269	Choreoathetosis, Hypothyroidism, And Neonatal Respiratory Distress	7080
+C1970309	Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental Retardation	8671
+C1970456	Surfactant Metabolism Dysfunction, Pulmonary, 3	21
+C1970712	Multiple Endocrine Neoplasia, Type IV	1027
+C1970840	Leukoencephalopathy With Metaphyseal Chondrodysplasia	9131
+C1970848	Phosphoglycerate Kinase 1 Deficiency	5230
+C1970859	Atypical Mycobacteriosis, Familial, X-Linked 2	1536
+C1970879	ATYPICAL MYCOBACTERIOSIS, FAMILIAL, X-LINKED 1 (disorder)	8517
+C2020284	Stickler syndrome, type 1	1280
+C2363129	Benign Rolandic Epilepsy	2566	2903
+C2584774	Congenital hypofibrinogenemia	2243	2266	2244
+C2608083	Cholestasis, benign recurrent intrahepatic 2	8647
+C2609071	Olmsted syndrome	162514	64065	51360
+C2609260	Caudal dysplasia syndrome	80199
+C2609268	Low phospholipid-associated cholelithiasis	5244
+C2673195	Angiopathy, Hereditary, With Nephropathy, Aneurysms, And Muscle Cramps	1282
+C2673196	LIPOPROTEIN GLOMERULOPATHY	348
+C2673198	Familial Cold Autoinflammatory Syndrome 2	91662
+C2673257	EPILEPSY, PROGRESSIVE MYOCLONIC 3	154881
+C2673375	Mucolipidosis III Alpha Beta, Atypical	79158
+C2673477	Hypophosphatasia, Perinatal Lethal	249
+C2673535	DYSTONIA, DOPA-RESPONSIVE, WITH OR WITHOUT HYPERPHENYLALANINEMIA, AUTOSOMAL RECESSIVE (disorder)	7054
+C2673536	Combined Cellular And Humoral Immune Defects With Granulomas	5896	5897
+C2673611	Epidermolysis Bullosa Dystrophica, Autosomal Recessive, Localisata Variant	1294
+C2673612	Epidermolysis Bullosa Dystrophica Inversa, Autosomal Recessive	1294
+C2673635	Combined Saposin Deficiency	5660
+C2673642	Combined Oxidative Phosphorylation Deficiency 5	56945
+C2673677	Myopathy, Early-Onset, with Fatal Cardiomyopathy	7273
+C2673883	RENAL-HEPATIC-PANCREATIC DYSPLASIA	27031	284086
+C2673885	Renal hepatic pancreatic dysplasia Dandy Walker cyst	27031
+C2673913	Anemia, Hypochromic Microcytic, With Iron Overload	4891
+C2673914	Anemia, Sideroblastic, Pyridoxine-Refractory, Autosomal Recessive	51218
+C2674009	Microcornea, Rod-Cone Dystrophy, Cataract, And Posterior Staphyloma	7439
+C2674173	Achondroplasia, Severe, With Developmental Delay And Acanthosis Nigricans	2261
+C2674504	Palmoplantar Hyperkeratosis And True Hermaphroditism	284654
+C2674705	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	9935
+C2675014	Mullerian Aplasia and Hyperandrogenism	54361
+C2675184	Exocrine Pancreatic Insufficiency, Dyserythropoietic Anemia, and Calvarial Hyperostosis	84701
+C2675204	Polyneuropathy, Hearing Loss, Ataxia, Retinitis Pigmentosa, And Cataract	26090
+C2675211	EPISODIC ATAXIA, TYPE 6 (disorder)	6507
+C2675227	Endocrine-Cerebroosteodysplasia	22858
+C2675459	Adenylate Kinase Deficiency, Hemolytic Anemia Due To	203
+C2675526	Neutropenia, Severe Congenital, Autosomal Recessive 4	92579
+C2675527	Myopathy, Congenital, Compton-North	1272
+C2675528	Spastic Paraplegia 42, Autosomal Dominant	9197
+C2675730	Deafness, Congenital, and Onychodystrophy, Autosomal Dominant	526
+C2676023	Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant	53630
+C2676024	CAROTENOIDS, PLASMA LEVEL OF, QUANTITATIVE TRAIT LOCUS 1	53630
+C2676243	Leukodystrophy, Hypomyelinating, with Hypodontia and Hypogonadotropic Hypogonadism	55703	9533	11128
+C2676281	DYSTONIA 17, TORSION, AUTOSOMAL RECESSIVE (disorder)	100216344
+C2676285	Bone Fragility with Contractures, Arterial Rupture, and Deafness	8985
+C2676510	Spondylocheirodysplasia, Ehlers-Danlos Syndrome-Like	91252
+C2676732	SPASTIC PARAPLEGIA 38, AUTOSOMAL DOMINANT (disorder)	100049707
+C2676766	Osteopetrosis, Autosomal Recessive 7	8792
+C2676767	CD59 Deficiency	966
+C2676770	Birk-Barel Mental Retardation Dysmorphism Syndrome	51305
+C2676772	Microtia, Hearing Impairment, And Cleft Palate	3199
+C2677092	MYD88 Deficiency	4615
+C2677109	Leukodystrophy, Hypomyelinating, 4	3329
+C2677290	COLORECTAL CANCER, SUSCEPTIBILITY TO, 4	26585	657
+C2677291	COLORECTAL CANCER, SUSCEPTIBILITY TO, ON CHROMOSOME 15	26585	657
+C2677299	CEREBRORETINAL MICROANGIOPATHY WITH CALCIFICATIONS AND CYSTS (disorder)	79991	80169
+C2677349	Epidermolysis Bullosa Simplex With Pyloric Atresia	5339	3691
+C2677362	Alveolar capillary dysplasia	2294
+C2677500	Oculoauricular Syndrome	3166
+C2677535	Alopecia, Neurologic Defects, and Endocrinopathy Syndrome	55131
+C2677567	DYSTONIA 16 (disorder)	8575
+C2677586	Spastic Paraplegia 39, Autosomal Recessive	10908
+C2677792	Riddle Syndrome	165918
+C2677897	SPASTIC PARAPLEGIA 34, X-LINKED (disorder)	724110
+C2677903	Mental Retardation And Microcephaly With Pontine And Cerebellar Hypoplasia	8573
+C2678045	TOE SYNDACTYLY, TELECANTHUS, AND ANOGENITAL AND RENAL MALFORMATIONS	92002
+C2678046	Mental Retardation, X-Linked, Syndromic, Turner Type	10075
+C2678051	MENTAL RETARDATION, X-LINKED 94 (disorder)	2892
+C2678055	MYOPATHY, X-LINKED, WITH POSTURAL MUSCLE ATROPHY (disorder)	2273
+C2678061	SCAPULOPERONEAL MYOPATHY, X-LINKED DOMINANT	2273
+C2678194	Mental Retardation, X-Linked, Syndromic, Christianson Type	10479
+C2678312	Three M Syndrome 1	83987
+C2678367	Renal Tubular Dysgenesis With Choanal Atresia And Athelia	1636	5972	185	183
+C2678408	PITUITARY HORMONE DEFICIENCY, COMBINED, 4	89884
+C2678439	CRANIOOSTEOARTHROPATHY	6578	3248
+C2678471	Lethal Arthrogryposis With Anterior Horn Cell Disease	2733
+C2678486	Temple-Baraitser Syndrome	3756
+C2678492	Sex Reversal, Female, With Dysgenesis Of Kidneys, Adrenals, And Lungs	54361
+C2680446	SPASTIC PARAPLEGIA 43, AUTOSOMAL RECESSIVE	83636
+C2697932	Loeys-Dietz Syndrome	7046	7048
+C2699746	Syndactyly, type 2	3239
+C2700265	Waardenburg Syndrome Type 2	4286	4254	6663	1910	6591
+C2700425	EHLERS-DANLOS SYNDROME, DERMATOSPARAXIS TYPE	9509
+C2700553	Omenn Syndrome	5897	6023	55636	5896	3981	3561	64421	100	3575
+C2717750	Platelet alpha-Granule Deficiency	23218	8328
+C2717836	Steroid Sulfatase Deficiency Disease	412
+C2717906	Hereditary Angioedema Type I	710
+C2718078	Deficiency of Uroporphyrinogen III Synthase	2623
+C2720163	Placental Steroid Sulfatase Deficiency	412
+C2745945	Juvenile-Onset Vitelliform Macular Dystrophy	7439
+C2745948	Hyalinosis, Systemic	118429
+C2745953	Spondylometaphyseal dysplasia with dentinogenesis imperfecta	9321
+C2745959	Spondyloepiphyseal dysplasia, congenita	1280
+C2745997	OROFACIODIGITAL SYNDROME VI	5147	65250	51259	26123	374654	9851	317662
+C2746066	Combined D-2- and L-2-hydroxyglutaric aciduria	6576
+C2746069	Familial ectopia lentis	2200	54507
+C2748507	INTERLEUKIN 1 RECEPTOR ANTAGONIST DEFICIENCY	3557
+C2748515	Spondyloepimetaphyseal Dysplasia, Pakistani Type	9060
+C2748536	Leukocyte Adhesion Deficiency, Type III	83706
+C2748544	Spondyloepimetaphyseal Dysplasia, Aggrecan Type	176
+C2748557	Immune dysfunction with T-cell inactivation due to calcium entry defect 2	6786
+C2748568	Immune dysfunction with T-cell inactivation due to calcium entry defect 1	84876
+C2748571	Isolated Growth Hormone Deficiency, Type IB	2692	2688
+C2748572	SeSAME syndrome	3766
+C2748608	LEAD POISONING, SUSCEPTIBILITY TO	210
+C2748662	Mitchell-Riley Syndrome	222546
+C2748895	Ovotesticular Disorders of Sex Development	6662	2516	6736
+C2748910	Rett Syndrome, Atypical	22854	9568	6812	6792	2290
+C2749137	Retinitis Pigmentosa, X-Linked, And Sinorespiratory Infections, With Or Without Deafness	6103
+C2749240	Vater Association With Macrocephaly And Ventriculomegaly	2187
+C2749283	Gm2-Gangliosidosis, Variant B1	3073
+C2749864	MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH OR WITHOUT METHYLMALONIC ACIDURIA)	8803
+C2749936	SPASTIC PARAPLEGIA 18, AUTOSOMAL RECESSIVE (disorder)	11160
+C2750035	Emery-Dreifuss Muscular Dystrophy 3	4000
+C2750066	Spondylo-Megaepiphyseal-Metaphyseal Dysplasia	579
+C2750067	Plasminogen Activator Inhibitor-1 Deficiency	5054
+C2750068	Roifman-Chitayat Syndrome	90417	5293
+C2750075	Chondrodysplasia, Megarbane-Dagher-Melki Type	51025
+C2750076	Miyoshi Muscular Dystrophy 3	203859
+C2750246	Pitt-Hopkins-Like Syndrome 1	26047
+C2750355	Omodysplasia 2	2535
+C2750433	Bifid Nose With Or Without Anorectal And Renal Anomalies	158326
+C2750442	Hypermanganesemia with Dystonia Polycythemia and Cirrhosis	55532
+C2750737	DIARRHEA 5, WITH TUFTING ENTEROPATHY, CONGENITAL	4072
+C2750784	SPASTIC PARAPLEGIA 44, AUTOSOMAL RECESSIVE (disorder)	57165
+C2750785	MUSCULAR DYSTROPHY, CONGENITAL, LMNA-RELATED (disorder)	4000
+C2750786	Muscular Dystrophy, Congenital, Due To Integrin Alpha-7 Deficiency	3679
+C2750787	Weill-Marchesani-Like Syndrome	170691
+C2750798	Polymicrogyria With Optic Nerve Hypoplasia	51807
+C2750804	Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Abnormalities	8425
+C2751067	Parkinsonism-Dystonia, Infantile	6531
+C2751090	Thrombophilia Due To Histidine-Rich Glycoprotein Deficiency	3273
+C2751091	Thrombophilia Due To Elevated Histidine-Rich Glycoprotein	3273
+C2751292	Hypotrichosis And Recurrent Skin Vesicles	1825
+C2751318	Nijmegen Breakage Syndrome-Like Disorder	10111	4361
+C2751320	Myopathy, Mitochondrial Progressive, With Congenital Cataract, Hearing Loss, And Developmental Delay	2671
+C2751321	Macrocephaly, Alopecia, Cutis Laxa, and Scoliosis	54453
+C2751325	46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy	50846
+C2751532	3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency	3158
+C2751584	Neurodegeneration Due To Cerebral Folate Transport Deficiency	2348
+C2751608	Pituitary Hormone Deficiency, Combined, 1	5449	5626	8820	5015	2736	89884
+C2751643	Glycogen Storage Disease IXC	5256	5261
+C2751812	OPTIC ATROPHY 7 (disorder)	84233
+C2751831	Myopathy, Myofibrillar, Bag3-Related	9531
+C2751842	PARKINSON DISEASE 14, AUTOSOMAL RECESSIVE	8398
+C2751843	Leukoencephalopathy, Cystic, Without Megalencephaly	4695	8635
+C2751855	Hypomyelination, Global Cerebral	8604
+C2751898	Ventricular Fibrillation, Paroxysmal Familial, 1	6331	1804
+C2751938	Cerebral Palsy, Spastic Quadriplegic, 1	120	2571	23189
+C2751987	Cutis Laxa, Autosomal Recessive, Type IIB	5831
+C2752001	Growth Retardation, Developmental Delay, Coarse Facies, And Early Death	79068
+C2752015	Glycogen Storage Disease XIV	5236
+C2752027	Glycogen Storage Disease XIII	2027
+C2752081	ALPHA-2-PLASMIN INHIBITOR DEFICIENCY	5345
+C2828721	SPASTIC PARAPLEGIA 46, AUTOSOMAL RECESSIVE	57704
+C2919796	Glycogen storage disease type Ia	2538
+C2930808	Familial vascular leukoencephalopathy	1282
+C2930833	Irritable heart	6530
+C2930896	Congenital thrombotic disease, due to Protein C deficiency	5624
+C2930922	Reginato Schiapachasse syndrome	3248
+C2930924	Interferon gamma, receptor 1, deficiency	3459
+C2930970	Acromesomelic dysplasia Hunter-Thompson type	8200
+C2930971	Acroosteolysis dominant type	4853
+C2931007	Congenital disorder of glycosylation type 1X	201595
+C2931035	Pulmonary alveolar proteinosis, congenital	1439	4938	1438
+C2931046	Heart defect, tongue hamartoma and polysyndactyly	51057
+C2931048	HEM dysplasia	3930
+C2931058	Marfan Syndrome type 2	7048
+C2931059	Marie Unna congenital hypotrichosis	79574	55806
+C2931067	Cholestasis, progressive familial intrahepatic 4	9414
+C2931072	Epidermolysa bullosa simplex and limb girdle muscular dystrophy	5339
+C2931074	Cone rod dystrophy amelogenesis imperfecta	26504
+C2931092	Maternally Inherited Leigh Syndrome	4536	4508	4567	4538	4541	4540	4566	4535	4577	4578	4537
+C2931093	Osteogenesis imperfecta, type 5	387733
+C2931104	Hydrolethalus syndrome	219844	374654
+C2931121	Meier Blumberg Imahorn syndrome	149461
+C2931132	Crigler Najjar syndrome, type 2	54658
+C2931196	Craniofacial dysostosis type 1	2077
+C2931218	Tetraamelia multiple malformations	340419	7473
+C2931230	Vacuolar myopathy	203547
+C2931253	Alport syndrome, dominant type	1286
+C2931276	Spastic paraplegia 17	26580
+C2931277	Pena Shokeir syndrome Type 2	2073	2068	2067
+C2931280	Perniola Krajewska Carnevale syndrome	197	3694
+C2931286	Warburton Anyane Yeboa syndrome	701	9702	9184	699	9319
+C2931290	Welander distal myopathy, Swedish type	7072
+C2931296	Yorifuji Okuno syndrome	2627
+C2931355	Spastic paraplegia 3, autosomal dominant	51062
+C2931356	Spastic paraplegia type 5A, recessive	9420
+C2931418	Bare lymphocyte syndrome 2	5993	4261	8625	5994
+C2931441	Hereditary spastic paralysis, infantile onset ascending	57679
+C2931461	Forney Robinson Pascoe syndrome	6885
+C2931480	Neurofibromatosis, Type 3, mixed central and peripheral	6598
+C2931482	Neurofibromatosis-Noonan syndrome	4763	5605
+C2931488	Zlotogora-Ogur syndrome	5818
+C2931498	Mental Retardation, X-Linked 1	2182	1756	5063	24140	63932	9758	6197	4204	7102	23096	1741	389856	11141	170302	11043	186	22866	347344	79868	65109	9459	116442	1183	84679	6855	3054	7552	8239	2664
+C2931501	Microphthalmia associated with colobomatous cyst	5950	338917	64220	9573	55714	10058	6469
+C2931505	Mixed sclerosing bone dystrophy	23592
+C2931585	Gaucher-like disease	2629
+C2931599	Oculocutaneous albinism type 3	7306
+C2931644	O'Donnell Pappas syndrome	5080
+C2931648	Larsen syndrome, dominant type	2317
+C2931649	Larsen syndrome, recessive type	9469
+C2931653	Petty Laxova Wiedemann syndrome	29957
+C2931662	Baraitser Brett Piesowicz syndrome	100506658
+C2931672	Cerebral hemorrhage with amyloidosis, hereditary, Dutch type	351
+C2931735	Epidermolytic palmoplantar keratoderma Vorner type	3857	3848
+C2931743	Lactate dehydrogenase deficiency type A	3939
+C2931746	Sulfocysteinuria	6821
+C2931753	Achromatopsia incomplete, X-linked	5956	2652
+C2931760	Acrocallosal syndrome, Schinzel type	51684	2737	374654
+C2931781	Adenosine monophosphate deaminase deficiency	270	272
+C2931783	Amelogenesis imperfecta nephrocalcinosis	54757
+C2931821	Nakamura Osame syndrome	80208
+C2931826	Potassium aggravated myotonia	6329
+C2931835	Hyperprolinemia type 2	8659
+C2931837	Familial hypertryptophanemia	6999
+C2931840	Aspartylglucosamidase (AGA) deficiency	175
+C2931850	Aase Smith syndrome 2	6235	11224	6154	6138	6141	2623	90121	6210	6234	51816
+C2931868	Catalase deficiency	847
+C2931870	Familial schizencephaly	1282
+C2931889	Oral-facial-digital syndrome, type 2	4750
+C2931893	Lysosomal beta-mannosidase deficiency	4126
+C2931894	Mucolipidosis 2	79158
+C2931895	Pericardial constriction with growth failure	4591
+C2931899	Papillary renal cell carcinoma, familial	4233
+C2932714	Pontocerebellar Hypoplasia Type 2	51091	80746	116461	79042
+C2932715	Pseudohypoparathyroidism Type 1B	2778	8675
+C2932716	Pseudohypoparathyroidism Type 1C	2778
+C2936332	Alpha-Sarcoglycanopathies	6442
+C2936346	22q11 Deletion Syndrome	6899
+C2936419	46, XX Testicular Disorders of Sex Development	6662	2516	6658
+C2936694	Swyer Syndrome	6662	4214	84733
+C2936739	Hyper-Immunoglobulin E Syndrome, Autosomal Dominant	6774
+C2936791	Antley-Bixler Syndrome, Autosomal Dominant	2263
+C2936793	Spinocerebellar ataxia 30	100359393
+C2936816	Micromelic dysplasia, congenital, with dislocation of radius	10082
+C2936860	Spastic paraplegia 25, autosomal recessive	387583
+C2936879	SPASTIC PARAPLEGIA 36, AUTOSOMAL DOMINANT	791228
+C2936880	SPASTIC PARAPLEGIA 37, AUTOSOMAL DOMINANT (disorder)	100049159
+C2936904	Opitz GBBB Syndrome, X-Linked	4281
+C2936915	Amylo-1,6-glucosidase deficiency	178
+C2936921	Saccharopine dehydrogenase deficiency	10157
+C2939175	Meconium ileus	2984
+C2973527	Dentinogenesis imperfecta without osteogenesis imperfecta	1834
+C2981140	Glaucoma of childhood	4653
+C2985524	Rhabdoid tumor predisposition syndrome	6598	6597
+C3148763	MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1E	1674
+C3149695	Melorheostosis with Osteopoikilosis	23592
+C3149931	PALMOPLANTAR HYPERKERATOSIS WITH SQUAMOUS CELL CARCINOMA OF SKIN AND 46,XX SEX REVERSAL	284654
+C3150343	HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO HEXOKINASE DEFICIENCY	3098
+C3150417	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 3	55624
+C3150649	AUTOIMMUNE DISEASE, MULTISYSTEM, WITH FACIAL DYSMORPHISM	83737
+C3150658	WARSAW BREAKAGE SYNDROME	1663
+C3150703	FRONTONASAL DYSPLASIA 2	60529
+C3150706	FRONTONASAL DYSPLASIA 3	8092
+C3150730	HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO GLUCOSE PHOSPHATE ISOMERASE DEFICIENCY	2821
+C3150754	GLYCOGEN STORAGE DISEASE XV	2992
+C3150801	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 7	91574
+C3150803	NOONAN SYNDROME-LIKE DISORDER WITH OR WITHOUT JUVENILE MYELOMONOCYTIC LEUKEMIA	867
+C3150807	ECTODERMAL DYSPLASIA-SYNDACTYLY SYNDROME 1	81607
+C3150833	OCCULT MACULAR DYSTROPHY	94137
+C3150875	CHOANAL ATRESIA AND LYMPHEDEMA	5784
+C3150878	Primary hyperoxaluria type III	112817
+C3150891	COCOON SYNDROME	1147
+C3150897	CHARCOT-MARIE-TOOTH DISEASE, RECESSIVE INTERMEDIATE B	3735
+C3150900	METHYLMALONIC ACIDURIA, TRANSIENT, DUE TO TRANSCOBALAMIN RECEPTOR DEFECT	51293
+C3150901	SPASTIC PARAPLEGIA 48, AUTOSOMAL RECESSIVE	9907
+C3150910	Brain calcification Rajab type	10056
+C3150913	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ip	440138
+C3150921	MICROCEPHALY, POSTNATAL PROGRESSIVE, WITH SEIZURES AND BRAIN ATROPHY	9440
+C3150925	SPASTIC ATAXIA 4, AUTOSOMAL RECESSIVE	55149
+C3150926	Congenital dyserythropoietic anemia type IV	10661
+C3150933	HYPERALDOSTERONISM, FAMILIAL, TYPE III	3762
+C3150939	THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome	79228
+C3150973	Progressive polyneuropathy with bilateral striatal necrosis	60386
+C3150986	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 7	3785
+C3150990	LEUKOENCEPHALOPATHY WITH DYSTONIA AND MOTOR NEUROPATHY	6342
+C3150998	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 10	55129
+C3151000	HEMORRHAGIC DESTRUCTION OF THE BRAIN, SUBEPENDYMAL CALCIFICATION, AND CATARACTS	83700
+C3151055	ADRENAL INSUFFICIENCY, CONGENITAL, WITH 46,XY SEX REVERSAL, PARTIAL OR COMPLETE	1583
+C3151058	S-adenosylhomocysteine hydrolase deficiency	191
+C3151062	INFECTIONS, RECURRENT, WITH ENCEPHALOPATHY, HEPATIC DYSFUNCTION, AND CARDIOVASCULAR MALFORMATIONS	8772
+C3151071	COMPLEMENT COMPONENT 3 DEFICIENCY, AUTOSOMAL RECESSIVE	718
+C3151085	MASP2 Deficiency	10747
+C3151087	LOEYS-DIETZ SYNDROME 3	4088
+C3151088	IMMUNODEFICIENCY 31B	6772
+C3151147	Bile Acid Synthesis Defect, Congenital, 3	9420
+C3151184	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 9	1605
+C3151201	MULTISYSTEMIC SMOOTH MUSCLE DYSFUNCTION SYNDROME	59
+C3151205	Megaloblastic Anemia due to Dihydrofolate Reductase Deficiency	1719
+C3151209	Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome	54938
+C3151226	FICOLIN 3 DEFICIENCY	8547
+C3151236	MYOPATHY, MYOFIBRILLAR, FATAL INFANTILE HYPERTONIC, ALPHA-B CRYSTALLIN-RELATED	1410
+C3151268	LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 4	5346
+C3151446	Nestor Guillermo progeria syndrome	8815
+C3151466	HEPATIC LIPASE DEFICIENCY (disorder)	3990
+C3151476	MITOCHONDRIAL DNA DEPLETION SYNDROME 9 (ENCEPHALOMYOPATHIC TYPE WITH METHYLMALONIC ACIDURIA)	8802
+C3151482	HYPERCALCIURIA, CHILDHOOD, SELF-LIMITING	10686
+C3151617	ANTERIOR SEGMENT DYSGENESIS 7	220202	7837
+C3151753	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 6	9131
+C3151781	CK syndrome	50814
+C3151898	MITOCHONDRIAL MYOPATHY, INFANTILE, TRANSIENT	55687	4556
+C3152055	D-2-HYDROXYGLUTARIC ACIDURIA 1	728294	3418
+C3159322	SPONDYLOEPIPHYSEAL DYSPLASIA, MAROTEAUX TYPE	59341
+C3161174	Hemoglobin H Disease	3040	3039
+C3164344	Adult onset autosomal dominant leukodystrophy	4001
+C3179239	Osteopetrosis Autosomal Dominant Type 2	1186
+C3179349	Gastrointestinal Stromal Sarcoma	3815	6389
+C3203356	Factor II deficiency	2147
+C3203738	Fowler syndrome	55640
+C3245525	Familial renal glucosuria	6524
+C3250443	MYOTONIC DYSTROPHY 1	1760
+C3266101	22q11 partial monosomy syndrome	6899
+C3266898	Waardenburg Syndrome	4286	1910	6663	1908
+C3275445	X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection and neoplasia	84061
+C3275447	Ogden syndrome	8260
+C3275464	MENTAL RETARDATION, X-LINKED, SYNDROMIC, NASCIMENTO TYPE	7319
+C3275476	CHONDRODYSPLASIA WITH PLATYSPONDYLY, DISTINCTIVE BRACHYDACTYLY, HYDROCEPHALY, AND MICROPHTHALMIA	10013
+C3275508	MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME 2	5277
+C3276432	MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 1	27247
+C3277900	NAIL DISORDER, NONSYNDROMIC CONGENITAL, 4	343637
+C3278384	HYPOINSULINEMIC HYPOGLYCEMIA WITH HEMIHYPERTROPHY	208
+C3278404	MULTIPLE JOINT DISLOCATIONS, SHORT STATURE, AND CRANIOFACIAL DYSMORPHISM WITH OR WITHOUT CONGENITAL HEART DEFECTS	26229
+C3278664	LIVER FAILURE, INFANTILE, TRANSIENT	55687
+C3279627	EPILEPSY, PROGRESSIVE MYOCLONIC, 6	9570
+C3279699	Encephalocardiomyopathy, Mitochondrial, Neonatal, Due To Atp Synthase Deficiency	54968
+C3279722	MYOPATHY, DISTAL, 4	2318
+C3279756	HERMANSKY-PUDLAK SYNDROME 7	84062
+C3279757	CHONDRODYSPLASIA WITH JOINT DISLOCATIONS, GPAPP TYPE	54928
+C3279775	MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME 1	23556
+C3279792	SHORT-RIB THORACIC DYSPLASIA 7 WITH OR WITHOUT POLYDACTYLY	57539
+C3279793	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 8	57505
+C3279800	KEPPEN-LUBINSKY SYNDROME	3763
+C3279824	Kappa-Chain Deficiency	3501	3514
+C3279840	Methylmalonate Semialdehyde Dehydrogenase Deficiency	4329
+C3279841	Pyruvate Dehydrogenase E1-Beta Deficiency	5162
+C3279875	CORTICAL MALFORMATIONS, OCCIPITAL	10319	10716
+C3279885	Hereditary Sensory and Autonomic Neuropathy Type Ie	1786
+C3279904	Lactate Dehydrogenase B Deficiency	3945
+C3279964	Hyperbiliverdinemia	644
+C3279974	NAIL DISORDER, NONSYNDROMIC CONGENITAL, 10	8323
+C3279990	CANDIDIASIS, FAMILIAL, 7	6772
+C3280026	HERMANSKY-PUDLAK SYNDROME 9	26258
+C3280030	GATA2 Deficiency	2624
+C3280073	CRANIOSYNOSTOSIS AND DENTAL ANOMALIES	3590
+C3280095	MACROCEPHALY, MACROSOMIA, AND FACIAL DYSMORPHISM SYNDROME	84282
+C3280120	Glycoprotein VI deficiency	51206
+C3280205	RETINAL ARTERIAL MACROANEURYSM WITH SUPRAVALVULAR PULMONIC STENOSIS	3490
+C3280220	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2O	1778
+C3280226	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 11	255928
+C3280240	MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME	51124
+C3280296	Microcephaly-capillary malformation syndrome	10617
+C3280314	Combined Malonic and Methylmalonic Aciduria	197322
+C3280358	Wolfram-Like Syndrome, Autosomal Dominant	7466
+C3280371	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 4	83636
+C3280378	MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 2 WITH HYPERGLYCINEMIA	388962
+C3280381	HYPERMETHIONINEMIA DUE TO ADENOSINE KINASE DEFICIENCY	132
+C3280392	EDICT syndrome	406960
+C3280428	Alpha-Methylacyl-CoA Racemase Deficiency	23600
+C3280443	MYOPATHY, DISTAL, TATEYAMA TYPE	859
+C3280452	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 12	51741
+C3280492	TUMOR PREDISPOSITION SYNDROME	8314
+C3280556	PERIPHERAL NEUROPATHY, MYOPATHY, HOARSENESS, AND HEARING LOSS	79784
+C3280660	ENCEPHALOPATHY, LETHAL, DUE TO DEFECTIVE MITOCHONDRIAL AND PEROXISOMAL FISSION	10059
+C3280679	MYOPATHY, AREFLEXIA, RESPIRATORY DISTRESS, AND DYSPHAGIA, EARLY-ONSET	84466
+C3280729	RADIOHUMERAL FUSIONS WITH OTHER SKELETAL AND CRANIOFACIAL ANOMALIES	56603
+C3280742	SYSTEMIC LUPUS ERYTHEMATOSUS 16	5580	1776	1773
+C3280799	CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IIIB	5831
+C3280845	CHARCOT-MARIE-TOOTH DISEASE, DOMINANT INTERMEDIATE E	64423
+C3280856	ICHTHYOSIS, SPASTIC QUADRIPLEGIA, AND MENTAL RETARDATION	6785
+C3280866	THIAMINE METABOLISM DYSFUNCTION SYNDROME 5 (EPISODIC ENCEPHALOPATHY TYPE)	27010
+C3280887	HYPERGLYCINEMIA, LACTIC ACIDOSIS, AND SEIZURES	11019
+C3280914	FAMILIAL COLD AUTOINFLAMMATORY SYNDROME 3	5336
+C3280953	HYPERTRIGLYCERIDEMIA, TRANSIENT INFANTILE	2819
+C3280965	CONGENITAL CATARACTS, HEARING LOSS, AND NEURODEGENERATION	9197
+C3280976	Thrombophilia due to Thrombomodulin Defect	7056
+C3280977	SPASTIC ATAXIA 5, AUTOSOMAL RECESSIVE	10939
+C3281029	RIGIDITY AND MULTIFOCAL SEIZURE SYNDROME, LETHAL NEONATAL	221927
+C3281084	Congenital disorder of glycosylation type 1r	1650
+C3281160	EHLERS-DANLOS SYNDROME, KYPHOSCOLIOTIC TYPE, 2	55033
+C3281192	INFANTILE CEREBELLAR-RETINAL DEGENERATION	50
+C3281200	LEUKOENCEPHALOPATHY, BRAIN CALCIFICATIONS, AND CYSTS	727676
+C3281203	CUTANEOUS TELANGIECTASIA AND CANCER SYNDROME, FAMILIAL	545
+C3281234	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 9	11222
+C3281236	DYSTONIA 21	100885773
+C3281247	BENT BONE DYSPLASIA SYNDROME	2263
+C3463916	Complement Factor I (C3 inactivator) deficiency	3426
+C3468114	Juvenile amyotrophic lateral sclerosis	57679	10280	2521	80208
+C3472711	Spinocerebellar ataxia 36	10528
+C3489395	Hyperchylomicronemia With Hyperprebetalipoproteinemia, Familial	116519
+C3489532	Cone-Rod Dystrophy 2	2978	5961	22999	93589	92211	755	2652	8754	57096	1406	157657	5956	23093	24	3000	128338	22926	1261	64218	9094	83394	8842	778	282809	64802	9364	84839	6103
+C3489725	Pseudo-TORCH syndrome	100506658
+C3489726	Geleophysic dysplasia	2200	4054
+C3489787	Pituitary Hormone Deficiency, Combined, 3	8022
+C3489789	Cholestasis, Progressive Familial Intrahepatic, 2	8647
+C3489795	Hyper-Ige Recurrent Infection Syndrome, Autosomal Dominant	6774
+C3492944	Lentiginosis Profusa	23328
+C3493776	HYPOTHYROIDISM, CONGENITAL, NONGOITROUS, 1	7253
+C3494489	Autoimmune polyendocrinopathy syndrome, type 1	326
+C3494506	Pseudohypoparathyroidism, Type Ia	2778
+C3494934	Benign paroxysmal torticollis of infancy	773
+C3495427	Fanconi-Bickel Syndrome	6514
+C3495488	Axenfeld-Rieger syndrome	5308	2296
+C3495551	Dihydropyrimidinuria	1807
+C3495589	Jalili syndrome	26504
+C3496228	Leukodystrophy, Dysmyelinating, And Spastic Paraparesis With Or Without Dystonia	79152
+C3501846	Noonan-Like Syndrome With Loose Anagen Hair	8036	5500
+C3501858	Muscular Dystrophy, Limb-Girdle, Type 1D	10049
+C3501946	Microcephaly with Chorioretinopathy, Autosomal Dominant	3832
+C3502054	Leukodystrophy, Dysmyelinating, with Oligodontia	11128
+C3502353	Atrial Septal Defect with Atrioventricular Conduction Defects	1482
+C3502469	Brain Anomalies, Retardation, Ectodermal Dysplasia, Skeletal Malformations, Hirschsprung Disease, Ear-Eye Anomalies, Cleft Palate-Cryptorchidism, And Kidney Dysplasia-Hypoplasia	51360
+C3502492	Microcephaly with Chorioretinopathy, Autosomal Recessive	27229	85378	10733
+C3502809	Generalized Epilepsy with Febrile Seizures Plus	2566	348980	6324	112755
+C3536983	Familial Hypophosphatemic Rickets	7421
+C3539003	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE VI	667
+C3539123	CEROID LIPOFUSCINOSIS, NEURONAL, 11	2896
+C3539494	SPASTIC PARAPLEGIA 53, AUTOSOMAL RECESSIVE	137492
+C3539495	SPASTIC PARAPLEGIA 54, AUTOSOMAL RECESSIVE	23259
+C3539506	SPASTIC PARAPLEGIA 55, AUTOSOMAL RECESSIVE	91574
+C3539507	SPASTIC PARAPLEGIA 56, AUTOSOMAL RECESSIVE	113612
+C3539916	MYOCLONUS, FAMILIAL CORTICAL	8996
+C3541319	SHORT STATURE, OPTIC NERVE ATROPHY, AND PELGER-HUET ANOMALY	51594
+C3541476	MYOPATHY, AREFLEXIA, RESPIRATORY DISTRESS, AND DYSPHAGIA, EARLY-ONSET, MILD VARIANT	84466
+C3542022	SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME	25886
+C3542549	SPASTIC PARAPLEGIA 49, AUTOSOMAL RECESSIVE	9895
+C3549874	METAPHYSEAL DYSPLASIA WITH MAXILLARY HYPOPLASIA WITH OR WITHOUT BRACHYDACTYLY	860
+C3550856	ANEMIA, X-LINKED, WITH OR WITHOUT NEUTROPENIA AND/OR PLATELET ABNORMALITIES	2623
+C3550913	MENTAL RETARDATION, X-LINKED, SYNDROMIC 32	1193
+C3550963	HYPOTHYROIDISM, CENTRAL, AND TESTICULAR ENLARGEMENT	3547
+C3550973	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 5	11152
+C3551443	ANTERIOR SEGMENT ANOMALIES WITH OR WITHOUT CATARACT	2138	6495
+C3552634	LYMPHOPROLIFERATIVE SYNDROME 1	3702
+C3553230	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIl	57511
+C3553270	DIARRHEA 6	2984
+C3553349	COENZYME Q10 DEFICIENCY, PRIMARY, 6	51004
+C3553354	COENZYME Q10 DEFICIENCY, PRIMARY, 2	23590
+C3553374	COENZYME Q10 DEFICIENCY, PRIMARY, 5	57017
+C3553512	IMMUNODEFICIENCY, COMMON VARIABLE, 8, WITH AUTOIMMUNITY	987
+C3553529	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 10	25821
+C3553571	Carbohydrate deficient glycoprotein syndrome type 2k	55858
+C3553597	3-METHYLGLUTACONIC ACIDURIA WITH DEAFNESS, ENCEPHALOPATHY, AND LEIGH-LIKE SYNDROME	84947
+C3553607	MITOCHONDRIAL PYRUVATE CARRIER DEFICIENCY	51660
+C3553636	INTERSTITIAL LUNG DISEASE, NEPHROTIC SYNDROME, AND EPIDERMOLYSIS BULLOSA, CONGENITAL	3675
+C3553660	Malan overgrowth syndrome	4784
+C3553661	CEREBELLAR ATAXIA, NONPROGRESSIVE, WITH MENTAL RETARDATION	23261
+C3553709	MYOPATHY, CENTRONUCLEAR, 4	124093
+C3553720	CFHR5 DEFICIENCY	81494	3078
+C3553774	INTERSTITIAL NEPHRITIS, KARYOMEGALIC	22909
+C3553816	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 13	2911
+C3553831	MICROCEPHALY, SHORT STATURE, AND POLYMICROGYRIA WITH OR WITHOUT SEIZURES	25914
+C3553870	SECKEL SYNDROME 7	51199
+C3553915	METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, cblJ TYPE	5826
+C3553943	T-CELL IMMUNODEFICIENCY, RECURRENT INFECTIONS, AND AUTOIMMUNITY WITH OR WITHOUT CARDIAC MALFORMATIONS	6789
+C3553961	AUTOINFLAMMATION, ANTIBODY DEFICIENCY, AND IMMUNE DYSREGULATION, PLCG2-ASSOCIATED	5336
+C3553989	SPINAL MUSCULAR ATROPHY, DISTAL, AUTOSOMAL RECESSIVE, 5	3300
+C3554018	SINOATRIAL NODE DYSFUNCTION AND DEAFNESS	776
+C3554067	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 11	55005
+C3554078	BRANCHED-CHAIN KETO ACID DEHYDROGENASE KINASE DEFICIENCY	10295
+C3554079	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 12	124454
+C3554129	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 13	87178
+C3554168	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 14	10667
+C3554182	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 15	123263
+C3554209	Congenital pontocerebellar hypoplasia type 8	5119
+C3554224	LEPTIN DEFICIENCY OR DYSFUNCTION	3952
+C3554225	LEPTIN RECEPTOR DEFICIENCY	3953
+C3554226	Congenital pontocerebellar hypoplasia type 7	114034
+C3554246	FOCAL FACIAL DERMAL DYSPLASIA 4	340665
+C3554343	MENTAL RETARDATION, AUTOSOMAL DOMINANT 17	55690
+C3554366	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Q	55526
+C3554367	EPIDERMOLYSIS BULLOSA, NONSPECIFIC, AUTOSOMAL RECESSIVE	23086
+C3554374	DYSTONIA 24	63982
+C3554385	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Iu	8818
+C3554398	SPINAL MUSCULAR ATROPHY, JOKELA TYPE	400916
+C3554415	Distal arthrogryposis type 5D	9427
+C3554439	Microcephalic primordial dwarfism Alazami type	51574
+C3554447	DYSTONIA 25	2774
+C3554448	MENTAL RETARDATION, AUTOSOMAL DOMINANT 18	57459
+C3554449	MENTAL RETARDATION, AUTOSOMAL DOMINANT 19	1499
+C3554462	MITOCHONDRIAL DNA DEPLETION SYNDROME 11	92667
+C3554499	MICROCEPHALY 10, PRIMARY, AUTOSOMAL RECESSIVE	63925
+C3554540	LYMPHOPROLIFERATIVE SYNDROME 2	939
+C3554576	FACIAL DYSMORPHISM, IMMUNODEFICIENCY, LIVEDO, AND SHORT STATURE	5426
+C3554593	RETINAL DYSTROPHY, IRIS COLOBOMA, AND COMEDOGENIC ACNE SYNDROME	5950
+C3554594	STEEL SYNDROME	85301
+C3554599	PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL DOMINANT, 6	1763
+C3554654	CHARCOT-MARIE-TOOTH DISEASE, DOMINANT INTERMEDIATE F	59345
+C3554657	LISSENCEPHALY 5	3912
+C3554665	OSTEOSCLEROTIC METAPHYSEAL DYSPLASIA	79705
+C3554686	IMMUNODEFICIENCY 11	84433
+C3554687	IMMUNODEFICIENCY 56	50615
+C3645536	Autosomal Recessive Centronuclear Myopathy	6261	7273	274	10290
+C3665333	Keratitis-Ichthyosis-Deafness Syndrome	2706	10804
+C3665349	Secondary hypothyroidism	7252
+C3665382	2,8-Dihydroxyadenine Urolithiasis	353
+C3665425	Hemoglobin M Disease	3040	3039	3043
+C3665488	Familial Osteochondritis Dissecans	176
+C3665704	Congenital reticular ichthyosiform erythroderma	3848	3858
+C3668942	Atelosteogenesis Type 3	2317
+C3668943	Fatty Acid Hydroxylase-Associated Neurodegeneration	79152
+C3669122	5-Alpha Reductase Deficiency	6716
+C3671377	Sebocystomatosis	3872
+C3683483	Autosomal Recessive Cerebellar Ataxia Type 1	23345
+C3695063	Charcot-Marie-Tooth disease type 4B3	6305
+C3695272	Oculocutaneous albinism type 6	283652
+C3696898	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy	57582	1137	1392	1135	1141	57010	9681
+C3698541	Ohdo syndrome, Maat-Kievit-Brunner type	9968
+C3710589	Cap Myopathy	84665	7169	7170
+C3711370	Spastic Paraplegia Type 7	6687
+C3711381	Hereditary Diffuse Leukoencephalopathy with Spheroids	57505	1436
+C3711384	Distal Hereditary Motor Neuropathy, Type II	26353	3315	81545	8988
+C3711387	Autosomal Recessive Primary Microcephaly	55835	1021	9928	22995	80254	55262	29920	23310	284403	23141	6884	79648	1911	11113	9662	84879	6491	163786	57082	259266	9276	55755
+C3711389	Actin-Accumulation Myopathy	58
+C3713418	Ppm-X Syndrome	4204
+C3714534	dowling-degos disease	3852	55851	56983	23509
+C3714897	SPASTIC PARAPLEGIA 57, AUTOSOMAL RECESSIVE	10342
+C3714932	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 14	29925
+C3714934	MYOPATHY, MYOFIBRILLAR, 3	9499
+C3714976	ACTIVATED PI3K-DELTA SYNDROME	5295	5728	5293
+C3715049	CEROID LIPOFUSCINOSIS, NEURONAL, 13	8722
+C3715082	EPIDERMOLYSIS BULLOSA SIMPLEX, AUTOSOMAL RECESSIVE 1	3861
+C3715128	HYPOCALCEMIA, AUTOSOMAL DOMINANT 1	2767	846
+C3715192	ANDIBULAR HYPOPLASIA, DEAFNESS, PROGEROID FEATURES, AND LIPODYSTROPHY SYNDROME	5424
+C3806275	DEAFNESS AND MYOPIA	84189
+C3806634	DEAFNESS, DYSTONIA, AND CEREBRAL HYPOMYELINATION	10134
+C3806688	Solute carrier family 35 member A2 congenital disorder of glycosylation	7355
+C3806702	CHARCOT-MARIE-TOOTH DISEASE, X-LINKED DOMINANT, 6	5165
+C3806722	PARKINSONISM WITH SPASTICITY, X-LINKED	10159
+C3806730	MENTAL RETARDATION, X-LINKED 98	340533
+C3807295	CEREBELLAR ATAXIA, DEAFNESS, AND NARCOLEPSY, AUTOSOMAL DOMINANT	1786
+C3807873	FOVEAL HYPOPLASIA 2	146167
+C3808397	CORTICAL DYSPLASIA, COMPLEX, WITH OTHER BRAIN MALFORMATIONS 1	10381
+C3808553	Bone marrow failure syndrome 1	6731
+C3808589	IMMUNODEFICIENCY 32A	3394
+C3808667	EPISODIC PAIN SYNDROME, FAMILIAL, 1	8989
+C3808786	ALBINISM, OCULOCUTANEOUS, TYPE VII	83938
+C3808876	PALMOPLANTAR CARCINOMA, MULTIPLE SELF-HEALING	22861
+C3808920	ANEMIA, HYPOCHROMIC MICROCYTIC, WITH IRON OVERLOAD 2	55240
+C3808940	LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 5	63924
+C3808991	NGLY1 deficiency	55768
+C3809008	HYPOMYELINATION WITH BRAINSTEM AND SPINAL CORD INVOLVEMENT AND LEG SPASTICITY	1615
+C3809031	NEUTROPENIA, SEVERE CONGENITAL, 5, AUTOSOMAL RECESSIVE	11311	64145
+C3809039	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 36	113179
+C3809160	Hypohidrosis, enamel hypoplasia, palmoplantar keratoderma, intellectual disability syndrome	57511
+C3809165	MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 3	200205
+C3809210	EHLERS-DANLOS SYNDROME, SPONDYLODYSPLASTIC TYPE, 2	126792
+C3809250	ESTROGEN RESISTANCE	2099
+C3809272	LETHAL CONGENITAL CONTRACTURE SYNDROME 5	1785
+C3809309	CHARCOT-MARIE-TOOTH DISEASE, RECESSIVE INTERMEDIATE C	57449
+C3809327	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 14	6712
+C3809332	T-CELL RECEPTOR-ALPHA/BETA DEFICIENCY	28755
+C3809339	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 16	65080
+C3809356	MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME 3	51604
+C3809383	IMMUNODEFICIENCY 8	11151
+C3809470	EPIDERMOLYSIS BULLOSA SIMPLEX, AUTOSOMAL RECESSIVE 2	667
+C3809522	INFANTILE LIVER FAILURE SYNDROME 1	51520
+C3809526	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 17	60528
+C3809567	MICROCORNEA, MYOPIC CHORIORETINAL ATROPHY, AND TELECANTHUS	170692
+C3809583	IMMUNODEFICIENCY 12	10892
+C3809592	FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome	26235
+C3809609	PRIMARY ALDOSTERONISM, SEIZURES, AND NEUROLOGIC ABNORMALITIES	776
+C3809650	BAINBRIDGE-ROPERS SYNDROME	80816
+C3809651	INFANTILE LIVER FAILURE SYNDROME 2	51594
+C3809655	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2R	23321
+C3809665	SPASTIC PARAPLEGIA 79, AUTOSOMAL RECESSIVE	7345
+C3809672	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 37	288
+C3809686	MENTAL RETARDATION, AUTOSOMAL DOMINANT 21	10664
+C3809719	Severe dermatitis, multiple allergies, metabolic wasting syndrome	1832	1828
+C3809753	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 38	8924
+C3809768	IMMUNODEFICIENCY 13	9094
+C3809781	Cole disease	5167
+C3809853	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 39	80185
+C3809877	Prader-Willi-like syndrome	54551
+C3809882	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE VII	11280
+C3809899	EPISODIC PAIN SYNDROME, FAMILIAL, 3	11280
+C3809910	ARTHROGRYPOSIS, MENTAL RETARDATION, AND SEIZURES	23443
+C3809971	ASPARAGINE SYNTHETASE DEFICIENCY	440
+C3810001	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 18	119559
+C3810053	IMMUNODEFICIENCY 16	7293
+C3810062	Congenital disorder of glycosylation type 1w	3703
+C3810072	Palmoplantar keratoderma Nagashima type	8710
+C3810080	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 40	6873
+C3810090	L-FERRITIN DEFICIENCY	2512
+C3810107	IMMUNODEFICIENCY 17	917
+C3810160	SPASTIC PARAPLEGIA 72, AUTOSOMAL RECESSIVE	51308
+C3810161	SPASTIC PARAPLEGIA 72, AUTOSOMAL DOMINANT	51308
+C3810225	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 41	11133
+C3810230	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 6	80347
+C3810242	LEUKOENCEPHALOPATHY WITH ATAXIA	1181
+C3810285	MYOPATHY WITH EXTRAPYRAMIDAL SIGNS	10367
+C3810289	SPASTIC PARAPLEGIA 64, AUTOSOMAL RECESSIVE	953
+C3810294	SPASTIC PARAPLEGIA 61, AUTOSOMAL RECESSIVE	23204
+C3810295	SPASTIC PARAPLEGIA 63, AUTOSOMAL RECESSIVE	271
+C3810324	MORBID OBESITY AND SPERMATOGENIC FAILURE	84984
+C3810325	POIKILODERMA, HEREDITARY FIBROSING, WITH TENDON CONTRACTURES, MYOPATHY, AND PULMONARY FIBROSIS	374393
+C3810326	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 15	9711
+C3810342	IMMUNODEFICIENCY 20	2214
+C3810343	SACRAL AGENESIS WITH VERTEBRAL ANOMALIES	6862
+C3810350	Bone marrow failure syndrome 2	375748
+C3810363	Optic atrophy, intellectual disability syndrome	7025
+C3810394	PALMOPLANTAR KERATODERMA, NONEPIDERMOLYTIC, FOCAL OR DIFFUSE	286887
+C3810403	MOYAMOYA DISEASE 6 WITH OR WITHOUT ACHALASIA	2982
+C3810404	CARBONIC ANHYDRASE VA DEFICIENCY, HYPERAMMONEMIA DUE TO	763
+C3810406	MENTAL RETARDATION, AUTOSOMAL DOMINANT 23	55209
+C3887487	Postaxial polydactyly type A	23288	137392	285600	7700	2737
+C3887608	HYDROCEPHALUS, NONSYNDROMIC, AUTOSOMAL RECESSIVE 1	440193
+C3887645	Job Syndrome	6774
+C3887654	POLYARTERITIS NODOSA, CHILDHOOD-ONSET	51816
+C3887892	Aortic Valve Disease 1	1482	4091	4851	140628
+C3887949	Apparent mineralocorticoid excess	3291
+C3888026	HERMANSKY-PUDLAK SYNDROME 8	388552
+C3888031	SPINOCEREBELLAR ATAXIA 35	343641
+C3888081	L-2-hydroxyglutaric acidemia	79944
+C3888099	Autosomal dominant vitreoretinochoroidopathy	7439
+C3888102	Frontotemporal Dementia With Motor Neuron Disease	400916	203228	29110	8878	7415	23435
+C3888104	Glomerulopathy with fibronectin deposits	2335
+C3888131	INCREASED RESPONSIVENESS TO GROWTH HORMONE	2690
+C3888198	BESTROPHINOPATHY, AUTOSOMAL RECESSIVE	7439
+C3888208	SPASTIC PARAPLEGIA 41, AUTOSOMAL DOMINANT	100359402
+C3888209	SPASTIC PARAPLEGIA 45, AUTOSOMAL RECESSIVE	22978
+C3888924	Glycogen storage disease due to acid maltase deficiency, infantile onset	2548
+C3888925	Pompe's disease adult onset	2548
+C3889636	SPINOCEREBELLAR ATAXIA 37	103753527	1600
+C3896578	Familial Colorectal Cancer Type X	64218	6224
+C3900122	Acid-Labile Subunit Deficiency	3483
+C4011788	Behavioral variant of frontotemporal dementia	8878	5663
+C4012395	Congenital disorder of glycosylation type 1y	6748
+C4013360	GIANT AXONAL NEUROPATHY 2, AUTOSOMAL DOMINANT	50717
+C4013648	POLYMICROGYRIA, BILATERAL TEMPOROOCCIPITAL	9896
+C4013764	MENTAL RETARDATION WITH LANGUAGE IMPAIRMENT AND WITH OR WITHOUT AUTISTIC FEATURES	27086
+C4013948	IMMUNODEFICIENCY 29	3593
+C4013949	IMMUNODEFICIENCY 30	3594
+C4013950	IMMUNODEFICIENCY 31A	6772
+C4014233	IMMUNODEFICIENCY 22	3932
+C4014239	MICROCEPHALY, PROGRESSIVE, WITH SEIZURES AND CEREBRAL AND CEREBELLAR ATROPHY	5859
+C4014258	IMMUNODEFICIENCY, COMMON VARIABLE, 11	59067
+C4014261	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 16	10273
+C4014291	OOCYTE MATURATION DEFECT 1	7784	22917	7783
+C4014347	PONTOCEREBELLAR HYPOPLASIA, TYPE 10	10978
+C4014354	PONTOCEREBELLAR HYPOPLASIA, TYPE 9	271
+C4014371	IMMUNODEFICIENCY 23	5238
+C4014419	AHDC1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome	27245
+C4014435	MENTAL RETARDATION, AUTOSOMAL DOMINANT 26	26053
+C4014479	CULLER-JONES SYNDROME	2736
+C4014492	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 23	85440
+C4014516	DIARRHEA 7, PROTEIN-LOSING ENTEROPATHY TYPE	83483	8694
+C4014538	ADNP-related multiple congenital anomalies, intellectual disability, autism spectrum disorder	23394
+C4014540	MICROPHTHALMIA/COLOBOMA AND SKELETAL DYSPLASIA SYNDROME	10586
+C4014545	Tatton Brown Rahman syndrome	1788
+C4014584	BLEEDING DISORDER, PLATELET-TYPE, 18	10235
+C4014617	IMMUNODEFICIENCY 24	1503
+C4014660	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 20	57176
+C4014668	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 21	80222
+C4014676	ATAXIA-TELANGIECTASIA-LIKE DISORDER 2	5111
+C4014690	EPIPHYSEAL CHONDRODYSPLASIA, MIURA TYPE	4882
+C4014700	ENCEPHALOPATHY, PROGRESSIVE, WITH OR WITHOUT LIPODYSTROPHY	26580
+C4014722	STING-ASSOCIATED VASCULOPATHY, INFANTILE-ONSET	340061
+C4014767	HYPERLIPOPROTEINEMIA, TYPE ID	338328
+C4014780	OROFACIODIGITAL SYNDROME XIV	26005
+C4014795	AUTOIMMUNE DISEASE, MULTISYSTEM, INFANTILE-ONSET, 1	6774
+C4014821	Cerebellar ataxia, intellectual disability, oculomotor apraxia, cerebellar cysts syndrome	284217
+C4014833	IMMUNODEFICIENCY 26 WITH OR WITHOUT NEUROLOGIC ABNORMALITIES	5591
+C4014863	IMMUNODEFICIENCY 27B	3459
+C4014869	LIPODYSTROPHY, FAMILIAL PARTIAL, TYPE 6	3991
+C4014942	CATARACTS, GROWTH HORMONE DEFICIENCY, SENSORY NEUROPATHY, SENSORINEURAL HEARING LOSS, AND SKELETAL DYSPLASIA	55699
+C4014954	NEUTROPENIA, SEVERE CONGENITAL, 6, AUTOSOMAL RECESSIVE	84522
+C4014987	Nail and tooth abnormalities, marginal palmoplantar keratoderma, oral hyperpigmentation syndrome	79977
+C4015029	CHARCOT-MARIE-TOOTH DISEASE, RECESSIVE INTERMEDIATE D	1337
+C4015067	AUTOINFLAMMATION WITH INFANTILE ENTEROCOLITIS	58484
+C4015095	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 7	729920
+C4015146	RETINAL DYSTROPHY WITH INNER RETINAL DYSFUNCTION AND GANGLION CELL ABNORMALITIES	9445
+C4015172	SIDEROBLASTIC ANEMIA WITH B-CELL IMMUNODEFICIENCY, PERIODIC FEVERS, AND DEVELOPMENTAL DELAY	51095
+C4015184	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE), TYPE C, 12	84197
+C4015186	MONOCARBOXYLATE TRANSPORTER 1 DEFICIENCY	6566
+C4015202	PALMOPLANTAR KERATODERMA AND WOOLLY HAIR	25959
+C4015214	CTLA4 Haploinsufficiency	1493
+C4015242	RETINAL DYSTROPHY, JUVENILE CATARACTS, AND SHORT STATURE SYNDROME	51109
+C4015261	POLYENDOCRINE-POLYNEUROPATHY SYNDROME	23312
+C4015285	CARDIAC CONDUCTION DISEASE WITH OR WITHOUT DILATED CARDIOMYOPATHY	51086
+C4015293	IMMUNODEFICIENCY 38 WITH BASAL GANGLIA CALCIFICATION	9636
+C4015301	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 17	55280
+C4015323	LEUKODYSTROPHY, HYPOMYELINATING, 9	5917
+C4015344	PEROXISOMAL FATTY ACYL-CoA REDUCTASE 1 DISORDER	84188
+C4015349	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2S	3508
+C4015357	MENTAL RETARDATION, AUTOSOMAL DOMINANT 31	5813
+C4015405	BLEEDING DISORDER, PLATELET-TYPE, 19	5568
+C4015409	OVARIAN DYSGENESIS 4	254394
+C4015420	EPILEPSY, PROGRESSIVE MYOCLONIC 7	3746
+C4015436	ATAXIA, COMBINED CEREBELLAR AND PERIPHERAL, WITH HEARING LOSS AND DIABETES MELLITUS	5611
+C4015447	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 23	84705
+C4015452	POLYGLUCOSAN BODY MYOPATHY 2	2992
+C4015461	RUIJS-AALFS SYNDROME	83932
+C4015474	Chronic atrial and intestinal dysrhythmia	151648
+C4015495	CEREBELLOFACIODENTAL SYNDROME	2972
+C4015505	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 18	2895
+C4015513	MYOPATHY, ISOLATED MITOCHONDRIAL, AUTOSOMAL DOMINANT	400916
+C4015619	EPILEPSY, PROGRESSIVE MYOCLONIC, 8	10715
+C4015624	MYOPATHY, VACUOLAR, WITH CASQ1 AGGREGATES	844
+C4015643	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 24	79731
+C4015701	MECKEL SYNDROME 12	9928
+C4015728	NEUROLOGIC, ENDOCRINE, AND PANCREATIC DISEASE, MULTISYSTEM, INFANTILE-ONSET	51651
+C4015729	PEELING SKIN SYNDROME 3	64377	388698
+C4016054	Neonatal Marfan syndrome	2200
+C4017668	VENTRICULAR FIBRILLATION DURING MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO	6331	1804
+C4048195	Autosomal dominant hypocalcemia	2767	846
+C4049650	Familial Glucocorticoid Deficiency Type 1	4158	10587	56246	23530
+C4053775	Pituitary stalk interruption syndrome	23432	50937	6091	8820	89884
+C4082174	Thyrotropin deficiency, isolated	7252
+C4082304	Oligodontia	2260	7480	7039	128178	1896	8313	5083	80326	4487	4040	3664
+C4084821	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2U	4141
+C4085243	MEND SYNDROME	10682
+C4085248	OSTEOFIBROUS DYSPLASIA, SUSCEPTIBILITY TO	4233
+C4085597	CHOPS SYNDROME	27125
+C4225157	FAMILIAL ADENOMATOUS POLYPOSIS 3	4913
+C4225158	SPINOCEREBELLAR ATAXIA 41	7222
+C4225161	HYPOTONIA, INFANTILE, WITH PSYCHOMOTOR RETARDATION AND CHARACTERISTIC FACIES 3	93627
+C4225162	OSTEOCHONDRODYSPLASIA, COMPLEX LETHAL, SYMOENS-BARNES-GISTELINCK TYPE	202018
+C4225167	SPLIT-FOOT MALFORMATION WITH MESOAXIAL POLYDACTYLY	51776
+C4225170	LEUKODYSTROPHY, HYPOMYELINATING, 13	51501
+C4225171	METABOLIC ENCEPHALOMYOPATHIC CRISES, RECURRENT, WITH RHABDOMYOLYSIS, CARDIAC ARRHYTHMIAS, AND NEURODEGENERATION	128989
+C4225172	CEREBELLAR ATROPHY, VISUAL IMPAIRMENT, AND PSYCHOMOTOR RETARDATION	23065
+C4225173	IMMUNODEFICIENCY, COMMON VARIABLE, 13	10320
+C4225178	Childhood-onset spasticity with hyperglycinemia	51218
+C4225180	EVEN-PLUS SYNDROME	3313
+C4225181	MYOPATHY, SCAPULOHUMEROPERONEAL	58
+C4225189	MICROCEPHALY, CONGENITAL CATARACT, AND PSORIASIFORM DERMATITIS	6307
+C4225190	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIp	147007
+C4225191	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIo	84317
+C4225192	MUSCULAR DYSTROPHY, AUTOSOMAL RECESSIVE, WITH CARDIOMYOPATHY AND TRIANGULAR TONGUE	55679
+C4225193	CORPUS CALLOSUM, AGENESIS OF, WITH FACIAL ANOMALIES AND CEREBELLAR ATAXIA	55691
+C4225196	HYPOTONIA, INFANTILE, WITH PSYCHOMOTOR RETARDATION	51244
+C4225199	CARDIAC ARRHYTHMIA WITH INCREASED SERUM CREATINE KINASE	11149
+C4225205	SPINOCEREBELLAR ATAXIA 42	8913
+C4225206	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 28	115286
+C4225208	MENTAL RETARDATION AND DISTINCTIVE FACIAL FEATURES WITH OR WITHOUT CARDIAC DEFECTS	23389
+C4225215	SPASTIC PARAPLEGIA AND PSYCHOMOTOR RETARDATION WITH OR WITHOUT SEIZURES	57531
+C4225218	AUTOINFLAMMATORY SYNDROME, FAMILIAL, BEHCET-LIKE	7128
+C4225219	IMMUNODEFICIENCY 46	7037
+C4225222	TAKENOUCHI-KOSAKI SYNDROME	998
+C4225229	CLEFT PALATE, PSYCHOMOTOR RETARDATION, AND DISTINCTIVE FACIAL FEATURES	23028
+C4225232	SPONDYLOEPIMETAPHYSEAL DYSPLASIA, FADEN-ALKURAYA TYPE	89970
+C4225233	RETINAL DYSTROPHY AND IRIS COLOBOMA WITH OR WITHOUT CONGENITAL CATARACT	406987
+C4225234	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIn	64116
+C4225236	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 21	57410
+C4225237	RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 5	5830
+C4225239	DESANTO-SHINAWI SYNDROME	51322
+C4225243	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Z	22880
+C4225244	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Y	7415
+C4225246	SURF1-related Charcot-Marie-Tooth disease type 4	6834
+C4225247	LEUKODYSTROPHY, HYPOMYELINATING, 12	55823
+C4225248	SEIZURES, SCOLIOSIS, AND MACROCEPHALY SYNDROME	2132
+C4225250	SPASTIC PARAPLEGIA 75, AUTOSOMAL RECESSIVE	4099
+C4225251	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 27	79587
+C4225252	IMMUNODEFICIENCY 45	6773
+C4225253	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2X	80208
+C4225254	SPASTIC TETRAPLEGIA, THIN CORPUS CALLOSUM, AND PROGRESSIVE MICROCEPHALY	6509
+C4225256	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 35	3704
+C4225258	EPILEPSY, PROGRESSIVE MYOCLONIC, 10	56978
+C4225259	SMITH-KINGSMORE SYNDROME	2475
+C4225260	IMMUNODEFICIENCY 44	6773
+C4225261	SEIZURES, CORTICAL BLINDNESS, AND MICROCEPHALY SYNDROME	1729
+C4225265	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2W	3035
+C4225266	IMMUNODEFICIENCY 42	6097
+C4225270	Kosaki overgrowth syndrome	5159
+C4225272	SPASTIC PARAPLEGIA 9B, AUTOSOMAL RECESSIVE	5832
+C4225273	SPONDYLOEPIPHYSEAL DYSPLASIA, STANESCU TYPE	1280
+C4225274	AU-KLINE SYNDROME	3190
+C4225276	EPILEPSY, HEARING LOSS, AND MENTAL RETARDATION SYNDROME	166378
+C4225285	KLIPPEL-FEIL SYNDROME 4, AUTOSOMAL RECESSIVE, WITH NEMALINE MYOPATHY AND FACIAL DYSMORPHISM	84700
+C4225289	EPILEPSY, PROGRESSIVE MYOCLONIC, 9	84823
+C4225290	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 26	57570
+C4225306	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2V	4669
+C4225308	NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE VIII	59335
+C4225320	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 50	790
+C4225322	SPASTIC PARAPLEGIA 74, AUTOSOMAL RECESSIVE	200205
+C4225323	BASEL-VANAGAITE-SMIRIN-YOSEF SYNDROME	81857
+C4225328	IMMUNODEFICIENCY 40	1794
+C4225329	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 25	92935
+C4225332	LEUKODYSTROPHY, HYPOMYELINATING, 10	29920
+C4225334	AUTOIMMUNE INTERSTITIAL LUNG, JOINT, AND KIDNEY DISEASE	1314
+C4225336	DYSTONIA 27	1293
+C4225348	MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 4	122961
+C4225349	MANDIBULOFACIAL DYSOSTOSIS WITH ALOPECIA	1909
+C4225351	White Sutton syndrome	23126
+C4225352	MENTAL RETARDATION, AUTOSOMAL DOMINANT 36	5518
+C4225354	MENTAL RETARDATION, AUTOSOMAL DOMINANT 35	5528
+C4225355	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 20	57231
+C4225379	LIPOYLTRANSFERASE 1 DEFICIENCY	51601
+C4225381	PEELING SKIN WITH LEUKONYCHIA, ACRAL PUNCTATE KERATOSES, CHEILITIS, AND KNUCKLE PADS	831
+C4225383	LICHTENSTEIN-KNORR SYNDROME	6548
+C4225387	SPASTIC PARAPLEGIA 73, AUTOSOMAL DOMINANT	126129
+C4225388	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 49	84706
+C4225392	COENZYME Q10 DEFICIENCY, PRIMARY, 7	51117
+C4225393	3-methylglutaconic aciduria type 7	81570
+C4225395	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 48	388662
+C4225396	MENTAL RETARDATION, AUTOSOMAL DOMINANT 32	7994
+C4225397	ATAXIA-OCULOMOTOR APRAXIA 4	11284
+C4225400	INTERSTITIAL LUNG AND LIVER DISEASE	4141
+C4225416	MENTAL RETARDATION, X-LINKED 99, SYNDROMIC, FEMALE-RESTRICTED	8239
+C4225417	MENTAL RETARDATION, X-LINKED, SYNDROMIC 34	4841
+C4225418	MENTAL RETARDATION, X-LINKED, SYNDROMIC 33	6872
+C4225424	OPTIC DISC ANOMALIES WITH RETINAL AND/OR MACULAR DYSTROPHY	4990
+C4225431	CHROMOSOME 10p12-p11 DELETION SYNDROME	51322
+C4273131	Branchiootic syndrome	2138	6495
+C4273958	Obesity due to melanocortin 4 receptor deficiency	4160
+C4274077	Autosomal recessive sideroblastic anemia	54977	3313
+C4274078	Hyperinsulinism due to HNF4A deficiency	3172
+C4274080	Autosomal dominant hyperinsulinism due to SUR1 deficiency	6833
+C4274081	Autosomal dominant hyperinsulinism due to Kir6.2 deficiency	3767
+C4274118	Joubert syndrome with ocular defect	56623	54806	95681	153241	54903
+C4274324	Genetic recurrent myoglobinuria	23175	4514	4512
+C4274329	FRAXF syndrome	84548
+C4274761	Autosomal dominant spondylocostal dysostosis	6911
+C4275067	Transthyretin related familial amyloid cardiomyopathy	7276
+C4275075	Atypical Werner syndrome	4000
+C4275180	Familial hypoaldosteronism	1585
+C4284088	MIRAGE SYNDROME	54809
+C4284588	SPASTIC PARAPLEGIA 62, AUTOSOMAL RECESSIVE	10613
+C4284592	SPASTIC PARAPLEGIA, INTELLECTUAL DISABILITY, NYSTAGMUS, AND OBESITY	57498
+C4285893	Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome	5981
+C4296896	Hyperplastic polyposis syndrome	54894
+C4302263	Cryptogenic multifocal ulcerous stenosing enteritis	5321
+C4302548	Dysspondyloenchondromatosis	1280
+C4302669	Autosomal dominant beta2-microglobulinic amyloidosis	567
+C4303082	Hyperinsulinism due to uncoupling protein 2 deficiency	7351
+C4303475	Hyperinsulinism due to HNF1A deficiency	6927
+C4303482	Familial Alzheimer-like prion disease	5621
+C4303761	Familial thrombocytosis	7066	3717	4352
+C4303860	Craniofacial ulnar renal syndrome	78989	10584	5648
+C4304021	Autosomal dominant macrothrombocytopenia	3674	3690	2812	8328	7171	87	81027
+C4304022	Attenuated Chédiak-Higashi syndrome	1130
+C4304724	Late-onset junctional epidermolysis bullosa	1308
+C4304725	Leber plus disease	4537	4538	4541
+C4304832	Primary pigmented nodular adrenocortical disease	5573	50940	8622
+C4305134	Fried syndrome	8905
+C4305324	Acral self-healing collodion baby	7051
+C4310232	Hypercalcemia, Infantile, 1	6569	1591
+C4310614	OTULIN-related autoinflammatory syndrome	90268
+C4310622	ANTERIOR SEGMENT DYSGENESIS 8	27151
+C4310627	MUCOPOLYSACCHARIDOSIS-PLUS SYNDROME	65082
+C4310631	EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED, WITH SCARRING AND HAIR LOSS	54800
+C4310634	DYSTONIA, CHILDHOOD-ONSET, WITH OPTIC ATROPHY AND BASAL GANGLIA ABNORMALITIES	51102
+C4310660	MUSCULAR DYSTROPHY, LIMB-GIRDLE, AUTOSOMAL RECESSIVE 21	56983
+C4310661	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 31	4285
+C4310662	SPASTIC PARAPLEGIA 78, AUTOSOMAL RECESSIVE	23400
+C4310667	ENCEPHALOPATHY, PROGRESSIVE, WITH AMYOTROPHY AND OPTIC ATROPHY	6905
+C4310671	ENCEPHALOPATHY, PROGRESSIVE, EARLY-ONSET, WITH BRAIN ATROPHY AND THIN CORPUS CALLOSUM	6904
+C4310674	SPERMATOGENIC FAILURE 16	83449	140732
+C4310675	ENCEPHALOPATHY, PROGRESSIVE, EARLY-ONSET, WITH BRAIN EDEMA AND/OR LEUKOENCEPHALOPATHY	128240
+C4310677	HAREL-YOON SYNDROME	55210
+C4310682	INTELLECTUAL DEVELOPMENTAL DISORDER WITH CARDIAC ARRHYTHMIA	10681
+C4310683	DYSKINESIA, SEIZURES, AND INTELLECTUAL DEVELOPMENTAL DISORDER	10522
+C4310689	SHORT STATURE, BRACHYDACTYLY, INTELLECTUAL DEVELOPMENTAL DISABILITY, AND SEIZURES	54496
+C4310696	Zhu-Tokita-Takenouchi-Kim syndrome	6651
+C4310711	MYOPATHY, MYOFIBRILLAR, 7	339855
+C4310713	MACULAR DYSTROPHY, PATTERNED, 3	7867
+C4310715	THAUVIN-ROBINET-FAIVRE SYNDROME	9158
+C4310719	FAMILIAL ADENOMATOUS POLYPOSIS 4	4437
+C4310720	GROWTH RETARDATION, INTELLECTUAL DEVELOPMENTAL DISORDER, HYPOTONIA, AND HEPATOPATHY	3376
+C4310726	ENCEPHALOPATHY DUE TO DEFECTIVE MITOCHONDRIAL AND PEROXISOMAL FISSION 2	56947
+C4310731	MYOPATHY, AUTOSOMAL RECESSIVE, WITH RIGID SPINE AND DISTAL JOINT CONTRACTURES	26092
+C4310733	PROGRESSIVE EXTERNAL OPHTHALMOPLEGIA WITH MITOCHONDRIAL DNA DELETIONS, AUTOSOMAL RECESSIVE 4	1716
+C4310735	PORTAL HYPERTENSION, NONCIRRHOTIC	1716
+C4310736	MUSCULAR DYSTROPHY, CONGENITAL, DAVIGNON-CHAUVEAU TYPE	9325
+C4310740	MENTAL RETARDATION, AUTOSOMAL DOMINANT 44	7204
+C4310743	STRIATONIGRAL DEGENERATION, CHILDHOOD-ONSET	55697
+C4310745	MENTAL RETARDATION, AUTOSOMAL RECESSIVE 55	83480
+C4310747	CHOLESTASIS, PROGRESSIVE FAMILIAL INTRAHEPATIC, 5	9971
+C4310750	SPASTIC PARAPLEGIA 77, AUTOSOMAL RECESSIVE	10667
+C4310751	SHORT STATURE, DEVELOPMENTAL DELAY, AND CONGENITAL HEART DEFECTS	7086
+C4310754	MYOPATHY, DISTAL, 5	122622
+C4310760	LETHAL CONGENITAL CONTRACTURE SYNDROME 10	91754
+C4310764	NEUTROPENIA, SEVERE CONGENITAL, 7, AUTOSOMAL RECESSIVE	1441
+C4310765	Hypermanganesemia with dystonia 2	23516
+C4310773	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 30	54931
+C4310778	YOU-HOOVER-FONG SYNDROME	9894
+C4310780	SPINOCEREBELLAR ATAXIA, AUTOSOMAL RECESSIVE 23	51567
+C4310789	THROMBOCYTOPENIA 6	6714
+C4310791	STRIATAL DEGENERATION, AUTOSOMAL DOMINANT 2	10846
+C4310792	DYSKINESIA, LIMB AND OROFACIAL, INFANTILE-ONSET	10846
+C4310796	MARFAN LIPODYSTROPHY SYNDROME	2200
+C4310797	BLEEDING DISORDER, PLATELET-TYPE, 20	342618
+C4310800	SPASTIC PARAPLEGIA 76, AUTOSOMAL RECESSIVE	823
+C4310801	DEVELOPMENTAL DELAY WITH SHORT STATURE, DYSMORPHIC FEATURES, AND SPARSE HAIR	1801
+C4310806	CATARACT 47	387700
+C4310807	BRACHYDACTYLY-SYNDACTYLY-OLIGODACTYLY SYNDROME	3239
+C4310812	IMMUNODEFICIENCY 50	4478
+C4316787	Kenny-Caffey syndrome, type 2	63901
+C4317124	Polynesian Bronchiectasis	83861	2302	388389	115399	79925	54768	89765	54919	345643	56683	6674	85016	161582	25981	51364	1770	200373	374407	92749	8481	246176	83538	27148	93233	352909	55130	85478	10309	115948	23639	6103	2622	139212
+C4317151	Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome	54345
+C4317224	Congenital disorder of glycosylation type 1q	79644
+C4319565	Microcephalic osteodysplastic primordial dwarfism types I and III	100151683
+C4479260	AVASCULAR NECROSIS OF FEMORAL HEAD, PRIMARY, 2	59341	1280
+C4479270	HYPERPHENYLALANINEMIA, MILD, NON-BH4-DEFICIENT	56521
+C4479333	NEURODEVELOPMENTAL DISORDER WITH EPILEPSY, CATARACTS, FEEDING DIFFICULTIES, AND DELAYED BRAIN MYELINATION	112939
+C4479353	CONGENITAL DISORDER OF GLYCOSYLATION, TYPE IIq	22796
+C4479376	PSEUDO-TORCH SYNDROME 2	11274
+C4479387	CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IIC	529	23545	523
+C4479409	CUTIS LAXA, AUTOSOMAL RECESSIVE, TYPE IID	529	23545	523
+C4479520	INTELLECTUAL DEVELOPMENTAL DISORDER WITH DYSMORPHIC FACIES, SEIZURES, AND DISTAL LIMB ANOMALIES	51633
+C4479548	SPECIFIC GRANULE DEFICIENCY 2	6603	1053
+C4479566	NEURODEVELOPMENTAL DISORDER WITH MICROCEPHALY, HYPOTONIA, AND VARIABLE BRAIN ANOMALIES	58497
+C4479588	IMMUNODEFICIENCY 52	27040
+C4479631	NEURODEVELOPMENTAL DISORDER WITH PROGRESSIVE MICROCEPHALY, SPASTICITY, AND BRAIN ANOMALIES	9373
+C4479652	GABRIELE-DE VRIES SYNDROME	7528
+C4479653	SPASTIC ATAXIA 8, AUTOSOMAL RECESSIVE, WITH HYPOMYELINATING LEUKODYSTROPHY	84504
+C4509881	Multifocal pattern dystrophy of retinal pigment epithelium simulating fundus flavimaculatus	5961
+C4509918	Polyvalvular heart disease syndrome	23118
+C4509933	Peripheral neuropathy with sensorineural hearing impairment syndrome	2707
+C4510731	Familial primary hypomagnesemia with normocalciuria and normocalcemia	1950	54805
+C4510744	46,XY partial gonadal dysgenesis	6662	23414	2516	6736	51741	4214	2626
+C4510873	Atypical juvenile parkinsonism	8867	9829	5420
+C4511056	Centripetalis recessive dystrophic epidermolysis bullosa	1294
+C4511136	Congenital central hypothyroidism due to thyrotropin-releasing hormone receptor deficiency	7201
+C4511138	Adult-onset chronic progressive external ophthalmoplegia with mitochondrial myopathy	246243	50484
+C4511230	Bathing suit ichthyosis	7051
+C4511237	Butterfly-shaped pigmentary macular dystrophy	1495	5015	5961
+C4517996	Autosomal recessive limb girdle muscular dystrophy type 2S	60684
+C4518087	Acral dystrophic epidermolysis bullosa	1294
+C4518336	Spinocerebellar ataxia type 40	440193
+C4518337	Spinocerebellar ataxia type 38	60481
+C4518774	Joubert syndrome with Jeune asphyxiating thoracic dystrophy	79848	9786
+C4520892	Otospondylomegaepiphyseal dysplasia	1302
+C4521678	AUDITORY NEUROPATHY AND OPTIC ATROPHY	2232
+C4539828	BIRK-LANDAU-PEREZ SYNDROME	10463
+C4539927	SKRABAN-DEARDORFF SYNDROME	80232
+C4539951	MENTAL RETARDATION, AUTOSOMAL DOMINANT 47	10274
+C4540004	VERTEBRAL, CARDIAC, RENAL, AND LIMB DEFECTS SYNDROME 1	8942	23498
+C4540014	VERTEBRAL, CARDIAC, RENAL, AND LIMB DEFECTS SYNDROME 2	8942	23498
+C4540020	JOINT LAXITY, SHORT STATURE, AND MYOPIA	64412
+C4540059	ENCEPHALOPATHY, PROGRESSIVE, EARLY-ONSET, WITH BRAIN ATROPHY AND SPASTICITY	51112
+C4540086	NEURODEGENERATION, CHILDHOOD-ONSET, WITH BRAIN ATROPHY	7343
+C4540096	MYOPATHY, MITOCHONDRIAL, AND ATAXIA	55154
+C4540131	PILAROWSKI-BJORNSSON SYNDROME	1105
+C4540171	3-METHYLGLUTACONIC ACIDURIA, TYPE IX	92609
+C4540205	OOCYTE MATURATION DEFECT 3	7784	22917	7783
+C4540321	MENTAL RETARDATION, AUTOSOMAL DOMINANT 48	5879
+C4540358	LEUKODYSTROPHY, PROGRESSIVE, EARLY CHILDHOOD-ONSET	55331
+C4540367	SHORT STATURE, HEARING LOSS, RETINITIS PIGMENTOSA, AND DISTINCTIVE FACIES	23404
+C4540520	GLYCOSYLPHOSPHATIDYLINOSITOL BIOSYNTHESIS DEFECT 15	8733
+C4540559	NEPHROTIC SYNDROME, TYPE 14	8879
+C4551501	AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 1	133396	9180
+C4551503	FANCONI RENOTUBULAR SYNDROME 1	6569	1962
+C4551511	X-linked sideroblastic anemia	212
+C4551550	EPILEPSY, HOT WATER, 1	6505
+C4551556	SPECIFIC GRANULE DEFICIENCY 1	6603	1053
+C4551562	AVASCULAR NECROSIS OF FEMORAL HEAD, PRIMARY, 1	59341	1280
+C4551568	Joubert syndrome 1	27077	23247	65250	56623	95681	9786	79600	10464	219844	54806	153241	403	91147	9731	200894	79867	79848	80210	54903	65062
+C4551679	HYPERTROPHIC OSTEOARTHROPATHY, PRIMARY, AUTOSOMAL RECESSIVE, 1	6578	3248
+C4551720	Primary Ciliary Dyskinesia	83861	2302	388389	115399	79925	54768	89765	54919	345643	56683	6674	85016	161582	25981	51364	1770	200373	374407	92749	8481	246176	83538	27148	93233	352909	55130	85478	10309	115948	23639	6103	2622	139212
+C4551774	FEINGOLD SYNDROME 1	4613
+C4551898	Cholestasis, progressive familial intrahepatic 1	4645
+C4551899	Cholestasis, benign recurrent intrahepatic 1	5205
+C4551906	Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus	83861	2302	388389	115399	79925	54768	89765	54919	345643	56683	6674	85016	161582	25981	51364	1770	200373	374407	92749	8481	246176	83538	27148	93233	352909	55130	85478	10309	115948	23639	6103	2622	139212
+C4551961	Familial Isolated Hyperparathyroidism	4221	79577	9247
+C4551967	B-CELL EXPANSION WITH NFKB AND T-CELL ANERGY	84433
+C4551977	Microphthalmos, Autosomal Recessive	6657	30062	338917	5015	9573	220
+C4551992	ANTERIOR SEGMENT DYSGENESIS 1	2301
+C4552043	Cortical dysplasia with focal epilepsy syndrome	26047
+C4552072	X-linked infantile spasms	170302
+C4552089	HYPOCALCEMIA, AUTOSOMAL DOMINANT 1, WITH BARTTER SYNDROME	2767	846
+C4554421	AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 3	10457
+C4554601	Amyloidosis cutis dyschromia	10457
+C4692564	TUMORAL CALCINOSIS, HYPERPHOSPHATEMIC, FAMILIAL, 1	8074	2591	9365
+C4693356	IMMUNODEFICIENCY 55	9837
+C4693450	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 34	51081
+C4693870	EHLERS-DANLOS SYNDROME, CLASSIC-LIKE, 2	165
+C4693974	METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA, cblC TYPE, DIGENIC	25974
+C4706390	Congenital myopathy with myasthenic-like onset	6261
+C4706412	Autosomal recessive cerebellar ataxia with late-onset spasticity	57704
+C4706413	Progressive myoclonic epilepsy with dystonia	57465
+C4706552	Familial vesicoureteral reflux	64321	7148	6092
+C4706574	KLHL9-related early-onset distal myopathy	55958
+C4706677	Male infertility with teratozoospermia due to single gene mutation	340719
+C4706941	Familial isolated trichomegaly	2250
+C4707155	Autosomal recessive myogenic arthrogryposis multiplex congenita	23345
+C4707173	Autosomal dominant Charcot-Marie-Tooth disease type 2 due to KIF5A mutation	3798
+C4707228	Inherited acute myeloid leukemia	2624	1050	375748	343641
+C4707237	Striate palmoplantar keratoderma	1832	3848	1828
+C4707238	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	1583
+C4707243	Familial thoracic aortic aneurysm and aortic dissection	2301	4089	7042	5592	8076	4015	7043
+C4707825	X-linked cleft palate and ankyloglossia	50945
+C4707829	Autosomal recessive spastic paraplegia type 67	80055
+C4707849	X-linked non progressive cerebellar ataxia	492
+C4707866	Familial lambdoid synostosis	2077
+C4707880	Genetic hyperferritinemia without iron overload	2512
+C4707897	Severe early-onset axonal neuropathy due to mitofusin 2 deficiency	9927
+C4708599	Coloboma of choroid and retina	6297	71	7855	5080	10058
+C4721549	Autosomal dominant neovascular inflammatory vitreoretinopathy	726
+C4721845	Marfan Syndrome, Type I	2200
+C4721916	HMSN Type V	9927
+C4722305	HYPER-IgE RECURRENT INFECTION SYNDROME 2, AUTOSOMAL RECESSIVE	81704
+C4722480	PLCG2-associated antibody deficiency and immune dysregulation	5336
+C4746975	DEAFNESS, X-LINKED 7	114928
+C4747658	SHORT-RIB THORACIC DYSPLASIA 7/20 WITH POLYDACTYLY, DIGENIC	57539
+C4747715	SPINAL MUSCULAR ATROPHY, LOWER EXTREMITY-PREDOMINANT, 2A, CHILDHOOD ONSET, AUTOSOMAL DOMINANT	23299
+C4747743	IMMUNODEFICIENCY 15B	3551
+C4747922	PELGER-HUET ANOMALY WITH MILD SKELETAL ANOMALIES	3930
+C4747974	CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2DD	476
+C4747991	PARKINSONISM-DYSTONIA, INFANTILE, 2	6571
+C4748093	PEELING SKIN SYNDROME 6	64377	388698
+C4748234	SPERMATOGENIC FAILURE 31	83449	140732
+C4748304	IMMUNODEFICIENCY 58	146206
+C4748435	ISOLATED GROWTH HORMONE DEFICIENCY, TYPE V	55599	2688
+C4748579	DIARRHEA 10, PROTEIN-LOSING ENTEROPATHY TYPE	83483	8694
+C4748715	BAKER-GORDON SYNDROME	6857
+C4748863	LYMPHOPROLIFERATIVE SYNDROME 3	970
+C4748940	CHARCOT-MARIE-TOOTH DISEASE, DEMYELINATING, TYPE 1G	5375
+C4749042	EPIDERMODYSPLASIA VERRUCIFORMIS, SUSCEPTIBILITY TO, 4	399
+C4749273	Benign familial mesial temporal lobe epilepsy	57094
+C4749281	Early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation	2903
+C4749351	Genetic transient congenital hypothyroidism	50506
+C4749431	Autosomal recessive spastic paraplegia type 70	4141
+C4749434	Spinal muscular atrophy with respiratory distress type 2	81887
+C4749502	Benign Samaritan congenital myopathy	6261
+C4749506	Adult-onset distal myopathy due to valosin containing protein mutation	7415
+C4749653	Distal hereditary motor neuropathy type 7	1639	60482
+C4749824	Charcot-Marie-Tooth disease type 2B5	4747
+C4749915	Developmental and speech delay due to SOX5 deficiency	6660
+C4749942	Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation	4567
+C4750849	XYLT1-CDG - xylosyltransferase 1 congenital disorder of glycosylation	64131
+C4750853	Infantile-onset mesial temporal lobe epilepsy with severe cognitive regression	10188
+C4750855	Severe neonatal lactic acidosis due to NFS1-ISD11 complex deficiency	57128	9054
+C4750857	Autosomal recessive spastic paraplegia type 59	9101
+C4750858	LMNA-related cardiocutaneous progeria syndrome	4000
+C4751120	Neonatal inflammatory skin and bowel disease	1956	6868
+C4751204	Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency	1581
+C4751434	Isolated asymptomatic elevation of creatine phosphokinase	859
+C4751505	PRKAR1B-related neurodegenerative dementia with intermediate filaments	5575
+C4751567	Polyglucosan body myopathy type 1	10616
+C4751570	Ferro-cerebro-cutaneous syndrome	5277
+C4751572	Periodic paralysis with transient compartment-like syndrome	779
+C4751573	Periodic paralysis with later-onset distal motor neuropathy	4508	4509
+C4751597	Fatal post-viral neurodegenerative disorder	5551
+C4755252	Autosomal recessive cerebral atrophy	56649
+C4755257	Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain	4359
+C4755264	Severe intellectual disability and progressive spastic paraplegia	23431	11154	9179	10717
+C4755278	FASTKD2-related infantile mitochondrial encephalomyopathy	22868
+C4755299	MT-ATP6-related mitochondrial spastic paraplegia	4508
+C4755302	Focal palmoplantar keratoderma with joint keratoses	1828
+C4755309	Diffuse palmoplantar keratoderma with painful fissures	1828
+C4757950	Isolated ATP synthase deficiency	498	4508	4509	513	514	91647

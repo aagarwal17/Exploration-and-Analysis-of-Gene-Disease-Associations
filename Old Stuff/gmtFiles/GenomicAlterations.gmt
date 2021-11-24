@@ -1,0 +1,103 @@
+C0005426	Biliary Tract Neoplasm	2064
+C0005684	Malignant neoplasm of urinary bladder	5925	4194	7403	2176	7248	472
+C0005695	Bladder Neoplasm	5925	4194	7403	2176	7248	472
+C0006142	Malignant neoplasm of breast	5925	208	5728	672	2248	2260	5170	2064	8821	6416	675	2099	2249
+C0006413	Burkitt Lymphoma	4609
+C0006826	Malignant Neoplasms	29126	6790	1021	8314	894	896	545	4193	2042	7403	1029	898	6794	5728	595	2064	29072	1030	208	1019	1031	1026	1027
+C0007103	Malignant neoplasm of endometrium	5728	1956	8312	4436	4292
+C0007112	Adenocarcinoma of prostate	4609	5728	367	6790	8312	11200
+C0007131	Non-Small Cell Lung Carcinoma	6657	2064	1956	7080	4233	6794
+C0014859	Esophageal Neoplasms	6657
+C0017638	Glioma	5728	4193	1956	1031	4763	1029	1030	324	472
+C0018671	Head and Neck Neoplasms	2064	2260
+C0019829	Hodgkin Disease	29126	7128	5966	1017
+C0022665	Kidney Neoplasm	4771	8314	7428
+C0023418	leukemia	2175	472	4763	2176	2177
+C0023434	Chronic Lymphocytic Leukemia	4609	6850
+C0023467	Leukemia, Myelocytic, Acute	2175	2176	2177
+C0023827	liposarcoma	10818	1019	1021
+C0024121	Lung Neoplasms	5728	2067	894	253260	675
+C0024299	Lymphoma	1019	596	1021	7128	472
+C0024623	Malignant neoplasm of stomach	2064	4233	2263	472
+C0025149	Medulloblastoma	8312	51684	472	7403
+C0025202	melanoma	4286	595	5058	4763	8314	1029
+C0025286	Meningioma	4771
+C0025500	Mesothelioma	8314
+C0026764	Multiple Myeloma	4609	1031	7403
+C0027708	Nephroblastoma	7490
+C0027809	Neurilemmoma	4771
+C0027819	Neuroblastoma	4609	4613
+C0029925	Ovarian Carcinoma	545	208	5728	672	6794	2064	4436	675	898	2099	4292
+C0030297	Pancreatic Neoplasm	208	4089	6416	1029	675	324	6794
+C0031511	Pheochromocytoma	7428
+C0032000	Pituitary Adenoma	4221
+C0035335	Retinoblastoma	4194	5925
+C0038356	Stomach Neoplasms	2064	4233	2263	472
+C0039590	Testicular Neoplasms	6794
+C0079218	Fibromatosis, Aggressive	324
+C0079731	B-Cell Lymphomas	7128	7157
+C0079744	Diffuse Large B-Cell Lymphoma	29126	639	3717	10320	1017
+C0085136	Central Nervous System Neoplasms	324	4292
+C0149782	Squamous cell carcinoma of lung	2260
+C0149925	Small cell carcinoma of lung	5925
+C0151779	Cutaneous Melanoma	4286	595	5058	4763	8314	1029
+C0152013	Adenocarcinoma of lung (disorder)	6794
+C0153594	Malignant neoplasm of testis	6794
+C0153943	Benign neoplasm of stomach	2064	4233	2263	472
+C0154007	Benign neoplasm of testis	6794
+C0154017	Benign neoplasm of bladder	5925	4194	7403	2176	7248	472
+C0154060	Carcinoma in situ of stomach	2064	4233	2263	472
+C0154091	Carcinoma in situ of bladder	5925	4194	7403	2176	7248	472
+C0162678	Neurofibromatoses	4763
+C0205969	Thymic Carcinoma	7157
+C0206624	Hepatoblastoma	324	8312
+C0206743	Rhabdoid Tumor	6598
+C0235974	Pancreatic carcinoma	208	4089	6416	1029	675	324	6794
+C0242363	Islet Cell Tumor	4221
+C0242379	Malignant neoplasm of lung	5728	2067	894	253260	675
+C0262587	Parathyroid Adenoma	4221
+C0278622	Adult Malignant Peripheral Nerve Sheath Tumor	4763
+C0278996	Malignant Head and Neck Neoplasm	2064	2260
+C0279626	Squamous cell carcinoma of esophagus	7403
+C0279702	Conventional (Clear Cell) Renal Cell Carcinoma	7249	7248	7403
+C0279987	Childhood Malignant Peripheral Nerve Sheath Tumor	4763
+C0280100	Solid Neoplasm	4221	5728
+C0281508	Desmoplastic Small Round Cell Tumor	7490
+C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	6850
+C0345832	Neoplasm of small intestine	4089
+C0346037	Acral Lentiginous Malignant Melanoma	7015
+C0346191	Carcinoma in situ of endometrium	5728	1956	8312	4436	4292
+C0346647	Malignant neoplasm of pancreas	208	4089	6416	1029	675	324	6794
+C0347284	Benign tumor of pancreas	208	4089	6416	1029	675	324	6794
+C0348374	Malignant Central Nervous System Neoplasm	324	4292
+C0476089	Endometrial Carcinoma	5728	1956	8312	4436	2099	4292
+C0496905	Neoplasm of uncertain or unknown behavior of stomach	2064	4233	2263	472
+C0496920	Neoplasm of uncertain or unknown behavior of ovary	545	208	5728	672	6794	2064	4436	675	898	2099	4292
+C0496924	Neoplasm of uncertain or unknown behavior of testis	6794
+C0496930	Neoplasm of uncertain or unknown behavior of bladder	5925	4194	7403	2176	7248	472
+C0496956	Neoplasm of uncertain or unknown behavior of breast	5925	208	5728	672	2248	2260	5170	2064	8821	6416	675	2099	2249
+C0549473	Thyroid carcinoma	5728
+C0678222	Breast Carcinoma	5925	208	5728	672	2248	2260	5170	2064	8821	6416	675	2099	2249
+C0684249	Carcinoma of lung	5728	2067	894	253260	675
+C0699791	Stomach Carcinoma	2064	4233	2263	472
+C0699885	Carcinoma of bladder	5925	4194	7403	2176	7248	472
+C0740457	Malignant neoplasm of kidney	4771	8314	7428
+C0751690	Malignant Peripheral Nerve Sheath Tumor	4763
+C0858252	Breast adenocarcinoma	5925	208	5728	672	2248	2260	5170	2064	8821	6416	675	2099	2249
+C0919267	ovarian neoplasm	545	208	5728	672	6794	2064	4436	675	898	2099	4292
+C1140680	Malignant neoplasm of ovary	545	208	5728	672	6794	2064	4436	675	898	2099	4292
+C1168401	Squamous cell carcinoma of the head and neck	7249
+C1261473	Sarcoma	4194	4193	3725	5925
+C1300127	Perivascular Epithelioid Cell Neoplasms	4771
+C1319315	Adenocarcinoma of large intestine	4193	55294	2064	4233	1956	8312	4436	4089	6416	324	4292
+C1328479	Pancreatic Endocrine Carcinoma	4221
+C1332201	Adult Diffuse Large B-Cell Lymphoma	29126	1017	3717
+C1378703	Renal carcinoma	4771	8314	7428
+C1621958	Glioblastoma Multiforme	4194	7015
+C1961099	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	7403
+C1961102	Precursor Cell Lymphoblastic Leukemia Lymphoma	10320
+C2239176	Liver carcinoma	8312
+C2363142	T-Cell Prolymphocytic Leukemia	472
+C3463824	MYELODYSPLASTIC SYNDROME	10019
+C3714644	Thymus Neoplasms	7157
+C3887461	Head and Neck Carcinoma	2064	2260

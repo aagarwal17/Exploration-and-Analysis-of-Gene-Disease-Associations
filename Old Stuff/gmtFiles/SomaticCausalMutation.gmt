@@ -1,0 +1,116 @@
+C0001815	Primary Myelofibrosis	54790	3717	811	4352
+C0002893	Refractory anemias	54790
+C0002894	Refractory anaemia with excess blasts	54790
+C0006413	Burkitt Lymphoma	3492	1029	2322
+C0010276	Craniopharyngioma	1499	673
+C0010481	Cushing Syndrome	9101
+C0013366	Dyschondroplasias	3417	3418
+C0014084	Enchondromatosis	3417	3418
+C0016064	Fibrous Dysplasia, Monostotic	2778
+C0016065	Polyostotic fibrous dysplasia	2778
+C0019621	Histiocytosis, Langerhans-Cell	673
+C0023434	Chronic Lymphocytic Leukemia	472	22806	25913	6209	7157
+C0023443	Hairy Cell Leukemia	673
+C0023481	Chronic Neutrophilic Leukemia	1441
+C0024419	Waldenstrom Macroglobulinemia	4615
+C0024454	Maffucci Syndrome	3417	3418
+C0024790	Paroxysmal nocturnal hemoglobinuria	5277
+C0025286	Meningioma	4771
+C0026948	Mycosis Fungoides	7133
+C0026987	Myelofibrosis	54790	3717	811	4352
+C0026998	Acute Myeloid Leukemia, M1	4869	2322
+C0027708	Nephroblastoma	10155	7490
+C0027819	Neuroblastoma	238
+C0029463	Osteosarcoma	7157
+C0032463	Polycythemia Vera	54790	3717	4352
+C0036631	Seminoma	3815
+C0036920	Sezary Syndrome	7133
+C0038505	Sturge-Weber Syndrome	2776
+C0040028	Thrombocythemia, Essential	3717	811	10019	4352
+C0079218	Fibromatosis, Aggressive	324	1499
+C0085261	Proteus Syndrome	207
+C0149925	Small cell carcinoma of lung	5925	7157	7161
+C0153392	Malignant neoplasm of nasopharynx	4792
+C0206698	Cholangiocarcinoma	5774
+C0206711	Pilomatrixoma	1499
+C0206726	gliosarcoma	8216
+C0220633	Uveal melanoma	2767	8314	2776	57105
+C0221406	Pituitary-dependent Cushing's disease	9101
+C0235752	Port-Wine Stain	2776
+C0238198	Gastrointestinal Stromal Tumors	5156	3815
+C0238301	Cancer of Nasopharynx	4792
+C0238463	Papillary thyroid carcinoma	2846	673	51079	4893	3845	750	3265	1964
+C0242292	McCune-Albright Syndrome	2778
+C0263579	Pigmented hairy epidermal nevus	60
+C0265329	Organoid Nevus Phakomatosis	3265	3845
+C0265987	Nevus comedonicus	91754
+C0279606	Childhood Hepatocellular Carcinoma	4233
+C0279607	Adult Hepatocellular Carcinoma	5290	8312	841
+C0280302	Squamous cell carcinoma of lip	5728	3621
+C0280313	Squamous cell carcinoma of oropharynx	5728	3621
+C0280321	Squamous cell carcinoma of the hypopharynx	5728	3621
+C0280324	Laryngeal Squamous Cell Carcinoma	5728	3621
+C0334401	Malignant Granulosa Cell Tumor	668
+C0334488	Clear cell sarcoma of kidney	54880
+C0334588	Giant Cell Glioblastoma	8216
+C0334660	Angioendotheliomatosis	604
+C0343114	Woolly hair nevus	3265
+C0346072	Blue rubber bleb nevus syndrome	7010
+C0346073	Tufted angioma of skin	9630
+C0346373	Malignant melanoma of iris	2767	8314	2776	57105
+C0346388	Malignant melanoma of choroid	2767	8314	2776	57105
+C0349639	Juvenile Myelomonocytic Leukemia	5781	4893	4763	3845
+C0406612	Encephalocraniocutaneous lipomatosis	2260
+C0431391	Hemimegalencephaly	5290	10000
+C0473579	Porokeratotic eccrine ostial and dermal duct nevus	2706
+C0522631	Acute myeloid leukemia, minimal differentiation	2322
+C0555202	Malignant lymphoma - lymphocytic, intermediate differentiation	3492	595	472
+C0585216	Alpha-Thalassemia Myelodysplasia Syndrome	546
+C0585362	Squamous cell carcinoma of mouth	5728	3621
+C0687150	Parathyroid Gland Adenocarcinoma	79577
+C0740277	Bile duct carcinoma	5774
+C0751674	Lymphangioleiomyomatosis	7249	7248
+C0795915	Winter Shortland Temple syndrome	6608
+C0855095	Small Lymphocytic Lymphoma	472	22806	25913	6209	7157
+C1264195	Refractory anemia with ringed sideroblasts	54790	23451
+C1266184	Atypical Teratoid Rhabdoid Tumor	6598
+C1292754	Mediastinal (Thymic) Large B-Cell Lymphoma	604
+C1292769	Precursor B-cell lymphoblastic leukemia	3492	1029	2322
+C1292772	Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative	1441
+C1292773	Acute myeloid leukemia with multilineage dysplasia	54790
+C1301365	Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease	54790	171023	3815	6427
+C1306837	Papillary Renal Cell Carcinoma	4233
+C1318558	Congenital melanocytic nevus	4893
+C1328840	Autoimmune Lymphoproliferative Syndrome	355
+C1332079	Anaplastic Large Cell Lymphoma, ALK-Positive	238
+C1367420	Kaposiform Hemangioendothelioma	9630
+C1519086	Pilomyxoid astrocytoma	2260	673	3845
+C1567257	Granulosa Cell Cancer	668
+C1834582	MYELOPROLIFERATIVE SYNDROME, TRANSIENT	2623
+C1838329	APLASIA CUTIS CONGENITA WITH EPIBULBAR DERMOIDS	3845
+C1842036	GIANT PIGMENTED HAIRY NEVUS	4893
+C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	2778
+C1858042	Becker Nevus Syndrome	60
+C1863924	Megalanecephaly Polymicrogyria-Polydactyly Hydrocephalus Syndrome	5296
+C1865285	Megalencephaly cutis marmorata telangiectatica congenita	5290
+C1868683	B-CELL MALIGNANCY, LOW-GRADE	472	22806	25913	6209	7157
+C1879321	Acute Myeloid Leukemia (AML-M2)	4869	3815	2322
+C1955861	T-Cell Large Granular Lymphocyte Leukemia	6774
+C1961099	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	4849	2322	1029
+C2674723	RAS-ASSOCIATED AUTOIMMUNE LEUKOPROLIFERATIVE DISORDER	4893	3845
+C2752042	Congenital Lipomatous Overgrowth, Vascular Malformations, and Epidermal Nevi	5290
+C2826025	Mixed phenotype acute leukemia	2322
+C2930809	Neutropenia and hyperlymphocytosis with large granular lymphocytes	6774
+C2931029	Nevi flammei, familial multiple	2776
+C2931189	Neural crest tumor	238
+C2931658	Phacomatosis pigmentokeratotica	3265
+C2931822	Nasopharyngeal carcinoma	4792
+C3179349	Gastrointestinal Stromal Sarcoma	5156	3815
+C3553958	METAPHYSEAL ENCHONDROMATOSIS WITH D-2-HYDROXYGLUTARIC ACIDURIA	3417
+C3838883	Phakomatosis cesioflammea	2767	2776
+C3839296	Phakomatosis cesiomarmorata	2767
+C3854181	Nevus sebaceous	3265	3845
+C3897042	Smoldering Systemic Mastocytosis	3815
+C4509020	Isolated bone marrow mastocytosis	3815
+C4707178	Acute myeloid leukemia with CEBPA somatic mutations	1050
+C4748924	GLOBAL DEVELOPMENTAL DELAY, LUNG CYSTS, OVERGROWTH, AND WILMS TUMOR	23405
